@@ -179,6 +179,7 @@ Or validate during generation:
 
 - [architecture.md](architecture.md)
 - [dal_changes.md](dal_changes.md)
+- [TOOLS.md](TOOLS.md)
 - [repository_guide.md](repository_guide.md)
 - [data_model.md](data_model.md)
 - [schema.md](schema.md)
