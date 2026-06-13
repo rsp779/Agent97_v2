@@ -1,0 +1,642 @@
+[
+  {
+    "confidence_score": 0.8841,
+    "fraud_case_id": "case_00000001",
+    "mule_network_id": "mule_00000001",
+    "network_size": 2,
+    "source_customer_id": "cus_00000001",
+    "target_customer_id": "cus_00000008"
+  },
+  {
+    "confidence_score": 0.5389,
+    "fraud_case_id": "case_00000002",
+    "mule_network_id": "mule_00000002",
+    "network_size": 11,
+    "source_customer_id": "cus_00000002",
+    "target_customer_id": "cus_00000009"
+  },
+  {
+    "confidence_score": 0.7392,
+    "fraud_case_id": "case_00000003",
+    "mule_network_id": "mule_00000003",
+    "network_size": 12,
+    "source_customer_id": "cus_00000003",
+    "target_customer_id": "cus_00000010"
+  },
+  {
+    "confidence_score": 0.937,
+    "fraud_case_id": "case_00000004",
+    "mule_network_id": "mule_00000004",
+    "network_size": 6,
+    "source_customer_id": "cus_00000004",
+    "target_customer_id": "cus_00000011"
+  },
+  {
+    "confidence_score": 0.5965,
+    "fraud_case_id": "case_00000005",
+    "mule_network_id": "mule_00000005",
+    "network_size": 6,
+    "source_customer_id": "cus_00000005",
+    "target_customer_id": "cus_00000012"
+  },
+  {
+    "confidence_score": 0.7145,
+    "fraud_case_id": "case_00000006",
+    "mule_network_id": "mule_00000006",
+    "network_size": 10,
+    "source_customer_id": "cus_00000006",
+    "target_customer_id": "cus_00000013"
+  },
+  {
+    "confidence_score": 0.8568,
+    "fraud_case_id": "case_00000007",
+    "mule_network_id": "mule_00000007",
+    "network_size": 12,
+    "source_customer_id": "cus_00000007",
+    "target_customer_id": "cus_00000014"
+  },
+  {
+    "confidence_score": 0.6168,
+    "fraud_case_id": "case_00000008",
+    "mule_network_id": "mule_00000008",
+    "network_size": 8,
+    "source_customer_id": "cus_00000008",
+    "target_customer_id": "cus_00000015"
+  },
+  {
+    "confidence_score": 0.714,
+    "fraud_case_id": "case_00000009",
+    "mule_network_id": "mule_00000009",
+    "network_size": 9,
+    "source_customer_id": "cus_00000009",
+    "target_customer_id": "cus_00000016"
+  },
+  {
+    "confidence_score": 0.9442,
+    "fraud_case_id": "case_00000010",
+    "mule_network_id": "mule_00000010",
+    "network_size": 3,
+    "source_customer_id": "cus_00000010",
+    "target_customer_id": "cus_00000017"
+  },
+  {
+    "confidence_score": 0.8469,
+    "fraud_case_id": "case_00000011",
+    "mule_network_id": "mule_00000011",
+    "network_size": 9,
+    "source_customer_id": "cus_00000011",
+    "target_customer_id": "cus_00000018"
+  },
+  {
+    "confidence_score": 0.9079,
+    "fraud_case_id": "case_00000012",
+    "mule_network_id": "mule_00000012",
+    "network_size": 6,
+    "source_customer_id": "cus_00000012",
+    "target_customer_id": "cus_00000019"
+  },
+  {
+    "confidence_score": 0.6249,
+    "fraud_case_id": "case_00000013",
+    "mule_network_id": "mule_00000013",
+    "network_size": 7,
+    "source_customer_id": "cus_00000013",
+    "target_customer_id": "cus_00000020"
+  },
+  {
+    "confidence_score": 0.9083,
+    "fraud_case_id": "case_00000014",
+    "mule_network_id": "mule_00000014",
+    "network_size": 7,
+    "source_customer_id": "cus_00000014",
+    "target_customer_id": "cus_00000021"
+  },
+  {
+    "confidence_score": 0.7103,
+    "fraud_case_id": "case_00000015",
+    "mule_network_id": "mule_00000015",
+    "network_size": 8,
+    "source_customer_id": "cus_00000015",
+    "target_customer_id": "cus_00000022"
+  },
+  {
+    "confidence_score": 0.5731,
+    "fraud_case_id": "case_00000016",
+    "mule_network_id": "mule_00000016",
+    "network_size": 10,
+    "source_customer_id": "cus_00000016",
+    "target_customer_id": "cus_00000023"
+  },
+  {
+    "confidence_score": 0.855,
+    "fraud_case_id": "case_00000017",
+    "mule_network_id": "mule_00000017",
+    "network_size": 10,
+    "source_customer_id": "cus_00000017",
+    "target_customer_id": "cus_00000024"
+  },
+  {
+    "confidence_score": 0.5329,
+    "fraud_case_id": "case_00000018",
+    "mule_network_id": "mule_00000018",
+    "network_size": 6,
+    "source_customer_id": "cus_00000018",
+    "target_customer_id": "cus_00000025"
+  },
+  {
+    "confidence_score": 0.7396,
+    "fraud_case_id": "case_00000019",
+    "mule_network_id": "mule_00000019",
+    "network_size": 4,
+    "source_customer_id": "cus_00000019",
+    "target_customer_id": "cus_00000026"
+  },
+  {
+    "confidence_score": 0.9324,
+    "fraud_case_id": "case_00000020",
+    "mule_network_id": "mule_00000020",
+    "network_size": 7,
+    "source_customer_id": "cus_00000020",
+    "target_customer_id": "cus_00000027"
+  },
+  {
+    "confidence_score": 0.5311,
+    "fraud_case_id": "case_00000021",
+    "mule_network_id": "mule_00000021",
+    "network_size": 12,
+    "source_customer_id": "cus_00000021",
+    "target_customer_id": "cus_00000028"
+  },
+  {
+    "confidence_score": 0.8556,
+    "fraud_case_id": "case_00000022",
+    "mule_network_id": "mule_00000022",
+    "network_size": 3,
+    "source_customer_id": "cus_00000022",
+    "target_customer_id": "cus_00000029"
+  },
+  {
+    "confidence_score": 0.7465,
+    "fraud_case_id": "case_00000023",
+    "mule_network_id": "mule_00000023",
+    "network_size": 11,
+    "source_customer_id": "cus_00000023",
+    "target_customer_id": "cus_00000030"
+  },
+  {
+    "confidence_score": 0.5848,
+    "fraud_case_id": "case_00000024",
+    "mule_network_id": "mule_00000024",
+    "network_size": 9,
+    "source_customer_id": "cus_00000024",
+    "target_customer_id": "cus_00000031"
+  },
+  {
+    "confidence_score": 0.8473,
+    "fraud_case_id": "case_00000025",
+    "mule_network_id": "mule_00000025",
+    "network_size": 5,
+    "source_customer_id": "cus_00000025",
+    "target_customer_id": "cus_00000032"
+  },
+  {
+    "confidence_score": 0.7803,
+    "fraud_case_id": "case_00000026",
+    "mule_network_id": "mule_00000026",
+    "network_size": 12,
+    "source_customer_id": "cus_00000026",
+    "target_customer_id": "cus_00000033"
+  },
+  {
+    "confidence_score": 0.8102,
+    "fraud_case_id": "case_00000027",
+    "mule_network_id": "mule_00000027",
+    "network_size": 3,
+    "source_customer_id": "cus_00000027",
+    "target_customer_id": "cus_00000034"
+  },
+  {
+    "confidence_score": 0.6004,
+    "fraud_case_id": "case_00000028",
+    "mule_network_id": "mule_00000028",
+    "network_size": 4,
+    "source_customer_id": "cus_00000028",
+    "target_customer_id": "cus_00000035"
+  },
+  {
+    "confidence_score": 0.7824,
+    "fraud_case_id": "case_00000029",
+    "mule_network_id": "mule_00000029",
+    "network_size": 5,
+    "source_customer_id": "cus_00000029",
+    "target_customer_id": "cus_00000036"
+  },
+  {
+    "confidence_score": 0.9089,
+    "fraud_case_id": "case_00000030",
+    "mule_network_id": "mule_00000030",
+    "network_size": 11,
+    "source_customer_id": "cus_00000030",
+    "target_customer_id": "cus_00000037"
+  },
+  {
+    "confidence_score": 0.9396,
+    "fraud_case_id": "case_00000031",
+    "mule_network_id": "mule_00000031",
+    "network_size": 10,
+    "source_customer_id": "cus_00000031",
+    "target_customer_id": "cus_00000038"
+  },
+  {
+    "confidence_score": 0.5601,
+    "fraud_case_id": "case_00000032",
+    "mule_network_id": "mule_00000032",
+    "network_size": 4,
+    "source_customer_id": "cus_00000032",
+    "target_customer_id": "cus_00000039"
+  },
+  {
+    "confidence_score": 0.8849,
+    "fraud_case_id": "case_00000033",
+    "mule_network_id": "mule_00000033",
+    "network_size": 11,
+    "source_customer_id": "cus_00000033",
+    "target_customer_id": "cus_00000040"
+  },
+  {
+    "confidence_score": 0.7259,
+    "fraud_case_id": "case_00000034",
+    "mule_network_id": "mule_00000034",
+    "network_size": 2,
+    "source_customer_id": "cus_00000034",
+    "target_customer_id": "cus_00000041"
+  },
+  {
+    "confidence_score": 0.6037,
+    "fraud_case_id": "case_00000035",
+    "mule_network_id": "mule_00000035",
+    "network_size": 3,
+    "source_customer_id": "cus_00000035",
+    "target_customer_id": "cus_00000042"
+  },
+  {
+    "confidence_score": 0.8243,
+    "fraud_case_id": "case_00000036",
+    "mule_network_id": "mule_00000036",
+    "network_size": 4,
+    "source_customer_id": "cus_00000036",
+    "target_customer_id": "cus_00000043"
+  },
+  {
+    "confidence_score": 0.6418,
+    "fraud_case_id": "case_00000037",
+    "mule_network_id": "mule_00000037",
+    "network_size": 2,
+    "source_customer_id": "cus_00000037",
+    "target_customer_id": "cus_00000044"
+  },
+  {
+    "confidence_score": 0.9646,
+    "fraud_case_id": "case_00000038",
+    "mule_network_id": "mule_00000038",
+    "network_size": 6,
+    "source_customer_id": "cus_00000038",
+    "target_customer_id": "cus_00000045"
+  },
+  {
+    "confidence_score": 0.9523,
+    "fraud_case_id": "case_00000039",
+    "mule_network_id": "mule_00000039",
+    "network_size": 6,
+    "source_customer_id": "cus_00000039",
+    "target_customer_id": "cus_00000046"
+  },
+  {
+    "confidence_score": 0.7058,
+    "fraud_case_id": "case_00000040",
+    "mule_network_id": "mule_00000040",
+    "network_size": 7,
+    "source_customer_id": "cus_00000040",
+    "target_customer_id": "cus_00000047"
+  },
+  {
+    "confidence_score": 0.5348,
+    "fraud_case_id": "case_00000041",
+    "mule_network_id": "mule_00000041",
+    "network_size": 9,
+    "source_customer_id": "cus_00000041",
+    "target_customer_id": "cus_00000048"
+  },
+  {
+    "confidence_score": 0.6303,
+    "fraud_case_id": "case_00000042",
+    "mule_network_id": "mule_00000042",
+    "network_size": 12,
+    "source_customer_id": "cus_00000042",
+    "target_customer_id": "cus_00000049"
+  },
+  {
+    "confidence_score": 0.8185,
+    "fraud_case_id": "case_00000043",
+    "mule_network_id": "mule_00000043",
+    "network_size": 9,
+    "source_customer_id": "cus_00000043",
+    "target_customer_id": "cus_00000050"
+  },
+  {
+    "confidence_score": 0.6914,
+    "fraud_case_id": "case_00000044",
+    "mule_network_id": "mule_00000044",
+    "network_size": 8,
+    "source_customer_id": "cus_00000044",
+    "target_customer_id": "cus_00000051"
+  },
+  {
+    "confidence_score": 0.6547,
+    "fraud_case_id": "case_00000045",
+    "mule_network_id": "mule_00000045",
+    "network_size": 6,
+    "source_customer_id": "cus_00000045",
+    "target_customer_id": "cus_00000052"
+  },
+  {
+    "confidence_score": 0.7887,
+    "fraud_case_id": "case_00000046",
+    "mule_network_id": "mule_00000046",
+    "network_size": 10,
+    "source_customer_id": "cus_00000046",
+    "target_customer_id": "cus_00000053"
+  },
+  {
+    "confidence_score": 0.7826,
+    "fraud_case_id": "case_00000047",
+    "mule_network_id": "mule_00000047",
+    "network_size": 5,
+    "source_customer_id": "cus_00000047",
+    "target_customer_id": "cus_00000054"
+  },
+  {
+    "confidence_score": 0.6969,
+    "fraud_case_id": "case_00000048",
+    "mule_network_id": "mule_00000048",
+    "network_size": 3,
+    "source_customer_id": "cus_00000048",
+    "target_customer_id": "cus_00000055"
+  },
+  {
+    "confidence_score": 0.6816,
+    "fraud_case_id": "case_00000049",
+    "mule_network_id": "mule_00000049",
+    "network_size": 6,
+    "source_customer_id": "cus_00000049",
+    "target_customer_id": "cus_00000056"
+  },
+  {
+    "confidence_score": 0.6963,
+    "fraud_case_id": "case_00000050",
+    "mule_network_id": "mule_00000050",
+    "network_size": 12,
+    "source_customer_id": "cus_00000050",
+    "target_customer_id": "cus_00000057"
+  },
+  {
+    "confidence_score": 0.9636,
+    "fraud_case_id": "case_00000001",
+    "mule_network_id": "mule_00000051",
+    "network_size": 12,
+    "source_customer_id": "cus_00000051",
+    "target_customer_id": "cus_00000058"
+  },
+  {
+    "confidence_score": 0.9568,
+    "fraud_case_id": "case_00000002",
+    "mule_network_id": "mule_00000052",
+    "network_size": 8,
+    "source_customer_id": "cus_00000052",
+    "target_customer_id": "cus_00000059"
+  },
+  {
+    "confidence_score": 0.8526,
+    "fraud_case_id": "case_00000003",
+    "mule_network_id": "mule_00000053",
+    "network_size": 9,
+    "source_customer_id": "cus_00000053",
+    "target_customer_id": "cus_00000060"
+  },
+  {
+    "confidence_score": 0.6964,
+    "fraud_case_id": "case_00000004",
+    "mule_network_id": "mule_00000054",
+    "network_size": 8,
+    "source_customer_id": "cus_00000054",
+    "target_customer_id": "cus_00000061"
+  },
+  {
+    "confidence_score": 0.7355,
+    "fraud_case_id": "case_00000005",
+    "mule_network_id": "mule_00000055",
+    "network_size": 6,
+    "source_customer_id": "cus_00000055",
+    "target_customer_id": "cus_00000062"
+  },
+  {
+    "confidence_score": 0.523,
+    "fraud_case_id": "case_00000006",
+    "mule_network_id": "mule_00000056",
+    "network_size": 8,
+    "source_customer_id": "cus_00000056",
+    "target_customer_id": "cus_00000063"
+  },
+  {
+    "confidence_score": 0.5616,
+    "fraud_case_id": "case_00000007",
+    "mule_network_id": "mule_00000057",
+    "network_size": 7,
+    "source_customer_id": "cus_00000057",
+    "target_customer_id": "cus_00000064"
+  },
+  {
+    "confidence_score": 0.8289,
+    "fraud_case_id": "case_00000008",
+    "mule_network_id": "mule_00000058",
+    "network_size": 10,
+    "source_customer_id": "cus_00000058",
+    "target_customer_id": "cus_00000065"
+  },
+  {
+    "confidence_score": 0.9164,
+    "fraud_case_id": "case_00000009",
+    "mule_network_id": "mule_00000059",
+    "network_size": 7,
+    "source_customer_id": "cus_00000059",
+    "target_customer_id": "cus_00000066"
+  },
+  {
+    "confidence_score": 0.7872,
+    "fraud_case_id": "case_00000010",
+    "mule_network_id": "mule_00000060",
+    "network_size": 4,
+    "source_customer_id": "cus_00000060",
+    "target_customer_id": "cus_00000067"
+  },
+  {
+    "confidence_score": 0.6615,
+    "fraud_case_id": "case_00000011",
+    "mule_network_id": "mule_00000061",
+    "network_size": 6,
+    "source_customer_id": "cus_00000061",
+    "target_customer_id": "cus_00000068"
+  },
+  {
+    "confidence_score": 0.954,
+    "fraud_case_id": "case_00000012",
+    "mule_network_id": "mule_00000062",
+    "network_size": 7,
+    "source_customer_id": "cus_00000062",
+    "target_customer_id": "cus_00000069"
+  },
+  {
+    "confidence_score": 0.7406,
+    "fraud_case_id": "case_00000013",
+    "mule_network_id": "mule_00000063",
+    "network_size": 3,
+    "source_customer_id": "cus_00000063",
+    "target_customer_id": "cus_00000070"
+  },
+  {
+    "confidence_score": 0.6409,
+    "fraud_case_id": "case_00000014",
+    "mule_network_id": "mule_00000064",
+    "network_size": 2,
+    "source_customer_id": "cus_00000064",
+    "target_customer_id": "cus_00000071"
+  },
+  {
+    "confidence_score": 0.7633,
+    "fraud_case_id": "case_00000015",
+    "mule_network_id": "mule_00000065",
+    "network_size": 11,
+    "source_customer_id": "cus_00000065",
+    "target_customer_id": "cus_00000072"
+  },
+  {
+    "confidence_score": 0.7593,
+    "fraud_case_id": "case_00000016",
+    "mule_network_id": "mule_00000066",
+    "network_size": 9,
+    "source_customer_id": "cus_00000066",
+    "target_customer_id": "cus_00000073"
+  },
+  {
+    "confidence_score": 0.7736,
+    "fraud_case_id": "case_00000017",
+    "mule_network_id": "mule_00000067",
+    "network_size": 11,
+    "source_customer_id": "cus_00000067",
+    "target_customer_id": "cus_00000074"
+  },
+  {
+    "confidence_score": 0.9881,
+    "fraud_case_id": "case_00000018",
+    "mule_network_id": "mule_00000068",
+    "network_size": 9,
+    "source_customer_id": "cus_00000068",
+    "target_customer_id": "cus_00000075"
+  },
+  {
+    "confidence_score": 0.6767,
+    "fraud_case_id": "case_00000019",
+    "mule_network_id": "mule_00000069",
+    "network_size": 9,
+    "source_customer_id": "cus_00000069",
+    "target_customer_id": "cus_00000076"
+  },
+  {
+    "confidence_score": 0.5695,
+    "fraud_case_id": "case_00000020",
+    "mule_network_id": "mule_00000070",
+    "network_size": 6,
+    "source_customer_id": "cus_00000070",
+    "target_customer_id": "cus_00000077"
+  },
+  {
+    "confidence_score": 0.7113,
+    "fraud_case_id": "case_00000021",
+    "mule_network_id": "mule_00000071",
+    "network_size": 2,
+    "source_customer_id": "cus_00000071",
+    "target_customer_id": "cus_00000078"
+  },
+  {
+    "confidence_score": 0.8429,
+    "fraud_case_id": "case_00000022",
+    "mule_network_id": "mule_00000072",
+    "network_size": 12,
+    "source_customer_id": "cus_00000072",
+    "target_customer_id": "cus_00000079"
+  },
+  {
+    "confidence_score": 0.8392,
+    "fraud_case_id": "case_00000023",
+    "mule_network_id": "mule_00000073",
+    "network_size": 7,
+    "source_customer_id": "cus_00000073",
+    "target_customer_id": "cus_00000080"
+  },
+  {
+    "confidence_score": 0.9363,
+    "fraud_case_id": "case_00000024",
+    "mule_network_id": "mule_00000074",
+    "network_size": 8,
+    "source_customer_id": "cus_00000074",
+    "target_customer_id": "cus_00000081"
+  },
+  {
+    "confidence_score": 0.7915,
+    "fraud_case_id": "case_00000025",
+    "mule_network_id": "mule_00000075",
+    "network_size": 4,
+    "source_customer_id": "cus_00000075",
+    "target_customer_id": "cus_00000082"
+  },
+  {
+    "confidence_score": 0.729,
+    "fraud_case_id": "case_00000026",
+    "mule_network_id": "mule_00000076",
+    "network_size": 10,
+    "source_customer_id": "cus_00000076",
+    "target_customer_id": "cus_00000083"
+  },
+  {
+    "confidence_score": 0.6138,
+    "fraud_case_id": "case_00000027",
+    "mule_network_id": "mule_00000077",
+    "network_size": 12,
+    "source_customer_id": "cus_00000077",
+    "target_customer_id": "cus_00000084"
+  },
+  {
+    "confidence_score": 0.7116,
+    "fraud_case_id": "case_00000028",
+    "mule_network_id": "mule_00000078",
+    "network_size": 10,
+    "source_customer_id": "cus_00000078",
+    "target_customer_id": "cus_00000085"
+  },
+  {
+    "confidence_score": 0.6351,
+    "fraud_case_id": "case_00000029",
+    "mule_network_id": "mule_00000079",
+    "network_size": 12,
+    "source_customer_id": "cus_00000079",
+    "target_customer_id": "cus_00000086"
+  },
+  {
+    "confidence_score": 0.6862,
+    "fraud_case_id": "case_00000030",
+    "mule_network_id": "mule_00000080",
+    "network_size": 2,
+    "source_customer_id": "cus_00000080",
+    "target_customer_id": "cus_00000087"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "account_id": "acc_00000001",
+    "application_channel": "agent",
+    "customer_id": "cus_00000001",
+    "opening_id": "opn_00000001",
+    "status": "submitted",
+    "submitted_at": "2023-04-04T06:32:13Z"
+  },
+  {
+    "account_id": "acc_00000002",
+    "application_channel": "branch",
+    "customer_id": "cus_00000002",
+    "opening_id": "opn_00000002",
+    "status": "rejected",
+    "submitted_at": "2026-05-31T20:03:57Z"
+  },
+  {
+    "account_id": "acc_00000003",
+    "application_channel": "web",
+    "customer_id": "cus_00000003",
+    "opening_id": "opn_00000003",
+    "status": "approved",
+    "submitted_at": "2025-01-27T21:48:12Z"
+  },
+  {
+    "account_id": "acc_00000004",
+    "application_channel": "branch",
+    "customer_id": "cus_00000004",
+    "opening_id": "opn_00000004",
+    "status": "under_review",
+    "submitted_at": "2025-03-09T01:38:44Z"
+  },
+  {
+    "account_id": "acc_00000005",
+    "application_channel": "web",
+    "customer_id": "cus_00000005",
+    "opening_id": "opn_00000005",
+    "status": "under_review",
+    "submitted_at": "2025-06-01T23:29:49Z"
+  },
+  {
+    "account_id": "acc_00000006",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000006",
+    "opening_id": "opn_00000006",
+    "status": "submitted",
+    "submitted_at": "2024-03-22T12:03:48Z"
+  },
+  {
+    "account_id": "acc_00000007",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000007",
+    "opening_id": "opn_00000007",
+    "status": "approved",
+    "submitted_at": "2025-06-08T04:48:29Z"
+  },
+  {
+    "account_id": "acc_00000008",
+    "application_channel": "web",
+    "customer_id": "cus_00000008",
+    "opening_id": "opn_00000008",
+    "status": "submitted",
+    "submitted_at": "2025-08-27T12:00:16Z"
+  },
+  {
+    "account_id": "acc_00000009",
+    "application_channel": "web",
+    "customer_id": "cus_00000009",
+    "opening_id": "opn_00000009",
+    "status": "approved",
+    "submitted_at": "2023-12-12T19:20:58Z"
+  },
+  {
+    "account_id": "acc_00000010",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000010",
+    "opening_id": "opn_00000010",
+    "status": "rejected",
+    "submitted_at": "2026-04-28T05:02:32Z"
+  },
+  {
+    "account_id": "acc_00000011",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000011",
+    "opening_id": "opn_00000011",
+    "status": "rejected",
+    "submitted_at": "2024-06-20T01:07:33Z"
+  },
+  {
+    "account_id": "acc_00000012",
+    "application_channel": "branch",
+    "customer_id": "cus_00000012",
+    "opening_id": "opn_00000012",
+    "status": "under_review",
+    "submitted_at": "2025-09-18T19:30:00Z"
+  },
+  {
+    "account_id": "acc_00000013",
+    "application_channel": "agent",
+    "customer_id": "cus_00000013",
+    "opening_id": "opn_00000013",
+    "status": "submitted",
+    "submitted_at": "2023-11-02T14:40:52Z"
+  },
+  {
+    "account_id": "acc_00000014",
+    "application_channel": "web",
+    "customer_id": "cus_00000014",
+    "opening_id": "opn_00000014",
+    "status": "submitted",
+    "submitted_at": "2025-09-12T02:46:51Z"
+  },
+  {
+    "account_id": "acc_00000015",
+    "application_channel": "web",
+    "customer_id": "cus_00000015",
+    "opening_id": "opn_00000015",
+    "status": "approved",
+    "submitted_at": "2023-03-04T16:57:41Z"
+  },
+  {
+    "account_id": "acc_00000016",
+    "application_channel": "web",
+    "customer_id": "cus_00000016",
+    "opening_id": "opn_00000016",
+    "status": "submitted",
+    "submitted_at": "2024-04-22T11:16:30Z"
+  },
+  {
+    "account_id": "acc_00000017",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000017",
+    "opening_id": "opn_00000017",
+    "status": "submitted",
+    "submitted_at": "2025-11-07T15:41:24Z"
+  },
+  {
+    "account_id": "acc_00000018",
+    "application_channel": "branch",
+    "customer_id": "cus_00000018",
+    "opening_id": "opn_00000018",
+    "status": "approved",
+    "submitted_at": "2023-06-09T15:27:16Z"
+  },
+  {
+    "account_id": "acc_00000019",
+    "application_channel": "branch",
+    "customer_id": "cus_00000019",
+    "opening_id": "opn_00000019",
+    "status": "under_review",
+    "submitted_at": "2024-01-14T16:56:43Z"
+  },
+  {
+    "account_id": "acc_00000020",
+    "application_channel": "agent",
+    "customer_id": "cus_00000020",
+    "opening_id": "opn_00000020",
+    "status": "approved",
+    "submitted_at": "2023-06-11T21:33:52Z"
+  },
+  {
+    "account_id": "acc_00000021",
+    "application_channel": "web",
+    "customer_id": "cus_00000021",
+    "opening_id": "opn_00000021",
+    "status": "rejected",
+    "submitted_at": "2023-05-01T21:02:33Z"
+  },
+  {
+    "account_id": "acc_00000022",
+    "application_channel": "agent",
+    "customer_id": "cus_00000022",
+    "opening_id": "opn_00000022",
+    "status": "under_review",
+    "submitted_at": "2025-03-31T19:44:40Z"
+  },
+  {
+    "account_id": "acc_00000023",
+    "application_channel": "agent",
+    "customer_id": "cus_00000023",
+    "opening_id": "opn_00000023",
+    "status": "submitted",
+    "submitted_at": "2026-05-24T18:24:44Z"
+  },
+  {
+    "account_id": "acc_00000024",
+    "application_channel": "web",
+    "customer_id": "cus_00000024",
+    "opening_id": "opn_00000024",
+    "status": "approved",
+    "submitted_at": "2023-11-22T03:12:03Z"
+  },
+  {
+    "account_id": "acc_00000025",
+    "application_channel": "branch",
+    "customer_id": "cus_00000025",
+    "opening_id": "opn_00000025",
+    "status": "under_review",
+    "submitted_at": "2023-12-28T12:41:26Z"
+  },
+  {
+    "account_id": "acc_00000026",
+    "application_channel": "branch",
+    "customer_id": "cus_00000026",
+    "opening_id": "opn_00000026",
+    "status": "submitted",
+    "submitted_at": "2023-03-30T11:26:23Z"
+  },
+  {
+    "account_id": "acc_00000027",
+    "application_channel": "agent",
+    "customer_id": "cus_00000027",
+    "opening_id": "opn_00000027",
+    "status": "approved",
+    "submitted_at": "2023-04-09T07:52:05Z"
+  },
+  {
+    "account_id": "acc_00000028",
+    "application_channel": "branch",
+    "customer_id": "cus_00000028",
+    "opening_id": "opn_00000028",
+    "status": "rejected",
+    "submitted_at": "2024-10-06T11:02:10Z"
+  },
+  {
+    "account_id": "acc_00000029",
+    "application_channel": "branch",
+    "customer_id": "cus_00000029",
+    "opening_id": "opn_00000029",
+    "status": "rejected",
+    "submitted_at": "2023-03-31T17:21:38Z"
+  },
+  {
+    "account_id": "acc_00000030",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000030",
+    "opening_id": "opn_00000030",
+    "status": "rejected",
+    "submitted_at": "2025-09-25T05:26:15Z"
+  },
+  {
+    "account_id": "acc_00000031",
+    "application_channel": "web",
+    "customer_id": "cus_00000031",
+    "opening_id": "opn_00000031",
+    "status": "under_review",
+    "submitted_at": "2024-11-19T16:57:04Z"
+  },
+  {
+    "account_id": "acc_00000032",
+    "application_channel": "web",
+    "customer_id": "cus_00000032",
+    "opening_id": "opn_00000032",
+    "status": "rejected",
+    "submitted_at": "2024-12-06T20:16:29Z"
+  },
+  {
+    "account_id": "acc_00000033",
+    "application_channel": "branch",
+    "customer_id": "cus_00000033",
+    "opening_id": "opn_00000033",
+    "status": "under_review",
+    "submitted_at": "2025-10-16T04:28:06Z"
+  },
+  {
+    "account_id": "acc_00000034",
+    "application_channel": "agent",
+    "customer_id": "cus_00000034",
+    "opening_id": "opn_00000034",
+    "status": "approved",
+    "submitted_at": "2024-11-28T20:54:24Z"
+  },
+  {
+    "account_id": "acc_00000035",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000035",
+    "opening_id": "opn_00000035",
+    "status": "under_review",
+    "submitted_at": "2026-05-25T06:30:04Z"
+  },
+  {
+    "account_id": "acc_00000036",
+    "application_channel": "branch",
+    "customer_id": "cus_00000036",
+    "opening_id": "opn_00000036",
+    "status": "under_review",
+    "submitted_at": "2025-04-30T18:43:23Z"
+  },
+  {
+    "account_id": "acc_00000037",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000037",
+    "opening_id": "opn_00000037",
+    "status": "submitted",
+    "submitted_at": "2024-06-08T00:39:03Z"
+  },
+  {
+    "account_id": "acc_00000038",
+    "application_channel": "branch",
+    "customer_id": "cus_00000038",
+    "opening_id": "opn_00000038",
+    "status": "under_review",
+    "submitted_at": "2025-03-24T12:33:07Z"
+  },
+  {
+    "account_id": "acc_00000039",
+    "application_channel": "branch",
+    "customer_id": "cus_00000039",
+    "opening_id": "opn_00000039",
+    "status": "submitted",
+    "submitted_at": "2026-05-06T16:39:08Z"
+  },
+  {
+    "account_id": "acc_00000040",
+    "application_channel": "agent",
+    "customer_id": "cus_00000040",
+    "opening_id": "opn_00000040",
+    "status": "under_review",
+    "submitted_at": "2024-10-23T21:56:24Z"
+  },
+  {
+    "account_id": "acc_00000041",
+    "application_channel": "agent",
+    "customer_id": "cus_00000041",
+    "opening_id": "opn_00000041",
+    "status": "under_review",
+    "submitted_at": "2025-10-28T14:20:06Z"
+  },
+  {
+    "account_id": "acc_00000042",
+    "application_channel": "branch",
+    "customer_id": "cus_00000042",
+    "opening_id": "opn_00000042",
+    "status": "submitted",
+    "submitted_at": "2023-07-21T17:39:06Z"
+  },
+  {
+    "account_id": "acc_00000043",
+    "application_channel": "branch",
+    "customer_id": "cus_00000043",
+    "opening_id": "opn_00000043",
+    "status": "submitted",
+    "submitted_at": "2025-01-13T08:17:14Z"
+  },
+  {
+    "account_id": "acc_00000044",
+    "application_channel": "agent",
+    "customer_id": "cus_00000044",
+    "opening_id": "opn_00000044",
+    "status": "submitted",
+    "submitted_at": "2026-04-26T15:31:11Z"
+  },
+  {
+    "account_id": "acc_00000045",
+    "application_channel": "branch",
+    "customer_id": "cus_00000045",
+    "opening_id": "opn_00000045",
+    "status": "rejected",
+    "submitted_at": "2023-04-07T13:46:03Z"
+  },
+  {
+    "account_id": "acc_00000046",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000046",
+    "opening_id": "opn_00000046",
+    "status": "under_review",
+    "submitted_at": "2025-09-01T18:37:15Z"
+  },
+  {
+    "account_id": "acc_00000047",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000047",
+    "opening_id": "opn_00000047",
+    "status": "rejected",
+    "submitted_at": "2023-03-09T17:15:25Z"
+  },
+  {
+    "account_id": "acc_00000048",
+    "application_channel": "agent",
+    "customer_id": "cus_00000048",
+    "opening_id": "opn_00000048",
+    "status": "submitted",
+    "submitted_at": "2024-04-09T12:17:59Z"
+  },
+  {
+    "account_id": "acc_00000049",
+    "application_channel": "web",
+    "customer_id": "cus_00000049",
+    "opening_id": "opn_00000049",
+    "status": "approved",
+    "submitted_at": "2023-05-28T09:37:52Z"
+  },
+  {
+    "account_id": "acc_00000050",
+    "application_channel": "agent",
+    "customer_id": "cus_00000050",
+    "opening_id": "opn_00000050",
+    "status": "rejected",
+    "submitted_at": "2024-12-31T22:28:44Z"
+  },
+  {
+    "account_id": "acc_00000051",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000051",
+    "opening_id": "opn_00000051",
+    "status": "submitted",
+    "submitted_at": "2026-03-02T11:47:04Z"
+  },
+  {
+    "account_id": "acc_00000052",
+    "application_channel": "web",
+    "customer_id": "cus_00000052",
+    "opening_id": "opn_00000052",
+    "status": "under_review",
+    "submitted_at": "2025-01-18T20:48:08Z"
+  },
+  {
+    "account_id": "acc_00000053",
+    "application_channel": "branch",
+    "customer_id": "cus_00000053",
+    "opening_id": "opn_00000053",
+    "status": "submitted",
+    "submitted_at": "2025-01-28T20:23:52Z"
+  },
+  {
+    "account_id": "acc_00000054",
+    "application_channel": "branch",
+    "customer_id": "cus_00000054",
+    "opening_id": "opn_00000054",
+    "status": "submitted",
+    "submitted_at": "2023-07-08T09:31:24Z"
+  },
+  {
+    "account_id": "acc_00000055",
+    "application_channel": "web",
+    "customer_id": "cus_00000055",
+    "opening_id": "opn_00000055",
+    "status": "submitted",
+    "submitted_at": "2023-05-02T13:06:45Z"
+  },
+  {
+    "account_id": "acc_00000056",
+    "application_channel": "web",
+    "customer_id": "cus_00000056",
+    "opening_id": "opn_00000056",
+    "status": "approved",
+    "submitted_at": "2024-08-06T18:22:27Z"
+  },
+  {
+    "account_id": "acc_00000057",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000057",
+    "opening_id": "opn_00000057",
+    "status": "approved",
+    "submitted_at": "2025-08-10T11:57:45Z"
+  },
+  {
+    "account_id": "acc_00000058",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000058",
+    "opening_id": "opn_00000058",
+    "status": "approved",
+    "submitted_at": "2026-05-20T10:07:59Z"
+  },
+  {
+    "account_id": "acc_00000059",
+    "application_channel": "web",
+    "customer_id": "cus_00000059",
+    "opening_id": "opn_00000059",
+    "status": "under_review",
+    "submitted_at": "2024-08-19T03:54:58Z"
+  },
+  {
+    "account_id": "acc_00000060",
+    "application_channel": "web",
+    "customer_id": "cus_00000060",
+    "opening_id": "opn_00000060",
+    "status": "rejected",
+    "submitted_at": "2024-02-23T11:31:58Z"
+  },
+  {
+    "account_id": "acc_00000061",
+    "application_channel": "agent",
+    "customer_id": "cus_00000061",
+    "opening_id": "opn_00000061",
+    "status": "approved",
+    "submitted_at": "2024-05-05T15:41:52Z"
+  },
+  {
+    "account_id": "acc_00000062",
+    "application_channel": "web",
+    "customer_id": "cus_00000062",
+    "opening_id": "opn_00000062",
+    "status": "approved",
+    "submitted_at": "2023-03-10T02:40:20Z"
+  },
+  {
+    "account_id": "acc_00000063",
+    "application_channel": "agent",
+    "customer_id": "cus_00000063",
+    "opening_id": "opn_00000063",
+    "status": "rejected",
+    "submitted_at": "2023-12-22T07:13:32Z"
+  },
+  {
+    "account_id": "acc_00000064",
+    "application_channel": "branch",
+    "customer_id": "cus_00000064",
+    "opening_id": "opn_00000064",
+    "status": "submitted",
+    "submitted_at": "2026-02-13T16:34:47Z"
+  },
+  {
+    "account_id": "acc_00000065",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000065",
+    "opening_id": "opn_00000065",
+    "status": "approved",
+    "submitted_at": "2026-05-12T07:33:11Z"
+  },
+  {
+    "account_id": "acc_00000066",
+    "application_channel": "branch",
+    "customer_id": "cus_00000066",
+    "opening_id": "opn_00000066",
+    "status": "under_review",
+    "submitted_at": "2025-09-03T12:51:47Z"
+  },
+  {
+    "account_id": "acc_00000067",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000067",
+    "opening_id": "opn_00000067",
+    "status": "rejected",
+    "submitted_at": "2024-10-30T12:34:59Z"
+  },
+  {
+    "account_id": "acc_00000068",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000068",
+    "opening_id": "opn_00000068",
+    "status": "rejected",
+    "submitted_at": "2025-08-29T11:23:52Z"
+  },
+  {
+    "account_id": "acc_00000069",
+    "application_channel": "web",
+    "customer_id": "cus_00000069",
+    "opening_id": "opn_00000069",
+    "status": "submitted",
+    "submitted_at": "2023-08-31T03:04:55Z"
+  },
+  {
+    "account_id": "acc_00000070",
+    "application_channel": "web",
+    "customer_id": "cus_00000070",
+    "opening_id": "opn_00000070",
+    "status": "under_review",
+    "submitted_at": "2023-10-30T04:20:41Z"
+  },
+  {
+    "account_id": "acc_00000071",
+    "application_channel": "web",
+    "customer_id": "cus_00000071",
+    "opening_id": "opn_00000071",
+    "status": "under_review",
+    "submitted_at": "2024-02-22T01:16:48Z"
+  },
+  {
+    "account_id": "acc_00000072",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000072",
+    "opening_id": "opn_00000072",
+    "status": "under_review",
+    "submitted_at": "2024-07-07T20:04:43Z"
+  },
+  {
+    "account_id": "acc_00000073",
+    "application_channel": "branch",
+    "customer_id": "cus_00000073",
+    "opening_id": "opn_00000073",
+    "status": "submitted",
+    "submitted_at": "2024-10-18T09:26:58Z"
+  },
+  {
+    "account_id": "acc_00000074",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000074",
+    "opening_id": "opn_00000074",
+    "status": "submitted",
+    "submitted_at": "2023-04-24T07:32:43Z"
+  },
+  {
+    "account_id": "acc_00000075",
+    "application_channel": "web",
+    "customer_id": "cus_00000075",
+    "opening_id": "opn_00000075",
+    "status": "submitted",
+    "submitted_at": "2023-05-16T08:23:37Z"
+  },
+  {
+    "account_id": "acc_00000076",
+    "application_channel": "agent",
+    "customer_id": "cus_00000076",
+    "opening_id": "opn_00000076",
+    "status": "submitted",
+    "submitted_at": "2025-06-16T13:37:48Z"
+  },
+  {
+    "account_id": "acc_00000077",
+    "application_channel": "web",
+    "customer_id": "cus_00000077",
+    "opening_id": "opn_00000077",
+    "status": "approved",
+    "submitted_at": "2023-04-14T11:58:20Z"
+  },
+  {
+    "account_id": "acc_00000078",
+    "application_channel": "web",
+    "customer_id": "cus_00000078",
+    "opening_id": "opn_00000078",
+    "status": "rejected",
+    "submitted_at": "2025-10-22T11:28:11Z"
+  },
+  {
+    "account_id": "acc_00000079",
+    "application_channel": "branch",
+    "customer_id": "cus_00000079",
+    "opening_id": "opn_00000079",
+    "status": "rejected",
+    "submitted_at": "2025-06-24T04:38:53Z"
+  },
+  {
+    "account_id": "acc_00000080",
+    "application_channel": "branch",
+    "customer_id": "cus_00000080",
+    "opening_id": "opn_00000080",
+    "status": "approved",
+    "submitted_at": "2024-01-21T21:45:17Z"
+  },
+  {
+    "account_id": "acc_00000081",
+    "application_channel": "branch",
+    "customer_id": "cus_00000081",
+    "opening_id": "opn_00000081",
+    "status": "submitted",
+    "submitted_at": "2025-12-21T07:58:17Z"
+  },
+  {
+    "account_id": "acc_00000082",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000082",
+    "opening_id": "opn_00000082",
+    "status": "under_review",
+    "submitted_at": "2023-11-18T09:28:07Z"
+  },
+  {
+    "account_id": "acc_00000083",
+    "application_channel": "branch",
+    "customer_id": "cus_00000083",
+    "opening_id": "opn_00000083",
+    "status": "submitted",
+    "submitted_at": "2025-06-19T05:19:26Z"
+  },
+  {
+    "account_id": "acc_00000084",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000084",
+    "opening_id": "opn_00000084",
+    "status": "rejected",
+    "submitted_at": "2026-01-23T23:51:00Z"
+  },
+  {
+    "account_id": "acc_00000085",
+    "application_channel": "branch",
+    "customer_id": "cus_00000085",
+    "opening_id": "opn_00000085",
+    "status": "under_review",
+    "submitted_at": "2026-04-13T12:46:52Z"
+  },
+  {
+    "account_id": "acc_00000086",
+    "application_channel": "web",
+    "customer_id": "cus_00000086",
+    "opening_id": "opn_00000086",
+    "status": "approved",
+    "submitted_at": "2026-05-20T18:30:04Z"
+  },
+  {
+    "account_id": "acc_00000087",
+    "application_channel": "agent",
+    "customer_id": "cus_00000087",
+    "opening_id": "opn_00000087",
+    "status": "rejected",
+    "submitted_at": "2024-08-17T04:27:15Z"
+  },
+  {
+    "account_id": "acc_00000088",
+    "application_channel": "web",
+    "customer_id": "cus_00000088",
+    "opening_id": "opn_00000088",
+    "status": "approved",
+    "submitted_at": "2024-04-23T10:56:57Z"
+  },
+  {
+    "account_id": "acc_00000089",
+    "application_channel": "web",
+    "customer_id": "cus_00000089",
+    "opening_id": "opn_00000089",
+    "status": "under_review",
+    "submitted_at": "2025-08-21T20:36:40Z"
+  },
+  {
+    "account_id": "acc_00000090",
+    "application_channel": "agent",
+    "customer_id": "cus_00000090",
+    "opening_id": "opn_00000090",
+    "status": "under_review",
+    "submitted_at": "2024-10-06T22:41:10Z"
+  },
+  {
+    "account_id": "acc_00000091",
+    "application_channel": "branch",
+    "customer_id": "cus_00000091",
+    "opening_id": "opn_00000091",
+    "status": "submitted",
+    "submitted_at": "2025-12-15T00:30:13Z"
+  },
+  {
+    "account_id": "acc_00000092",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000092",
+    "opening_id": "opn_00000092",
+    "status": "submitted",
+    "submitted_at": "2024-05-24T18:26:53Z"
+  },
+  {
+    "account_id": "acc_00000093",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000093",
+    "opening_id": "opn_00000093",
+    "status": "approved",
+    "submitted_at": "2023-09-10T07:12:10Z"
+  },
+  {
+    "account_id": "acc_00000094",
+    "application_channel": "web",
+    "customer_id": "cus_00000094",
+    "opening_id": "opn_00000094",
+    "status": "under_review",
+    "submitted_at": "2024-06-26T16:17:45Z"
+  },
+  {
+    "account_id": "acc_00000095",
+    "application_channel": "agent",
+    "customer_id": "cus_00000095",
+    "opening_id": "opn_00000095",
+    "status": "submitted",
+    "submitted_at": "2023-09-11T21:42:09Z"
+  },
+  {
+    "account_id": "acc_00000096",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000096",
+    "opening_id": "opn_00000096",
+    "status": "under_review",
+    "submitted_at": "2024-09-01T08:55:35Z"
+  },
+  {
+    "account_id": "acc_00000097",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000097",
+    "opening_id": "opn_00000097",
+    "status": "rejected",
+    "submitted_at": "2025-06-02T22:16:13Z"
+  },
+  {
+    "account_id": "acc_00000098",
+    "application_channel": "agent",
+    "customer_id": "cus_00000098",
+    "opening_id": "opn_00000098",
+    "status": "submitted",
+    "submitted_at": "2023-08-04T22:21:08Z"
+  },
+  {
+    "account_id": "acc_00000099",
+    "application_channel": "agent",
+    "customer_id": "cus_00000099",
+    "opening_id": "opn_00000099",
+    "status": "rejected",
+    "submitted_at": "2024-06-23T22:03:13Z"
+  },
+  {
+    "account_id": "acc_00000100",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000100",
+    "opening_id": "opn_00000100",
+    "status": "under_review",
+    "submitted_at": "2024-11-25T09:50:08Z"
+  },
+  {
+    "account_id": "acc_00000101",
+    "application_channel": "agent",
+    "customer_id": "cus_00000101",
+    "opening_id": "opn_00000101",
+    "status": "rejected",
+    "submitted_at": "2023-05-22T20:31:53Z"
+  },
+  {
+    "account_id": "acc_00000102",
+    "application_channel": "web",
+    "customer_id": "cus_00000102",
+    "opening_id": "opn_00000102",
+    "status": "approved",
+    "submitted_at": "2023-10-17T19:37:05Z"
+  },
+  {
+    "account_id": "acc_00000103",
+    "application_channel": "branch",
+    "customer_id": "cus_00000103",
+    "opening_id": "opn_00000103",
+    "status": "under_review",
+    "submitted_at": "2023-03-17T10:26:10Z"
+  },
+  {
+    "account_id": "acc_00000104",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000104",
+    "opening_id": "opn_00000104",
+    "status": "approved",
+    "submitted_at": "2026-05-14T11:17:42Z"
+  },
+  {
+    "account_id": "acc_00000105",
+    "application_channel": "agent",
+    "customer_id": "cus_00000105",
+    "opening_id": "opn_00000105",
+    "status": "submitted",
+    "submitted_at": "2023-08-03T01:34:51Z"
+  },
+  {
+    "account_id": "acc_00000106",
+    "application_channel": "agent",
+    "customer_id": "cus_00000106",
+    "opening_id": "opn_00000106",
+    "status": "approved",
+    "submitted_at": "2025-08-19T08:03:10Z"
+  },
+  {
+    "account_id": "acc_00000107",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000107",
+    "opening_id": "opn_00000107",
+    "status": "approved",
+    "submitted_at": "2024-12-04T04:59:50Z"
+  },
+  {
+    "account_id": "acc_00000108",
+    "application_channel": "web",
+    "customer_id": "cus_00000108",
+    "opening_id": "opn_00000108",
+    "status": "submitted",
+    "submitted_at": "2024-09-21T21:21:31Z"
+  },
+  {
+    "account_id": "acc_00000109",
+    "application_channel": "agent",
+    "customer_id": "cus_00000109",
+    "opening_id": "opn_00000109",
+    "status": "under_review",
+    "submitted_at": "2025-10-30T07:07:59Z"
+  },
+  {
+    "account_id": "acc_00000110",
+    "application_channel": "branch",
+    "customer_id": "cus_00000110",
+    "opening_id": "opn_00000110",
+    "status": "approved",
+    "submitted_at": "2024-01-09T03:25:14Z"
+  },
+  {
+    "account_id": "acc_00000111",
+    "application_channel": "web",
+    "customer_id": "cus_00000111",
+    "opening_id": "opn_00000111",
+    "status": "under_review",
+    "submitted_at": "2024-06-13T03:16:30Z"
+  },
+  {
+    "account_id": "acc_00000112",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000112",
+    "opening_id": "opn_00000112",
+    "status": "submitted",
+    "submitted_at": "2024-03-17T02:33:37Z"
+  },
+  {
+    "account_id": "acc_00000113",
+    "application_channel": "web",
+    "customer_id": "cus_00000113",
+    "opening_id": "opn_00000113",
+    "status": "submitted",
+    "submitted_at": "2025-10-03T08:56:38Z"
+  },
+  {
+    "account_id": "acc_00000114",
+    "application_channel": "agent",
+    "customer_id": "cus_00000114",
+    "opening_id": "opn_00000114",
+    "status": "under_review",
+    "submitted_at": "2023-05-20T16:35:00Z"
+  },
+  {
+    "account_id": "acc_00000115",
+    "application_channel": "branch",
+    "customer_id": "cus_00000115",
+    "opening_id": "opn_00000115",
+    "status": "under_review",
+    "submitted_at": "2023-11-07T03:33:19Z"
+  },
+  {
+    "account_id": "acc_00000116",
+    "application_channel": "branch",
+    "customer_id": "cus_00000116",
+    "opening_id": "opn_00000116",
+    "status": "rejected",
+    "submitted_at": "2025-02-20T01:27:24Z"
+  },
+  {
+    "account_id": "acc_00000117",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000117",
+    "opening_id": "opn_00000117",
+    "status": "approved",
+    "submitted_at": "2024-11-01T18:24:12Z"
+  },
+  {
+    "account_id": "acc_00000118",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000118",
+    "opening_id": "opn_00000118",
+    "status": "submitted",
+    "submitted_at": "2023-06-27T17:48:26Z"
+  },
+  {
+    "account_id": "acc_00000119",
+    "application_channel": "web",
+    "customer_id": "cus_00000119",
+    "opening_id": "opn_00000119",
+    "status": "rejected",
+    "submitted_at": "2023-06-10T11:46:46Z"
+  },
+  {
+    "account_id": "acc_00000120",
+    "application_channel": "agent",
+    "customer_id": "cus_00000120",
+    "opening_id": "opn_00000120",
+    "status": "rejected",
+    "submitted_at": "2024-12-29T11:57:30Z"
+  },
+  {
+    "account_id": "acc_00000121",
+    "application_channel": "web",
+    "customer_id": "cus_00000121",
+    "opening_id": "opn_00000121",
+    "status": "submitted",
+    "submitted_at": "2025-11-19T11:01:53Z"
+  },
+  {
+    "account_id": "acc_00000122",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000122",
+    "opening_id": "opn_00000122",
+    "status": "submitted",
+    "submitted_at": "2025-07-18T23:06:50Z"
+  },
+  {
+    "account_id": "acc_00000123",
+    "application_channel": "web",
+    "customer_id": "cus_00000123",
+    "opening_id": "opn_00000123",
+    "status": "under_review",
+    "submitted_at": "2024-11-19T09:37:44Z"
+  },
+  {
+    "account_id": "acc_00000124",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000124",
+    "opening_id": "opn_00000124",
+    "status": "under_review",
+    "submitted_at": "2026-04-14T08:18:39Z"
+  },
+  {
+    "account_id": "acc_00000125",
+    "application_channel": "agent",
+    "customer_id": "cus_00000125",
+    "opening_id": "opn_00000125",
+    "status": "submitted",
+    "submitted_at": "2024-09-14T14:22:02Z"
+  },
+  {
+    "account_id": "acc_00000126",
+    "application_channel": "agent",
+    "customer_id": "cus_00000126",
+    "opening_id": "opn_00000126",
+    "status": "submitted",
+    "submitted_at": "2025-02-07T18:32:27Z"
+  },
+  {
+    "account_id": "acc_00000127",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000127",
+    "opening_id": "opn_00000127",
+    "status": "submitted",
+    "submitted_at": "2023-08-13T22:36:17Z"
+  },
+  {
+    "account_id": "acc_00000128",
+    "application_channel": "branch",
+    "customer_id": "cus_00000128",
+    "opening_id": "opn_00000128",
+    "status": "submitted",
+    "submitted_at": "2025-04-25T06:41:01Z"
+  },
+  {
+    "account_id": "acc_00000129",
+    "application_channel": "branch",
+    "customer_id": "cus_00000129",
+    "opening_id": "opn_00000129",
+    "status": "under_review",
+    "submitted_at": "2025-11-09T14:58:21Z"
+  },
+  {
+    "account_id": "acc_00000130",
+    "application_channel": "agent",
+    "customer_id": "cus_00000130",
+    "opening_id": "opn_00000130",
+    "status": "submitted",
+    "submitted_at": "2025-12-31T09:22:00Z"
+  },
+  {
+    "account_id": "acc_00000131",
+    "application_channel": "web",
+    "customer_id": "cus_00000131",
+    "opening_id": "opn_00000131",
+    "status": "submitted",
+    "submitted_at": "2026-05-17T04:59:00Z"
+  },
+  {
+    "account_id": "acc_00000132",
+    "application_channel": "web",
+    "customer_id": "cus_00000132",
+    "opening_id": "opn_00000132",
+    "status": "rejected",
+    "submitted_at": "2025-10-17T03:51:37Z"
+  },
+  {
+    "account_id": "acc_00000133",
+    "application_channel": "branch",
+    "customer_id": "cus_00000133",
+    "opening_id": "opn_00000133",
+    "status": "rejected",
+    "submitted_at": "2025-11-22T15:09:14Z"
+  },
+  {
+    "account_id": "acc_00000134",
+    "application_channel": "agent",
+    "customer_id": "cus_00000134",
+    "opening_id": "opn_00000134",
+    "status": "rejected",
+    "submitted_at": "2026-03-12T08:48:09Z"
+  },
+  {
+    "account_id": "acc_00000135",
+    "application_channel": "agent",
+    "customer_id": "cus_00000135",
+    "opening_id": "opn_00000135",
+    "status": "under_review",
+    "submitted_at": "2024-06-16T14:09:56Z"
+  },
+  {
+    "account_id": "acc_00000136",
+    "application_channel": "branch",
+    "customer_id": "cus_00000136",
+    "opening_id": "opn_00000136",
+    "status": "approved",
+    "submitted_at": "2025-11-23T15:26:24Z"
+  },
+  {
+    "account_id": "acc_00000137",
+    "application_channel": "web",
+    "customer_id": "cus_00000137",
+    "opening_id": "opn_00000137",
+    "status": "rejected",
+    "submitted_at": "2023-07-07T00:39:29Z"
+  },
+  {
+    "account_id": "acc_00000138",
+    "application_channel": "web",
+    "customer_id": "cus_00000138",
+    "opening_id": "opn_00000138",
+    "status": "submitted",
+    "submitted_at": "2025-10-10T09:49:09Z"
+  },
+  {
+    "account_id": "acc_00000139",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000139",
+    "opening_id": "opn_00000139",
+    "status": "rejected",
+    "submitted_at": "2024-07-16T04:29:18Z"
+  },
+  {
+    "account_id": "acc_00000140",
+    "application_channel": "web",
+    "customer_id": "cus_00000140",
+    "opening_id": "opn_00000140",
+    "status": "under_review",
+    "submitted_at": "2025-10-12T11:48:00Z"
+  },
+  {
+    "account_id": "acc_00000141",
+    "application_channel": "agent",
+    "customer_id": "cus_00000141",
+    "opening_id": "opn_00000141",
+    "status": "under_review",
+    "submitted_at": "2023-04-26T17:22:57Z"
+  },
+  {
+    "account_id": "acc_00000142",
+    "application_channel": "agent",
+    "customer_id": "cus_00000142",
+    "opening_id": "opn_00000142",
+    "status": "submitted",
+    "submitted_at": "2023-10-22T07:36:51Z"
+  },
+  {
+    "account_id": "acc_00000143",
+    "application_channel": "agent",
+    "customer_id": "cus_00000143",
+    "opening_id": "opn_00000143",
+    "status": "submitted",
+    "submitted_at": "2025-03-05T19:35:12Z"
+  },
+  {
+    "account_id": "acc_00000144",
+    "application_channel": "branch",
+    "customer_id": "cus_00000144",
+    "opening_id": "opn_00000144",
+    "status": "rejected",
+    "submitted_at": "2025-11-08T21:05:11Z"
+  },
+  {
+    "account_id": "acc_00000145",
+    "application_channel": "branch",
+    "customer_id": "cus_00000145",
+    "opening_id": "opn_00000145",
+    "status": "submitted",
+    "submitted_at": "2023-10-25T06:59:39Z"
+  },
+  {
+    "account_id": "acc_00000146",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000146",
+    "opening_id": "opn_00000146",
+    "status": "under_review",
+    "submitted_at": "2024-04-18T03:28:26Z"
+  },
+  {
+    "account_id": "acc_00000147",
+    "application_channel": "agent",
+    "customer_id": "cus_00000147",
+    "opening_id": "opn_00000147",
+    "status": "rejected",
+    "submitted_at": "2025-10-08T17:07:41Z"
+  },
+  {
+    "account_id": "acc_00000148",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000148",
+    "opening_id": "opn_00000148",
+    "status": "rejected",
+    "submitted_at": "2024-07-20T04:22:14Z"
+  },
+  {
+    "account_id": "acc_00000149",
+    "application_channel": "branch",
+    "customer_id": "cus_00000149",
+    "opening_id": "opn_00000149",
+    "status": "rejected",
+    "submitted_at": "2024-02-05T16:14:51Z"
+  },
+  {
+    "account_id": "acc_00000150",
+    "application_channel": "branch",
+    "customer_id": "cus_00000150",
+    "opening_id": "opn_00000150",
+    "status": "submitted",
+    "submitted_at": "2025-06-06T02:10:56Z"
+  },
+  {
+    "account_id": "acc_00000151",
+    "application_channel": "branch",
+    "customer_id": "cus_00000151",
+    "opening_id": "opn_00000151",
+    "status": "approved",
+    "submitted_at": "2024-06-22T19:40:30Z"
+  },
+  {
+    "account_id": "acc_00000152",
+    "application_channel": "branch",
+    "customer_id": "cus_00000152",
+    "opening_id": "opn_00000152",
+    "status": "submitted",
+    "submitted_at": "2025-06-30T12:54:35Z"
+  },
+  {
+    "account_id": "acc_00000153",
+    "application_channel": "web",
+    "customer_id": "cus_00000153",
+    "opening_id": "opn_00000153",
+    "status": "approved",
+    "submitted_at": "2025-05-12T07:42:38Z"
+  },
+  {
+    "account_id": "acc_00000154",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000154",
+    "opening_id": "opn_00000154",
+    "status": "rejected",
+    "submitted_at": "2025-05-28T06:42:58Z"
+  },
+  {
+    "account_id": "acc_00000155",
+    "application_channel": "branch",
+    "customer_id": "cus_00000155",
+    "opening_id": "opn_00000155",
+    "status": "rejected",
+    "submitted_at": "2023-03-03T11:14:19Z"
+  },
+  {
+    "account_id": "acc_00000156",
+    "application_channel": "agent",
+    "customer_id": "cus_00000156",
+    "opening_id": "opn_00000156",
+    "status": "rejected",
+    "submitted_at": "2023-05-10T23:47:35Z"
+  },
+  {
+    "account_id": "acc_00000157",
+    "application_channel": "agent",
+    "customer_id": "cus_00000157",
+    "opening_id": "opn_00000157",
+    "status": "approved",
+    "submitted_at": "2024-03-19T19:26:00Z"
+  },
+  {
+    "account_id": "acc_00000158",
+    "application_channel": "branch",
+    "customer_id": "cus_00000158",
+    "opening_id": "opn_00000158",
+    "status": "rejected",
+    "submitted_at": "2023-12-19T23:38:38Z"
+  },
+  {
+    "account_id": "acc_00000159",
+    "application_channel": "branch",
+    "customer_id": "cus_00000159",
+    "opening_id": "opn_00000159",
+    "status": "rejected",
+    "submitted_at": "2025-10-14T03:40:15Z"
+  },
+  {
+    "account_id": "acc_00000160",
+    "application_channel": "web",
+    "customer_id": "cus_00000160",
+    "opening_id": "opn_00000160",
+    "status": "under_review",
+    "submitted_at": "2025-12-12T00:54:20Z"
+  },
+  {
+    "account_id": "acc_00000161",
+    "application_channel": "branch",
+    "customer_id": "cus_00000161",
+    "opening_id": "opn_00000161",
+    "status": "submitted",
+    "submitted_at": "2024-03-03T01:46:02Z"
+  },
+  {
+    "account_id": "acc_00000162",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000162",
+    "opening_id": "opn_00000162",
+    "status": "rejected",
+    "submitted_at": "2026-01-16T12:27:48Z"
+  },
+  {
+    "account_id": "acc_00000163",
+    "application_channel": "agent",
+    "customer_id": "cus_00000163",
+    "opening_id": "opn_00000163",
+    "status": "submitted",
+    "submitted_at": "2025-03-25T05:25:43Z"
+  },
+  {
+    "account_id": "acc_00000164",
+    "application_channel": "web",
+    "customer_id": "cus_00000164",
+    "opening_id": "opn_00000164",
+    "status": "submitted",
+    "submitted_at": "2023-07-09T03:13:46Z"
+  },
+  {
+    "account_id": "acc_00000165",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000165",
+    "opening_id": "opn_00000165",
+    "status": "approved",
+    "submitted_at": "2025-04-06T08:31:40Z"
+  },
+  {
+    "account_id": "acc_00000166",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000166",
+    "opening_id": "opn_00000166",
+    "status": "under_review",
+    "submitted_at": "2024-10-30T16:53:48Z"
+  },
+  {
+    "account_id": "acc_00000167",
+    "application_channel": "web",
+    "customer_id": "cus_00000167",
+    "opening_id": "opn_00000167",
+    "status": "submitted",
+    "submitted_at": "2025-03-19T11:45:55Z"
+  },
+  {
+    "account_id": "acc_00000168",
+    "application_channel": "branch",
+    "customer_id": "cus_00000168",
+    "opening_id": "opn_00000168",
+    "status": "approved",
+    "submitted_at": "2025-11-05T21:08:50Z"
+  },
+  {
+    "account_id": "acc_00000169",
+    "application_channel": "branch",
+    "customer_id": "cus_00000169",
+    "opening_id": "opn_00000169",
+    "status": "submitted",
+    "submitted_at": "2024-09-04T04:17:59Z"
+  },
+  {
+    "account_id": "acc_00000170",
+    "application_channel": "branch",
+    "customer_id": "cus_00000170",
+    "opening_id": "opn_00000170",
+    "status": "under_review",
+    "submitted_at": "2025-11-18T23:12:53Z"
+  },
+  {
+    "account_id": "acc_00000171",
+    "application_channel": "branch",
+    "customer_id": "cus_00000171",
+    "opening_id": "opn_00000171",
+    "status": "rejected",
+    "submitted_at": "2023-10-11T23:20:41Z"
+  },
+  {
+    "account_id": "acc_00000172",
+    "application_channel": "agent",
+    "customer_id": "cus_00000172",
+    "opening_id": "opn_00000172",
+    "status": "approved",
+    "submitted_at": "2024-03-08T03:42:05Z"
+  },
+  {
+    "account_id": "acc_00000173",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000173",
+    "opening_id": "opn_00000173",
+    "status": "approved",
+    "submitted_at": "2025-02-22T01:20:33Z"
+  },
+  {
+    "account_id": "acc_00000174",
+    "application_channel": "branch",
+    "customer_id": "cus_00000174",
+    "opening_id": "opn_00000174",
+    "status": "submitted",
+    "submitted_at": "2026-06-07T00:45:36Z"
+  },
+  {
+    "account_id": "acc_00000175",
+    "application_channel": "branch",
+    "customer_id": "cus_00000175",
+    "opening_id": "opn_00000175",
+    "status": "submitted",
+    "submitted_at": "2024-11-24T18:28:05Z"
+  },
+  {
+    "account_id": "acc_00000176",
+    "application_channel": "agent",
+    "customer_id": "cus_00000176",
+    "opening_id": "opn_00000176",
+    "status": "approved",
+    "submitted_at": "2025-07-29T18:45:45Z"
+  },
+  {
+    "account_id": "acc_00000177",
+    "application_channel": "agent",
+    "customer_id": "cus_00000177",
+    "opening_id": "opn_00000177",
+    "status": "submitted",
+    "submitted_at": "2024-08-26T19:25:20Z"
+  },
+  {
+    "account_id": "acc_00000178",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000178",
+    "opening_id": "opn_00000178",
+    "status": "approved",
+    "submitted_at": "2024-08-25T08:34:36Z"
+  },
+  {
+    "account_id": "acc_00000179",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000179",
+    "opening_id": "opn_00000179",
+    "status": "submitted",
+    "submitted_at": "2023-12-06T18:41:10Z"
+  },
+  {
+    "account_id": "acc_00000180",
+    "application_channel": "web",
+    "customer_id": "cus_00000180",
+    "opening_id": "opn_00000180",
+    "status": "submitted",
+    "submitted_at": "2025-09-12T04:05:48Z"
+  },
+  {
+    "account_id": "acc_00000181",
+    "application_channel": "web",
+    "customer_id": "cus_00000181",
+    "opening_id": "opn_00000181",
+    "status": "rejected",
+    "submitted_at": "2023-08-11T09:02:21Z"
+  },
+  {
+    "account_id": "acc_00000182",
+    "application_channel": "web",
+    "customer_id": "cus_00000182",
+    "opening_id": "opn_00000182",
+    "status": "approved",
+    "submitted_at": "2024-12-29T06:59:21Z"
+  },
+  {
+    "account_id": "acc_00000183",
+    "application_channel": "agent",
+    "customer_id": "cus_00000183",
+    "opening_id": "opn_00000183",
+    "status": "submitted",
+    "submitted_at": "2023-11-11T06:46:13Z"
+  },
+  {
+    "account_id": "acc_00000184",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000184",
+    "opening_id": "opn_00000184",
+    "status": "rejected",
+    "submitted_at": "2026-05-06T07:02:06Z"
+  },
+  {
+    "account_id": "acc_00000185",
+    "application_channel": "web",
+    "customer_id": "cus_00000185",
+    "opening_id": "opn_00000185",
+    "status": "approved",
+    "submitted_at": "2024-01-03T23:09:35Z"
+  },
+  {
+    "account_id": "acc_00000186",
+    "application_channel": "web",
+    "customer_id": "cus_00000186",
+    "opening_id": "opn_00000186",
+    "status": "rejected",
+    "submitted_at": "2023-11-08T19:33:51Z"
+  },
+  {
+    "account_id": "acc_00000187",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000187",
+    "opening_id": "opn_00000187",
+    "status": "submitted",
+    "submitted_at": "2024-06-10T10:16:12Z"
+  },
+  {
+    "account_id": "acc_00000188",
+    "application_channel": "agent",
+    "customer_id": "cus_00000188",
+    "opening_id": "opn_00000188",
+    "status": "submitted",
+    "submitted_at": "2026-04-18T19:51:03Z"
+  },
+  {
+    "account_id": "acc_00000189",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000189",
+    "opening_id": "opn_00000189",
+    "status": "submitted",
+    "submitted_at": "2023-08-23T19:44:09Z"
+  },
+  {
+    "account_id": "acc_00000190",
+    "application_channel": "branch",
+    "customer_id": "cus_00000190",
+    "opening_id": "opn_00000190",
+    "status": "approved",
+    "submitted_at": "2024-04-18T03:01:39Z"
+  },
+  {
+    "account_id": "acc_00000191",
+    "application_channel": "agent",
+    "customer_id": "cus_00000191",
+    "opening_id": "opn_00000191",
+    "status": "under_review",
+    "submitted_at": "2023-10-02T10:23:45Z"
+  },
+  {
+    "account_id": "acc_00000192",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000192",
+    "opening_id": "opn_00000192",
+    "status": "submitted",
+    "submitted_at": "2023-09-21T01:02:39Z"
+  },
+  {
+    "account_id": "acc_00000193",
+    "application_channel": "web",
+    "customer_id": "cus_00000193",
+    "opening_id": "opn_00000193",
+    "status": "under_review",
+    "submitted_at": "2023-06-24T12:02:36Z"
+  },
+  {
+    "account_id": "acc_00000194",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000194",
+    "opening_id": "opn_00000194",
+    "status": "rejected",
+    "submitted_at": "2024-10-14T09:58:12Z"
+  },
+  {
+    "account_id": "acc_00000195",
+    "application_channel": "web",
+    "customer_id": "cus_00000195",
+    "opening_id": "opn_00000195",
+    "status": "approved",
+    "submitted_at": "2023-11-16T06:01:54Z"
+  },
+  {
+    "account_id": "acc_00000196",
+    "application_channel": "agent",
+    "customer_id": "cus_00000196",
+    "opening_id": "opn_00000196",
+    "status": "submitted",
+    "submitted_at": "2025-07-16T16:08:22Z"
+  },
+  {
+    "account_id": "acc_00000197",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000197",
+    "opening_id": "opn_00000197",
+    "status": "approved",
+    "submitted_at": "2024-12-28T22:15:48Z"
+  },
+  {
+    "account_id": "acc_00000198",
+    "application_channel": "agent",
+    "customer_id": "cus_00000198",
+    "opening_id": "opn_00000198",
+    "status": "under_review",
+    "submitted_at": "2023-12-03T05:51:15Z"
+  },
+  {
+    "account_id": "acc_00000199",
+    "application_channel": "web",
+    "customer_id": "cus_00000199",
+    "opening_id": "opn_00000199",
+    "status": "submitted",
+    "submitted_at": "2023-12-07T21:27:19Z"
+  },
+  {
+    "account_id": "acc_00000200",
+    "application_channel": "agent",
+    "customer_id": "cus_00000200",
+    "opening_id": "opn_00000200",
+    "status": "approved",
+    "submitted_at": "2025-09-08T12:14:58Z"
+  },
+  {
+    "account_id": "acc_00000201",
+    "application_channel": "agent",
+    "customer_id": "cus_00000001",
+    "opening_id": "opn_00000201",
+    "status": "rejected",
+    "submitted_at": "2025-04-16T07:23:16Z"
+  },
+  {
+    "account_id": "acc_00000202",
+    "application_channel": "agent",
+    "customer_id": "cus_00000002",
+    "opening_id": "opn_00000202",
+    "status": "submitted",
+    "submitted_at": "2025-04-17T00:18:30Z"
+  },
+  {
+    "account_id": "acc_00000203",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000003",
+    "opening_id": "opn_00000203",
+    "status": "rejected",
+    "submitted_at": "2023-10-12T21:25:15Z"
+  },
+  {
+    "account_id": "acc_00000204",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000004",
+    "opening_id": "opn_00000204",
+    "status": "approved",
+    "submitted_at": "2025-09-30T04:41:27Z"
+  },
+  {
+    "account_id": "acc_00000205",
+    "application_channel": "agent",
+    "customer_id": "cus_00000005",
+    "opening_id": "opn_00000205",
+    "status": "rejected",
+    "submitted_at": "2026-02-26T21:49:34Z"
+  },
+  {
+    "account_id": "acc_00000206",
+    "application_channel": "branch",
+    "customer_id": "cus_00000006",
+    "opening_id": "opn_00000206",
+    "status": "approved",
+    "submitted_at": "2023-07-20T17:34:14Z"
+  },
+  {
+    "account_id": "acc_00000207",
+    "application_channel": "agent",
+    "customer_id": "cus_00000007",
+    "opening_id": "opn_00000207",
+    "status": "under_review",
+    "submitted_at": "2025-06-17T10:31:45Z"
+  },
+  {
+    "account_id": "acc_00000208",
+    "application_channel": "web",
+    "customer_id": "cus_00000008",
+    "opening_id": "opn_00000208",
+    "status": "approved",
+    "submitted_at": "2025-02-17T03:10:06Z"
+  },
+  {
+    "account_id": "acc_00000209",
+    "application_channel": "branch",
+    "customer_id": "cus_00000009",
+    "opening_id": "opn_00000209",
+    "status": "approved",
+    "submitted_at": "2026-04-21T17:30:56Z"
+  },
+  {
+    "account_id": "acc_00000210",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000010",
+    "opening_id": "opn_00000210",
+    "status": "rejected",
+    "submitted_at": "2025-04-29T15:35:25Z"
+  },
+  {
+    "account_id": "acc_00000211",
+    "application_channel": "agent",
+    "customer_id": "cus_00000011",
+    "opening_id": "opn_00000211",
+    "status": "submitted",
+    "submitted_at": "2024-08-11T14:55:04Z"
+  },
+  {
+    "account_id": "acc_00000212",
+    "application_channel": "agent",
+    "customer_id": "cus_00000012",
+    "opening_id": "opn_00000212",
+    "status": "rejected",
+    "submitted_at": "2025-01-02T12:18:09Z"
+  },
+  {
+    "account_id": "acc_00000213",
+    "application_channel": "web",
+    "customer_id": "cus_00000013",
+    "opening_id": "opn_00000213",
+    "status": "under_review",
+    "submitted_at": "2024-08-23T21:38:31Z"
+  },
+  {
+    "account_id": "acc_00000214",
+    "application_channel": "agent",
+    "customer_id": "cus_00000014",
+    "opening_id": "opn_00000214",
+    "status": "submitted",
+    "submitted_at": "2023-10-16T18:24:45Z"
+  },
+  {
+    "account_id": "acc_00000215",
+    "application_channel": "agent",
+    "customer_id": "cus_00000015",
+    "opening_id": "opn_00000215",
+    "status": "rejected",
+    "submitted_at": "2024-07-19T00:05:23Z"
+  },
+  {
+    "account_id": "acc_00000216",
+    "application_channel": "web",
+    "customer_id": "cus_00000016",
+    "opening_id": "opn_00000216",
+    "status": "under_review",
+    "submitted_at": "2024-01-02T09:49:17Z"
+  },
+  {
+    "account_id": "acc_00000217",
+    "application_channel": "branch",
+    "customer_id": "cus_00000017",
+    "opening_id": "opn_00000217",
+    "status": "under_review",
+    "submitted_at": "2023-06-30T03:10:11Z"
+  },
+  {
+    "account_id": "acc_00000218",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000018",
+    "opening_id": "opn_00000218",
+    "status": "under_review",
+    "submitted_at": "2023-10-11T04:58:34Z"
+  },
+  {
+    "account_id": "acc_00000219",
+    "application_channel": "agent",
+    "customer_id": "cus_00000019",
+    "opening_id": "opn_00000219",
+    "status": "under_review",
+    "submitted_at": "2023-11-24T05:06:54Z"
+  },
+  {
+    "account_id": "acc_00000220",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000020",
+    "opening_id": "opn_00000220",
+    "status": "submitted",
+    "submitted_at": "2025-06-18T06:14:11Z"
+  },
+  {
+    "account_id": "acc_00000221",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000021",
+    "opening_id": "opn_00000221",
+    "status": "rejected",
+    "submitted_at": "2025-11-14T08:44:58Z"
+  },
+  {
+    "account_id": "acc_00000222",
+    "application_channel": "branch",
+    "customer_id": "cus_00000022",
+    "opening_id": "opn_00000222",
+    "status": "rejected",
+    "submitted_at": "2024-05-14T12:54:46Z"
+  },
+  {
+    "account_id": "acc_00000223",
+    "application_channel": "agent",
+    "customer_id": "cus_00000023",
+    "opening_id": "opn_00000223",
+    "status": "rejected",
+    "submitted_at": "2025-10-08T18:43:03Z"
+  },
+  {
+    "account_id": "acc_00000224",
+    "application_channel": "branch",
+    "customer_id": "cus_00000024",
+    "opening_id": "opn_00000224",
+    "status": "rejected",
+    "submitted_at": "2025-07-12T10:32:28Z"
+  },
+  {
+    "account_id": "acc_00000225",
+    "application_channel": "web",
+    "customer_id": "cus_00000025",
+    "opening_id": "opn_00000225",
+    "status": "under_review",
+    "submitted_at": "2023-05-27T23:04:54Z"
+  },
+  {
+    "account_id": "acc_00000226",
+    "application_channel": "branch",
+    "customer_id": "cus_00000026",
+    "opening_id": "opn_00000226",
+    "status": "approved",
+    "submitted_at": "2024-12-10T16:30:31Z"
+  },
+  {
+    "account_id": "acc_00000227",
+    "application_channel": "agent",
+    "customer_id": "cus_00000027",
+    "opening_id": "opn_00000227",
+    "status": "under_review",
+    "submitted_at": "2026-04-07T22:58:41Z"
+  },
+  {
+    "account_id": "acc_00000228",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000028",
+    "opening_id": "opn_00000228",
+    "status": "submitted",
+    "submitted_at": "2024-01-24T15:33:30Z"
+  },
+  {
+    "account_id": "acc_00000229",
+    "application_channel": "branch",
+    "customer_id": "cus_00000029",
+    "opening_id": "opn_00000229",
+    "status": "under_review",
+    "submitted_at": "2023-03-04T06:06:02Z"
+  },
+  {
+    "account_id": "acc_00000230",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000030",
+    "opening_id": "opn_00000230",
+    "status": "submitted",
+    "submitted_at": "2025-06-08T21:34:46Z"
+  },
+  {
+    "account_id": "acc_00000231",
+    "application_channel": "branch",
+    "customer_id": "cus_00000031",
+    "opening_id": "opn_00000231",
+    "status": "submitted",
+    "submitted_at": "2024-12-15T05:54:39Z"
+  },
+  {
+    "account_id": "acc_00000232",
+    "application_channel": "agent",
+    "customer_id": "cus_00000032",
+    "opening_id": "opn_00000232",
+    "status": "approved",
+    "submitted_at": "2023-09-03T09:48:17Z"
+  },
+  {
+    "account_id": "acc_00000233",
+    "application_channel": "branch",
+    "customer_id": "cus_00000033",
+    "opening_id": "opn_00000233",
+    "status": "rejected",
+    "submitted_at": "2023-05-22T11:42:14Z"
+  },
+  {
+    "account_id": "acc_00000234",
+    "application_channel": "branch",
+    "customer_id": "cus_00000034",
+    "opening_id": "opn_00000234",
+    "status": "rejected",
+    "submitted_at": "2023-11-05T11:55:13Z"
+  },
+  {
+    "account_id": "acc_00000235",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000035",
+    "opening_id": "opn_00000235",
+    "status": "submitted",
+    "submitted_at": "2024-03-16T05:33:36Z"
+  },
+  {
+    "account_id": "acc_00000236",
+    "application_channel": "agent",
+    "customer_id": "cus_00000036",
+    "opening_id": "opn_00000236",
+    "status": "submitted",
+    "submitted_at": "2024-07-12T12:13:54Z"
+  },
+  {
+    "account_id": "acc_00000237",
+    "application_channel": "branch",
+    "customer_id": "cus_00000037",
+    "opening_id": "opn_00000237",
+    "status": "approved",
+    "submitted_at": "2023-03-07T05:24:17Z"
+  },
+  {
+    "account_id": "acc_00000238",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000038",
+    "opening_id": "opn_00000238",
+    "status": "under_review",
+    "submitted_at": "2024-02-17T19:55:06Z"
+  },
+  {
+    "account_id": "acc_00000239",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000039",
+    "opening_id": "opn_00000239",
+    "status": "approved",
+    "submitted_at": "2024-11-17T22:54:27Z"
+  },
+  {
+    "account_id": "acc_00000240",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000040",
+    "opening_id": "opn_00000240",
+    "status": "submitted",
+    "submitted_at": "2023-12-24T06:48:07Z"
+  },
+  {
+    "account_id": "acc_00000241",
+    "application_channel": "web",
+    "customer_id": "cus_00000041",
+    "opening_id": "opn_00000241",
+    "status": "rejected",
+    "submitted_at": "2024-01-08T03:49:31Z"
+  },
+  {
+    "account_id": "acc_00000242",
+    "application_channel": "branch",
+    "customer_id": "cus_00000042",
+    "opening_id": "opn_00000242",
+    "status": "under_review",
+    "submitted_at": "2023-04-18T11:26:25Z"
+  },
+  {
+    "account_id": "acc_00000243",
+    "application_channel": "agent",
+    "customer_id": "cus_00000043",
+    "opening_id": "opn_00000243",
+    "status": "approved",
+    "submitted_at": "2024-12-28T10:24:29Z"
+  },
+  {
+    "account_id": "acc_00000244",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000044",
+    "opening_id": "opn_00000244",
+    "status": "approved",
+    "submitted_at": "2023-05-14T00:47:22Z"
+  },
+  {
+    "account_id": "acc_00000245",
+    "application_channel": "branch",
+    "customer_id": "cus_00000045",
+    "opening_id": "opn_00000245",
+    "status": "under_review",
+    "submitted_at": "2025-03-10T07:59:31Z"
+  },
+  {
+    "account_id": "acc_00000246",
+    "application_channel": "agent",
+    "customer_id": "cus_00000046",
+    "opening_id": "opn_00000246",
+    "status": "under_review",
+    "submitted_at": "2023-09-07T06:03:50Z"
+  },
+  {
+    "account_id": "acc_00000247",
+    "application_channel": "branch",
+    "customer_id": "cus_00000047",
+    "opening_id": "opn_00000247",
+    "status": "under_review",
+    "submitted_at": "2023-03-29T08:19:57Z"
+  },
+  {
+    "account_id": "acc_00000248",
+    "application_channel": "agent",
+    "customer_id": "cus_00000048",
+    "opening_id": "opn_00000248",
+    "status": "under_review",
+    "submitted_at": "2024-06-30T12:52:39Z"
+  },
+  {
+    "account_id": "acc_00000249",
+    "application_channel": "branch",
+    "customer_id": "cus_00000049",
+    "opening_id": "opn_00000249",
+    "status": "approved",
+    "submitted_at": "2023-04-16T20:59:45Z"
+  },
+  {
+    "account_id": "acc_00000250",
+    "application_channel": "branch",
+    "customer_id": "cus_00000050",
+    "opening_id": "opn_00000250",
+    "status": "under_review",
+    "submitted_at": "2024-01-13T21:20:25Z"
+  },
+  {
+    "account_id": "acc_00000251",
+    "application_channel": "agent",
+    "customer_id": "cus_00000051",
+    "opening_id": "opn_00000251",
+    "status": "rejected",
+    "submitted_at": "2024-08-04T06:22:29Z"
+  },
+  {
+    "account_id": "acc_00000252",
+    "application_channel": "agent",
+    "customer_id": "cus_00000052",
+    "opening_id": "opn_00000252",
+    "status": "under_review",
+    "submitted_at": "2023-05-07T13:09:28Z"
+  },
+  {
+    "account_id": "acc_00000253",
+    "application_channel": "web",
+    "customer_id": "cus_00000053",
+    "opening_id": "opn_00000253",
+    "status": "approved",
+    "submitted_at": "2025-04-18T15:12:41Z"
+  },
+  {
+    "account_id": "acc_00000254",
+    "application_channel": "agent",
+    "customer_id": "cus_00000054",
+    "opening_id": "opn_00000254",
+    "status": "approved",
+    "submitted_at": "2023-02-28T23:01:13Z"
+  },
+  {
+    "account_id": "acc_00000255",
+    "application_channel": "branch",
+    "customer_id": "cus_00000055",
+    "opening_id": "opn_00000255",
+    "status": "rejected",
+    "submitted_at": "2026-06-11T18:12:48Z"
+  },
+  {
+    "account_id": "acc_00000256",
+    "application_channel": "agent",
+    "customer_id": "cus_00000056",
+    "opening_id": "opn_00000256",
+    "status": "approved",
+    "submitted_at": "2026-06-07T21:22:47Z"
+  },
+  {
+    "account_id": "acc_00000257",
+    "application_channel": "agent",
+    "customer_id": "cus_00000057",
+    "opening_id": "opn_00000257",
+    "status": "approved",
+    "submitted_at": "2024-02-19T11:50:02Z"
+  },
+  {
+    "account_id": "acc_00000258",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000058",
+    "opening_id": "opn_00000258",
+    "status": "submitted",
+    "submitted_at": "2023-05-23T12:15:06Z"
+  },
+  {
+    "account_id": "acc_00000259",
+    "application_channel": "branch",
+    "customer_id": "cus_00000059",
+    "opening_id": "opn_00000259",
+    "status": "under_review",
+    "submitted_at": "2026-03-10T06:35:01Z"
+  },
+  {
+    "account_id": "acc_00000260",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000060",
+    "opening_id": "opn_00000260",
+    "status": "submitted",
+    "submitted_at": "2024-05-14T01:43:38Z"
+  },
+  {
+    "account_id": "acc_00000261",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000061",
+    "opening_id": "opn_00000261",
+    "status": "submitted",
+    "submitted_at": "2024-11-18T03:11:33Z"
+  },
+  {
+    "account_id": "acc_00000262",
+    "application_channel": "branch",
+    "customer_id": "cus_00000062",
+    "opening_id": "opn_00000262",
+    "status": "under_review",
+    "submitted_at": "2025-06-23T06:54:44Z"
+  },
+  {
+    "account_id": "acc_00000263",
+    "application_channel": "web",
+    "customer_id": "cus_00000063",
+    "opening_id": "opn_00000263",
+    "status": "under_review",
+    "submitted_at": "2025-01-23T05:06:48Z"
+  },
+  {
+    "account_id": "acc_00000264",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000064",
+    "opening_id": "opn_00000264",
+    "status": "submitted",
+    "submitted_at": "2025-07-05T03:42:56Z"
+  },
+  {
+    "account_id": "acc_00000265",
+    "application_channel": "web",
+    "customer_id": "cus_00000065",
+    "opening_id": "opn_00000265",
+    "status": "submitted",
+    "submitted_at": "2026-03-22T07:01:06Z"
+  },
+  {
+    "account_id": "acc_00000266",
+    "application_channel": "web",
+    "customer_id": "cus_00000066",
+    "opening_id": "opn_00000266",
+    "status": "approved",
+    "submitted_at": "2024-07-09T10:27:44Z"
+  },
+  {
+    "account_id": "acc_00000267",
+    "application_channel": "branch",
+    "customer_id": "cus_00000067",
+    "opening_id": "opn_00000267",
+    "status": "under_review",
+    "submitted_at": "2024-07-22T02:17:44Z"
+  },
+  {
+    "account_id": "acc_00000268",
+    "application_channel": "web",
+    "customer_id": "cus_00000068",
+    "opening_id": "opn_00000268",
+    "status": "submitted",
+    "submitted_at": "2025-03-07T21:53:06Z"
+  },
+  {
+    "account_id": "acc_00000269",
+    "application_channel": "web",
+    "customer_id": "cus_00000069",
+    "opening_id": "opn_00000269",
+    "status": "under_review",
+    "submitted_at": "2025-05-13T03:40:55Z"
+  },
+  {
+    "account_id": "acc_00000270",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000070",
+    "opening_id": "opn_00000270",
+    "status": "under_review",
+    "submitted_at": "2024-10-18T03:39:25Z"
+  },
+  {
+    "account_id": "acc_00000271",
+    "application_channel": "agent",
+    "customer_id": "cus_00000071",
+    "opening_id": "opn_00000271",
+    "status": "under_review",
+    "submitted_at": "2024-01-22T07:48:31Z"
+  },
+  {
+    "account_id": "acc_00000272",
+    "application_channel": "branch",
+    "customer_id": "cus_00000072",
+    "opening_id": "opn_00000272",
+    "status": "submitted",
+    "submitted_at": "2024-07-02T16:04:39Z"
+  },
+  {
+    "account_id": "acc_00000273",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000073",
+    "opening_id": "opn_00000273",
+    "status": "submitted",
+    "submitted_at": "2025-09-28T02:48:47Z"
+  },
+  {
+    "account_id": "acc_00000274",
+    "application_channel": "web",
+    "customer_id": "cus_00000074",
+    "opening_id": "opn_00000274",
+    "status": "submitted",
+    "submitted_at": "2025-07-16T15:30:53Z"
+  },
+  {
+    "account_id": "acc_00000275",
+    "application_channel": "branch",
+    "customer_id": "cus_00000075",
+    "opening_id": "opn_00000275",
+    "status": "rejected",
+    "submitted_at": "2024-07-30T14:50:07Z"
+  },
+  {
+    "account_id": "acc_00000276",
+    "application_channel": "agent",
+    "customer_id": "cus_00000076",
+    "opening_id": "opn_00000276",
+    "status": "approved",
+    "submitted_at": "2025-09-12T10:34:09Z"
+  },
+  {
+    "account_id": "acc_00000277",
+    "application_channel": "branch",
+    "customer_id": "cus_00000077",
+    "opening_id": "opn_00000277",
+    "status": "under_review",
+    "submitted_at": "2025-01-31T18:33:01Z"
+  },
+  {
+    "account_id": "acc_00000278",
+    "application_channel": "agent",
+    "customer_id": "cus_00000078",
+    "opening_id": "opn_00000278",
+    "status": "under_review",
+    "submitted_at": "2026-01-09T19:06:25Z"
+  },
+  {
+    "account_id": "acc_00000279",
+    "application_channel": "agent",
+    "customer_id": "cus_00000079",
+    "opening_id": "opn_00000279",
+    "status": "approved",
+    "submitted_at": "2024-05-13T02:30:27Z"
+  },
+  {
+    "account_id": "acc_00000280",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000080",
+    "opening_id": "opn_00000280",
+    "status": "submitted",
+    "submitted_at": "2026-05-13T22:38:44Z"
+  },
+  {
+    "account_id": "acc_00000281",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000081",
+    "opening_id": "opn_00000281",
+    "status": "approved",
+    "submitted_at": "2025-12-04T16:00:13Z"
+  },
+  {
+    "account_id": "acc_00000282",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000082",
+    "opening_id": "opn_00000282",
+    "status": "rejected",
+    "submitted_at": "2024-07-12T13:58:22Z"
+  },
+  {
+    "account_id": "acc_00000283",
+    "application_channel": "branch",
+    "customer_id": "cus_00000083",
+    "opening_id": "opn_00000283",
+    "status": "under_review",
+    "submitted_at": "2025-06-07T22:13:24Z"
+  },
+  {
+    "account_id": "acc_00000284",
+    "application_channel": "agent",
+    "customer_id": "cus_00000084",
+    "opening_id": "opn_00000284",
+    "status": "submitted",
+    "submitted_at": "2025-03-01T08:59:16Z"
+  },
+  {
+    "account_id": "acc_00000285",
+    "application_channel": "agent",
+    "customer_id": "cus_00000085",
+    "opening_id": "opn_00000285",
+    "status": "approved",
+    "submitted_at": "2025-02-22T22:01:55Z"
+  },
+  {
+    "account_id": "acc_00000286",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000086",
+    "opening_id": "opn_00000286",
+    "status": "rejected",
+    "submitted_at": "2024-11-28T19:23:10Z"
+  },
+  {
+    "account_id": "acc_00000287",
+    "application_channel": "web",
+    "customer_id": "cus_00000087",
+    "opening_id": "opn_00000287",
+    "status": "under_review",
+    "submitted_at": "2023-08-06T13:42:09Z"
+  },
+  {
+    "account_id": "acc_00000288",
+    "application_channel": "agent",
+    "customer_id": "cus_00000088",
+    "opening_id": "opn_00000288",
+    "status": "approved",
+    "submitted_at": "2024-04-20T08:52:41Z"
+  },
+  {
+    "account_id": "acc_00000289",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000089",
+    "opening_id": "opn_00000289",
+    "status": "submitted",
+    "submitted_at": "2024-01-24T08:14:17Z"
+  },
+  {
+    "account_id": "acc_00000290",
+    "application_channel": "agent",
+    "customer_id": "cus_00000090",
+    "opening_id": "opn_00000290",
+    "status": "under_review",
+    "submitted_at": "2026-04-20T12:27:35Z"
+  },
+  {
+    "account_id": "acc_00000291",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000091",
+    "opening_id": "opn_00000291",
+    "status": "approved",
+    "submitted_at": "2024-09-06T07:37:13Z"
+  },
+  {
+    "account_id": "acc_00000292",
+    "application_channel": "web",
+    "customer_id": "cus_00000092",
+    "opening_id": "opn_00000292",
+    "status": "submitted",
+    "submitted_at": "2025-05-18T06:34:20Z"
+  },
+  {
+    "account_id": "acc_00000293",
+    "application_channel": "branch",
+    "customer_id": "cus_00000093",
+    "opening_id": "opn_00000293",
+    "status": "submitted",
+    "submitted_at": "2024-06-19T04:14:24Z"
+  },
+  {
+    "account_id": "acc_00000294",
+    "application_channel": "web",
+    "customer_id": "cus_00000094",
+    "opening_id": "opn_00000294",
+    "status": "approved",
+    "submitted_at": "2026-05-24T01:03:12Z"
+  },
+  {
+    "account_id": "acc_00000295",
+    "application_channel": "branch",
+    "customer_id": "cus_00000095",
+    "opening_id": "opn_00000295",
+    "status": "approved",
+    "submitted_at": "2025-04-10T07:32:32Z"
+  },
+  {
+    "account_id": "acc_00000296",
+    "application_channel": "branch",
+    "customer_id": "cus_00000096",
+    "opening_id": "opn_00000296",
+    "status": "submitted",
+    "submitted_at": "2024-10-08T03:58:02Z"
+  },
+  {
+    "account_id": "acc_00000297",
+    "application_channel": "branch",
+    "customer_id": "cus_00000097",
+    "opening_id": "opn_00000297",
+    "status": "rejected",
+    "submitted_at": "2023-09-23T15:05:46Z"
+  },
+  {
+    "account_id": "acc_00000298",
+    "application_channel": "agent",
+    "customer_id": "cus_00000098",
+    "opening_id": "opn_00000298",
+    "status": "under_review",
+    "submitted_at": "2024-12-25T19:39:09Z"
+  },
+  {
+    "account_id": "acc_00000299",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000099",
+    "opening_id": "opn_00000299",
+    "status": "approved",
+    "submitted_at": "2025-01-15T07:50:38Z"
+  },
+  {
+    "account_id": "acc_00000300",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000100",
+    "opening_id": "opn_00000300",
+    "status": "submitted",
+    "submitted_at": "2023-08-20T16:46:19Z"
+  },
+  {
+    "account_id": "acc_00000301",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000101",
+    "opening_id": "opn_00000301",
+    "status": "approved",
+    "submitted_at": "2024-08-23T16:58:27Z"
+  },
+  {
+    "account_id": "acc_00000302",
+    "application_channel": "branch",
+    "customer_id": "cus_00000102",
+    "opening_id": "opn_00000302",
+    "status": "under_review",
+    "submitted_at": "2026-05-29T01:36:36Z"
+  },
+  {
+    "account_id": "acc_00000303",
+    "application_channel": "agent",
+    "customer_id": "cus_00000103",
+    "opening_id": "opn_00000303",
+    "status": "rejected",
+    "submitted_at": "2026-03-20T20:54:59Z"
+  },
+  {
+    "account_id": "acc_00000304",
+    "application_channel": "agent",
+    "customer_id": "cus_00000104",
+    "opening_id": "opn_00000304",
+    "status": "rejected",
+    "submitted_at": "2023-03-25T05:24:18Z"
+  },
+  {
+    "account_id": "acc_00000305",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000105",
+    "opening_id": "opn_00000305",
+    "status": "under_review",
+    "submitted_at": "2025-06-29T15:10:57Z"
+  },
+  {
+    "account_id": "acc_00000306",
+    "application_channel": "agent",
+    "customer_id": "cus_00000106",
+    "opening_id": "opn_00000306",
+    "status": "approved",
+    "submitted_at": "2025-11-29T23:35:27Z"
+  },
+  {
+    "account_id": "acc_00000307",
+    "application_channel": "branch",
+    "customer_id": "cus_00000107",
+    "opening_id": "opn_00000307",
+    "status": "under_review",
+    "submitted_at": "2024-07-16T19:36:40Z"
+  },
+  {
+    "account_id": "acc_00000308",
+    "application_channel": "web",
+    "customer_id": "cus_00000108",
+    "opening_id": "opn_00000308",
+    "status": "rejected",
+    "submitted_at": "2024-11-27T10:32:12Z"
+  },
+  {
+    "account_id": "acc_00000309",
+    "application_channel": "web",
+    "customer_id": "cus_00000109",
+    "opening_id": "opn_00000309",
+    "status": "approved",
+    "submitted_at": "2023-06-29T17:18:45Z"
+  },
+  {
+    "account_id": "acc_00000310",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000110",
+    "opening_id": "opn_00000310",
+    "status": "under_review",
+    "submitted_at": "2024-08-25T20:42:16Z"
+  },
+  {
+    "account_id": "acc_00000311",
+    "application_channel": "agent",
+    "customer_id": "cus_00000111",
+    "opening_id": "opn_00000311",
+    "status": "under_review",
+    "submitted_at": "2024-03-07T06:21:55Z"
+  },
+  {
+    "account_id": "acc_00000312",
+    "application_channel": "branch",
+    "customer_id": "cus_00000112",
+    "opening_id": "opn_00000312",
+    "status": "approved",
+    "submitted_at": "2024-03-20T19:03:56Z"
+  },
+  {
+    "account_id": "acc_00000313",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000113",
+    "opening_id": "opn_00000313",
+    "status": "under_review",
+    "submitted_at": "2024-06-01T01:30:51Z"
+  },
+  {
+    "account_id": "acc_00000314",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000114",
+    "opening_id": "opn_00000314",
+    "status": "approved",
+    "submitted_at": "2024-05-10T09:42:21Z"
+  },
+  {
+    "account_id": "acc_00000315",
+    "application_channel": "agent",
+    "customer_id": "cus_00000115",
+    "opening_id": "opn_00000315",
+    "status": "under_review",
+    "submitted_at": "2023-05-03T06:50:03Z"
+  },
+  {
+    "account_id": "acc_00000316",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000116",
+    "opening_id": "opn_00000316",
+    "status": "under_review",
+    "submitted_at": "2024-06-26T12:18:36Z"
+  },
+  {
+    "account_id": "acc_00000317",
+    "application_channel": "branch",
+    "customer_id": "cus_00000117",
+    "opening_id": "opn_00000317",
+    "status": "under_review",
+    "submitted_at": "2024-06-20T13:28:53Z"
+  },
+  {
+    "account_id": "acc_00000318",
+    "application_channel": "agent",
+    "customer_id": "cus_00000118",
+    "opening_id": "opn_00000318",
+    "status": "under_review",
+    "submitted_at": "2024-10-06T20:20:28Z"
+  },
+  {
+    "account_id": "acc_00000319",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000119",
+    "opening_id": "opn_00000319",
+    "status": "rejected",
+    "submitted_at": "2025-05-22T15:10:47Z"
+  },
+  {
+    "account_id": "acc_00000320",
+    "application_channel": "web",
+    "customer_id": "cus_00000120",
+    "opening_id": "opn_00000320",
+    "status": "under_review",
+    "submitted_at": "2026-05-18T09:19:26Z"
+  },
+  {
+    "account_id": "acc_00000321",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000121",
+    "opening_id": "opn_00000321",
+    "status": "under_review",
+    "submitted_at": "2025-01-26T02:39:55Z"
+  },
+  {
+    "account_id": "acc_00000322",
+    "application_channel": "branch",
+    "customer_id": "cus_00000122",
+    "opening_id": "opn_00000322",
+    "status": "approved",
+    "submitted_at": "2023-04-03T15:44:50Z"
+  },
+  {
+    "account_id": "acc_00000323",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000123",
+    "opening_id": "opn_00000323",
+    "status": "submitted",
+    "submitted_at": "2026-05-16T14:34:44Z"
+  },
+  {
+    "account_id": "acc_00000324",
+    "application_channel": "agent",
+    "customer_id": "cus_00000124",
+    "opening_id": "opn_00000324",
+    "status": "rejected",
+    "submitted_at": "2025-06-29T20:28:51Z"
+  },
+  {
+    "account_id": "acc_00000325",
+    "application_channel": "branch",
+    "customer_id": "cus_00000125",
+    "opening_id": "opn_00000325",
+    "status": "under_review",
+    "submitted_at": "2024-02-24T22:06:54Z"
+  },
+  {
+    "account_id": "acc_00000326",
+    "application_channel": "branch",
+    "customer_id": "cus_00000126",
+    "opening_id": "opn_00000326",
+    "status": "approved",
+    "submitted_at": "2024-07-12T10:42:30Z"
+  },
+  {
+    "account_id": "acc_00000327",
+    "application_channel": "web",
+    "customer_id": "cus_00000127",
+    "opening_id": "opn_00000327",
+    "status": "rejected",
+    "submitted_at": "2025-05-12T05:53:04Z"
+  },
+  {
+    "account_id": "acc_00000328",
+    "application_channel": "branch",
+    "customer_id": "cus_00000128",
+    "opening_id": "opn_00000328",
+    "status": "rejected",
+    "submitted_at": "2024-11-06T13:04:01Z"
+  },
+  {
+    "account_id": "acc_00000329",
+    "application_channel": "branch",
+    "customer_id": "cus_00000129",
+    "opening_id": "opn_00000329",
+    "status": "submitted",
+    "submitted_at": "2025-02-23T14:15:00Z"
+  },
+  {
+    "account_id": "acc_00000330",
+    "application_channel": "branch",
+    "customer_id": "cus_00000130",
+    "opening_id": "opn_00000330",
+    "status": "submitted",
+    "submitted_at": "2025-12-22T15:41:30Z"
+  },
+  {
+    "account_id": "acc_00000331",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000131",
+    "opening_id": "opn_00000331",
+    "status": "under_review",
+    "submitted_at": "2024-05-15T05:18:48Z"
+  },
+  {
+    "account_id": "acc_00000332",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000132",
+    "opening_id": "opn_00000332",
+    "status": "under_review",
+    "submitted_at": "2025-07-20T01:46:43Z"
+  },
+  {
+    "account_id": "acc_00000333",
+    "application_channel": "agent",
+    "customer_id": "cus_00000133",
+    "opening_id": "opn_00000333",
+    "status": "submitted",
+    "submitted_at": "2025-12-17T15:04:27Z"
+  },
+  {
+    "account_id": "acc_00000334",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000134",
+    "opening_id": "opn_00000334",
+    "status": "rejected",
+    "submitted_at": "2026-06-02T10:55:15Z"
+  },
+  {
+    "account_id": "acc_00000335",
+    "application_channel": "agent",
+    "customer_id": "cus_00000135",
+    "opening_id": "opn_00000335",
+    "status": "submitted",
+    "submitted_at": "2023-06-26T07:23:49Z"
+  },
+  {
+    "account_id": "acc_00000336",
+    "application_channel": "agent",
+    "customer_id": "cus_00000136",
+    "opening_id": "opn_00000336",
+    "status": "rejected",
+    "submitted_at": "2026-03-29T00:57:35Z"
+  },
+  {
+    "account_id": "acc_00000337",
+    "application_channel": "agent",
+    "customer_id": "cus_00000137",
+    "opening_id": "opn_00000337",
+    "status": "approved",
+    "submitted_at": "2024-03-16T08:35:11Z"
+  },
+  {
+    "account_id": "acc_00000338",
+    "application_channel": "agent",
+    "customer_id": "cus_00000138",
+    "opening_id": "opn_00000338",
+    "status": "submitted",
+    "submitted_at": "2023-10-16T20:45:09Z"
+  },
+  {
+    "account_id": "acc_00000339",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000139",
+    "opening_id": "opn_00000339",
+    "status": "rejected",
+    "submitted_at": "2024-11-14T04:40:22Z"
+  },
+  {
+    "account_id": "acc_00000340",
+    "application_channel": "web",
+    "customer_id": "cus_00000140",
+    "opening_id": "opn_00000340",
+    "status": "submitted",
+    "submitted_at": "2026-05-13T15:46:55Z"
+  },
+  {
+    "account_id": "acc_00000341",
+    "application_channel": "web",
+    "customer_id": "cus_00000141",
+    "opening_id": "opn_00000341",
+    "status": "under_review",
+    "submitted_at": "2023-11-08T06:18:30Z"
+  },
+  {
+    "account_id": "acc_00000342",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000142",
+    "opening_id": "opn_00000342",
+    "status": "approved",
+    "submitted_at": "2024-01-28T09:20:33Z"
+  },
+  {
+    "account_id": "acc_00000343",
+    "application_channel": "agent",
+    "customer_id": "cus_00000143",
+    "opening_id": "opn_00000343",
+    "status": "rejected",
+    "submitted_at": "2025-08-17T04:30:26Z"
+  },
+  {
+    "account_id": "acc_00000344",
+    "application_channel": "branch",
+    "customer_id": "cus_00000144",
+    "opening_id": "opn_00000344",
+    "status": "under_review",
+    "submitted_at": "2025-05-03T21:40:59Z"
+  },
+  {
+    "account_id": "acc_00000345",
+    "application_channel": "branch",
+    "customer_id": "cus_00000145",
+    "opening_id": "opn_00000345",
+    "status": "submitted",
+    "submitted_at": "2024-12-30T02:18:58Z"
+  },
+  {
+    "account_id": "acc_00000346",
+    "application_channel": "branch",
+    "customer_id": "cus_00000146",
+    "opening_id": "opn_00000346",
+    "status": "rejected",
+    "submitted_at": "2024-10-08T07:37:41Z"
+  },
+  {
+    "account_id": "acc_00000347",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000147",
+    "opening_id": "opn_00000347",
+    "status": "submitted",
+    "submitted_at": "2024-04-07T23:55:07Z"
+  },
+  {
+    "account_id": "acc_00000348",
+    "application_channel": "web",
+    "customer_id": "cus_00000148",
+    "opening_id": "opn_00000348",
+    "status": "approved",
+    "submitted_at": "2025-10-18T05:27:54Z"
+  },
+  {
+    "account_id": "acc_00000349",
+    "application_channel": "agent",
+    "customer_id": "cus_00000149",
+    "opening_id": "opn_00000349",
+    "status": "under_review",
+    "submitted_at": "2023-11-05T19:31:00Z"
+  },
+  {
+    "account_id": "acc_00000350",
+    "application_channel": "agent",
+    "customer_id": "cus_00000150",
+    "opening_id": "opn_00000350",
+    "status": "approved",
+    "submitted_at": "2023-10-10T21:19:27Z"
+  },
+  {
+    "account_id": "acc_00000351",
+    "application_channel": "branch",
+    "customer_id": "cus_00000151",
+    "opening_id": "opn_00000351",
+    "status": "rejected",
+    "submitted_at": "2025-04-13T03:29:06Z"
+  },
+  {
+    "account_id": "acc_00000352",
+    "application_channel": "web",
+    "customer_id": "cus_00000152",
+    "opening_id": "opn_00000352",
+    "status": "under_review",
+    "submitted_at": "2026-03-13T02:31:21Z"
+  },
+  {
+    "account_id": "acc_00000353",
+    "application_channel": "agent",
+    "customer_id": "cus_00000153",
+    "opening_id": "opn_00000353",
+    "status": "submitted",
+    "submitted_at": "2023-10-18T00:41:22Z"
+  },
+  {
+    "account_id": "acc_00000354",
+    "application_channel": "web",
+    "customer_id": "cus_00000154",
+    "opening_id": "opn_00000354",
+    "status": "submitted",
+    "submitted_at": "2023-07-31T16:34:54Z"
+  },
+  {
+    "account_id": "acc_00000355",
+    "application_channel": "agent",
+    "customer_id": "cus_00000155",
+    "opening_id": "opn_00000355",
+    "status": "submitted",
+    "submitted_at": "2025-12-17T18:37:23Z"
+  },
+  {
+    "account_id": "acc_00000356",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000156",
+    "opening_id": "opn_00000356",
+    "status": "under_review",
+    "submitted_at": "2024-10-08T05:58:13Z"
+  },
+  {
+    "account_id": "acc_00000357",
+    "application_channel": "branch",
+    "customer_id": "cus_00000157",
+    "opening_id": "opn_00000357",
+    "status": "under_review",
+    "submitted_at": "2024-11-02T16:13:19Z"
+  },
+  {
+    "account_id": "acc_00000358",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000158",
+    "opening_id": "opn_00000358",
+    "status": "rejected",
+    "submitted_at": "2024-09-21T02:55:02Z"
+  },
+  {
+    "account_id": "acc_00000359",
+    "application_channel": "web",
+    "customer_id": "cus_00000159",
+    "opening_id": "opn_00000359",
+    "status": "submitted",
+    "submitted_at": "2023-09-01T06:29:58Z"
+  },
+  {
+    "account_id": "acc_00000360",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000160",
+    "opening_id": "opn_00000360",
+    "status": "approved",
+    "submitted_at": "2024-07-05T21:01:35Z"
+  },
+  {
+    "account_id": "acc_00000361",
+    "application_channel": "web",
+    "customer_id": "cus_00000161",
+    "opening_id": "opn_00000361",
+    "status": "under_review",
+    "submitted_at": "2023-08-21T22:28:16Z"
+  },
+  {
+    "account_id": "acc_00000362",
+    "application_channel": "web",
+    "customer_id": "cus_00000162",
+    "opening_id": "opn_00000362",
+    "status": "rejected",
+    "submitted_at": "2023-04-03T12:13:54Z"
+  },
+  {
+    "account_id": "acc_00000363",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000163",
+    "opening_id": "opn_00000363",
+    "status": "approved",
+    "submitted_at": "2024-10-20T17:06:23Z"
+  },
+  {
+    "account_id": "acc_00000364",
+    "application_channel": "web",
+    "customer_id": "cus_00000164",
+    "opening_id": "opn_00000364",
+    "status": "under_review",
+    "submitted_at": "2024-04-29T07:38:34Z"
+  },
+  {
+    "account_id": "acc_00000365",
+    "application_channel": "agent",
+    "customer_id": "cus_00000165",
+    "opening_id": "opn_00000365",
+    "status": "submitted",
+    "submitted_at": "2024-11-14T19:35:56Z"
+  },
+  {
+    "account_id": "acc_00000366",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000166",
+    "opening_id": "opn_00000366",
+    "status": "under_review",
+    "submitted_at": "2023-07-22T20:49:38Z"
+  },
+  {
+    "account_id": "acc_00000367",
+    "application_channel": "web",
+    "customer_id": "cus_00000167",
+    "opening_id": "opn_00000367",
+    "status": "submitted",
+    "submitted_at": "2026-05-20T12:30:25Z"
+  },
+  {
+    "account_id": "acc_00000368",
+    "application_channel": "web",
+    "customer_id": "cus_00000168",
+    "opening_id": "opn_00000368",
+    "status": "under_review",
+    "submitted_at": "2023-08-23T00:20:47Z"
+  },
+  {
+    "account_id": "acc_00000369",
+    "application_channel": "web",
+    "customer_id": "cus_00000169",
+    "opening_id": "opn_00000369",
+    "status": "rejected",
+    "submitted_at": "2024-12-12T06:16:30Z"
+  },
+  {
+    "account_id": "acc_00000370",
+    "application_channel": "branch",
+    "customer_id": "cus_00000170",
+    "opening_id": "opn_00000370",
+    "status": "rejected",
+    "submitted_at": "2024-11-20T04:05:16Z"
+  },
+  {
+    "account_id": "acc_00000371",
+    "application_channel": "web",
+    "customer_id": "cus_00000171",
+    "opening_id": "opn_00000371",
+    "status": "submitted",
+    "submitted_at": "2026-04-07T15:27:01Z"
+  },
+  {
+    "account_id": "acc_00000372",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000172",
+    "opening_id": "opn_00000372",
+    "status": "rejected",
+    "submitted_at": "2023-06-17T09:47:48Z"
+  },
+  {
+    "account_id": "acc_00000373",
+    "application_channel": "web",
+    "customer_id": "cus_00000173",
+    "opening_id": "opn_00000373",
+    "status": "rejected",
+    "submitted_at": "2026-03-03T01:31:46Z"
+  },
+  {
+    "account_id": "acc_00000374",
+    "application_channel": "agent",
+    "customer_id": "cus_00000174",
+    "opening_id": "opn_00000374",
+    "status": "rejected",
+    "submitted_at": "2025-12-03T01:56:04Z"
+  },
+  {
+    "account_id": "acc_00000375",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000175",
+    "opening_id": "opn_00000375",
+    "status": "rejected",
+    "submitted_at": "2023-08-13T17:35:55Z"
+  },
+  {
+    "account_id": "acc_00000376",
+    "application_channel": "web",
+    "customer_id": "cus_00000176",
+    "opening_id": "opn_00000376",
+    "status": "approved",
+    "submitted_at": "2025-04-04T19:59:02Z"
+  },
+  {
+    "account_id": "acc_00000377",
+    "application_channel": "branch",
+    "customer_id": "cus_00000177",
+    "opening_id": "opn_00000377",
+    "status": "rejected",
+    "submitted_at": "2024-05-06T09:37:32Z"
+  },
+  {
+    "account_id": "acc_00000378",
+    "application_channel": "agent",
+    "customer_id": "cus_00000178",
+    "opening_id": "opn_00000378",
+    "status": "approved",
+    "submitted_at": "2024-02-13T03:17:19Z"
+  },
+  {
+    "account_id": "acc_00000379",
+    "application_channel": "agent",
+    "customer_id": "cus_00000179",
+    "opening_id": "opn_00000379",
+    "status": "rejected",
+    "submitted_at": "2025-09-16T22:30:30Z"
+  },
+  {
+    "account_id": "acc_00000380",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000180",
+    "opening_id": "opn_00000380",
+    "status": "rejected",
+    "submitted_at": "2023-05-07T10:10:46Z"
+  },
+  {
+    "account_id": "acc_00000381",
+    "application_channel": "web",
+    "customer_id": "cus_00000181",
+    "opening_id": "opn_00000381",
+    "status": "approved",
+    "submitted_at": "2025-12-16T17:42:39Z"
+  },
+  {
+    "account_id": "acc_00000382",
+    "application_channel": "web",
+    "customer_id": "cus_00000182",
+    "opening_id": "opn_00000382",
+    "status": "submitted",
+    "submitted_at": "2026-02-11T07:11:37Z"
+  },
+  {
+    "account_id": "acc_00000383",
+    "application_channel": "agent",
+    "customer_id": "cus_00000183",
+    "opening_id": "opn_00000383",
+    "status": "rejected",
+    "submitted_at": "2025-07-06T15:37:16Z"
+  },
+  {
+    "account_id": "acc_00000384",
+    "application_channel": "branch",
+    "customer_id": "cus_00000184",
+    "opening_id": "opn_00000384",
+    "status": "submitted",
+    "submitted_at": "2023-07-21T01:24:28Z"
+  },
+  {
+    "account_id": "acc_00000385",
+    "application_channel": "web",
+    "customer_id": "cus_00000185",
+    "opening_id": "opn_00000385",
+    "status": "submitted",
+    "submitted_at": "2023-11-25T12:57:54Z"
+  },
+  {
+    "account_id": "acc_00000386",
+    "application_channel": "agent",
+    "customer_id": "cus_00000186",
+    "opening_id": "opn_00000386",
+    "status": "submitted",
+    "submitted_at": "2024-10-27T04:01:29Z"
+  },
+  {
+    "account_id": "acc_00000387",
+    "application_channel": "web",
+    "customer_id": "cus_00000187",
+    "opening_id": "opn_00000387",
+    "status": "rejected",
+    "submitted_at": "2024-01-18T11:24:46Z"
+  },
+  {
+    "account_id": "acc_00000388",
+    "application_channel": "web",
+    "customer_id": "cus_00000188",
+    "opening_id": "opn_00000388",
+    "status": "submitted",
+    "submitted_at": "2025-03-04T03:35:43Z"
+  },
+  {
+    "account_id": "acc_00000389",
+    "application_channel": "agent",
+    "customer_id": "cus_00000189",
+    "opening_id": "opn_00000389",
+    "status": "approved",
+    "submitted_at": "2024-01-24T15:03:54Z"
+  },
+  {
+    "account_id": "acc_00000390",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000190",
+    "opening_id": "opn_00000390",
+    "status": "under_review",
+    "submitted_at": "2026-04-18T22:11:35Z"
+  },
+  {
+    "account_id": "acc_00000391",
+    "application_channel": "agent",
+    "customer_id": "cus_00000191",
+    "opening_id": "opn_00000391",
+    "status": "rejected",
+    "submitted_at": "2025-04-07T11:48:50Z"
+  },
+  {
+    "account_id": "acc_00000392",
+    "application_channel": "agent",
+    "customer_id": "cus_00000192",
+    "opening_id": "opn_00000392",
+    "status": "rejected",
+    "submitted_at": "2025-10-09T16:40:20Z"
+  },
+  {
+    "account_id": "acc_00000393",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000193",
+    "opening_id": "opn_00000393",
+    "status": "under_review",
+    "submitted_at": "2025-06-02T21:18:34Z"
+  },
+  {
+    "account_id": "acc_00000394",
+    "application_channel": "agent",
+    "customer_id": "cus_00000194",
+    "opening_id": "opn_00000394",
+    "status": "rejected",
+    "submitted_at": "2023-03-24T13:14:09Z"
+  },
+  {
+    "account_id": "acc_00000395",
+    "application_channel": "web",
+    "customer_id": "cus_00000195",
+    "opening_id": "opn_00000395",
+    "status": "submitted",
+    "submitted_at": "2026-05-10T17:59:11Z"
+  },
+  {
+    "account_id": "acc_00000396",
+    "application_channel": "agent",
+    "customer_id": "cus_00000196",
+    "opening_id": "opn_00000396",
+    "status": "rejected",
+    "submitted_at": "2024-08-09T04:41:09Z"
+  },
+  {
+    "account_id": "acc_00000397",
+    "application_channel": "web",
+    "customer_id": "cus_00000197",
+    "opening_id": "opn_00000397",
+    "status": "submitted",
+    "submitted_at": "2024-04-10T19:29:07Z"
+  },
+  {
+    "account_id": "acc_00000398",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000198",
+    "opening_id": "opn_00000398",
+    "status": "rejected",
+    "submitted_at": "2025-04-21T01:31:51Z"
+  },
+  {
+    "account_id": "acc_00000399",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000199",
+    "opening_id": "opn_00000399",
+    "status": "rejected",
+    "submitted_at": "2024-03-17T11:44:52Z"
+  },
+  {
+    "account_id": "acc_00000400",
+    "application_channel": "web",
+    "customer_id": "cus_00000200",
+    "opening_id": "opn_00000400",
+    "status": "approved",
+    "submitted_at": "2026-04-29T13:26:20Z"
+  },
+  {
+    "account_id": "acc_00000401",
+    "application_channel": "web",
+    "customer_id": "cus_00000001",
+    "opening_id": "opn_00000401",
+    "status": "under_review",
+    "submitted_at": "2025-09-02T08:19:47Z"
+  },
+  {
+    "account_id": "acc_00000402",
+    "application_channel": "agent",
+    "customer_id": "cus_00000002",
+    "opening_id": "opn_00000402",
+    "status": "submitted",
+    "submitted_at": "2024-12-22T13:02:03Z"
+  },
+  {
+    "account_id": "acc_00000403",
+    "application_channel": "agent",
+    "customer_id": "cus_00000003",
+    "opening_id": "opn_00000403",
+    "status": "submitted",
+    "submitted_at": "2023-05-23T22:00:25Z"
+  },
+  {
+    "account_id": "acc_00000404",
+    "application_channel": "agent",
+    "customer_id": "cus_00000004",
+    "opening_id": "opn_00000404",
+    "status": "submitted",
+    "submitted_at": "2024-03-01T22:23:50Z"
+  },
+  {
+    "account_id": "acc_00000405",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000005",
+    "opening_id": "opn_00000405",
+    "status": "under_review",
+    "submitted_at": "2026-02-08T10:05:07Z"
+  },
+  {
+    "account_id": "acc_00000406",
+    "application_channel": "agent",
+    "customer_id": "cus_00000006",
+    "opening_id": "opn_00000406",
+    "status": "under_review",
+    "submitted_at": "2023-03-18T12:05:03Z"
+  },
+  {
+    "account_id": "acc_00000407",
+    "application_channel": "agent",
+    "customer_id": "cus_00000007",
+    "opening_id": "opn_00000407",
+    "status": "under_review",
+    "submitted_at": "2023-03-12T15:27:27Z"
+  },
+  {
+    "account_id": "acc_00000408",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000008",
+    "opening_id": "opn_00000408",
+    "status": "submitted",
+    "submitted_at": "2023-04-09T17:05:25Z"
+  },
+  {
+    "account_id": "acc_00000409",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000009",
+    "opening_id": "opn_00000409",
+    "status": "rejected",
+    "submitted_at": "2025-10-10T16:10:03Z"
+  },
+  {
+    "account_id": "acc_00000410",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000010",
+    "opening_id": "opn_00000410",
+    "status": "rejected",
+    "submitted_at": "2024-08-21T05:11:38Z"
+  },
+  {
+    "account_id": "acc_00000411",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000011",
+    "opening_id": "opn_00000411",
+    "status": "rejected",
+    "submitted_at": "2025-12-09T19:57:56Z"
+  },
+  {
+    "account_id": "acc_00000412",
+    "application_channel": "branch",
+    "customer_id": "cus_00000012",
+    "opening_id": "opn_00000412",
+    "status": "rejected",
+    "submitted_at": "2024-09-20T14:23:15Z"
+  },
+  {
+    "account_id": "acc_00000413",
+    "application_channel": "web",
+    "customer_id": "cus_00000013",
+    "opening_id": "opn_00000413",
+    "status": "under_review",
+    "submitted_at": "2024-03-05T15:14:26Z"
+  },
+  {
+    "account_id": "acc_00000414",
+    "application_channel": "web",
+    "customer_id": "cus_00000014",
+    "opening_id": "opn_00000414",
+    "status": "under_review",
+    "submitted_at": "2026-04-13T05:06:53Z"
+  },
+  {
+    "account_id": "acc_00000415",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000015",
+    "opening_id": "opn_00000415",
+    "status": "submitted",
+    "submitted_at": "2025-02-12T00:43:28Z"
+  },
+  {
+    "account_id": "acc_00000416",
+    "application_channel": "web",
+    "customer_id": "cus_00000016",
+    "opening_id": "opn_00000416",
+    "status": "submitted",
+    "submitted_at": "2025-10-25T02:20:48Z"
+  },
+  {
+    "account_id": "acc_00000417",
+    "application_channel": "web",
+    "customer_id": "cus_00000017",
+    "opening_id": "opn_00000417",
+    "status": "rejected",
+    "submitted_at": "2023-12-06T11:38:56Z"
+  },
+  {
+    "account_id": "acc_00000418",
+    "application_channel": "agent",
+    "customer_id": "cus_00000018",
+    "opening_id": "opn_00000418",
+    "status": "under_review",
+    "submitted_at": "2026-02-02T14:09:44Z"
+  },
+  {
+    "account_id": "acc_00000419",
+    "application_channel": "web",
+    "customer_id": "cus_00000019",
+    "opening_id": "opn_00000419",
+    "status": "rejected",
+    "submitted_at": "2025-05-21T12:33:05Z"
+  },
+  {
+    "account_id": "acc_00000420",
+    "application_channel": "web",
+    "customer_id": "cus_00000020",
+    "opening_id": "opn_00000420",
+    "status": "approved",
+    "submitted_at": "2023-06-23T06:42:40Z"
+  },
+  {
+    "account_id": "acc_00000421",
+    "application_channel": "web",
+    "customer_id": "cus_00000021",
+    "opening_id": "opn_00000421",
+    "status": "under_review",
+    "submitted_at": "2023-04-20T17:57:35Z"
+  },
+  {
+    "account_id": "acc_00000422",
+    "application_channel": "web",
+    "customer_id": "cus_00000022",
+    "opening_id": "opn_00000422",
+    "status": "under_review",
+    "submitted_at": "2026-02-22T07:16:58Z"
+  },
+  {
+    "account_id": "acc_00000423",
+    "application_channel": "branch",
+    "customer_id": "cus_00000023",
+    "opening_id": "opn_00000423",
+    "status": "rejected",
+    "submitted_at": "2023-06-06T08:33:33Z"
+  },
+  {
+    "account_id": "acc_00000424",
+    "application_channel": "agent",
+    "customer_id": "cus_00000024",
+    "opening_id": "opn_00000424",
+    "status": "rejected",
+    "submitted_at": "2023-08-20T12:25:15Z"
+  },
+  {
+    "account_id": "acc_00000425",
+    "application_channel": "agent",
+    "customer_id": "cus_00000025",
+    "opening_id": "opn_00000425",
+    "status": "rejected",
+    "submitted_at": "2024-12-05T04:32:56Z"
+  },
+  {
+    "account_id": "acc_00000426",
+    "application_channel": "branch",
+    "customer_id": "cus_00000026",
+    "opening_id": "opn_00000426",
+    "status": "approved",
+    "submitted_at": "2023-06-28T15:30:38Z"
+  },
+  {
+    "account_id": "acc_00000427",
+    "application_channel": "branch",
+    "customer_id": "cus_00000027",
+    "opening_id": "opn_00000427",
+    "status": "submitted",
+    "submitted_at": "2024-04-26T12:56:25Z"
+  },
+  {
+    "account_id": "acc_00000428",
+    "application_channel": "web",
+    "customer_id": "cus_00000028",
+    "opening_id": "opn_00000428",
+    "status": "under_review",
+    "submitted_at": "2023-08-02T09:13:57Z"
+  },
+  {
+    "account_id": "acc_00000429",
+    "application_channel": "web",
+    "customer_id": "cus_00000029",
+    "opening_id": "opn_00000429",
+    "status": "submitted",
+    "submitted_at": "2025-04-29T20:17:06Z"
+  },
+  {
+    "account_id": "acc_00000430",
+    "application_channel": "branch",
+    "customer_id": "cus_00000030",
+    "opening_id": "opn_00000430",
+    "status": "submitted",
+    "submitted_at": "2023-10-13T10:38:36Z"
+  },
+  {
+    "account_id": "acc_00000431",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000031",
+    "opening_id": "opn_00000431",
+    "status": "rejected",
+    "submitted_at": "2024-10-10T11:04:32Z"
+  },
+  {
+    "account_id": "acc_00000432",
+    "application_channel": "agent",
+    "customer_id": "cus_00000032",
+    "opening_id": "opn_00000432",
+    "status": "submitted",
+    "submitted_at": "2025-04-23T11:29:32Z"
+  },
+  {
+    "account_id": "acc_00000433",
+    "application_channel": "branch",
+    "customer_id": "cus_00000033",
+    "opening_id": "opn_00000433",
+    "status": "submitted",
+    "submitted_at": "2023-11-26T06:49:22Z"
+  },
+  {
+    "account_id": "acc_00000434",
+    "application_channel": "agent",
+    "customer_id": "cus_00000034",
+    "opening_id": "opn_00000434",
+    "status": "under_review",
+    "submitted_at": "2023-06-27T06:35:40Z"
+  },
+  {
+    "account_id": "acc_00000435",
+    "application_channel": "agent",
+    "customer_id": "cus_00000035",
+    "opening_id": "opn_00000435",
+    "status": "under_review",
+    "submitted_at": "2024-10-15T01:43:57Z"
+  },
+  {
+    "account_id": "acc_00000436",
+    "application_channel": "web",
+    "customer_id": "cus_00000036",
+    "opening_id": "opn_00000436",
+    "status": "submitted",
+    "submitted_at": "2026-05-04T19:57:42Z"
+  },
+  {
+    "account_id": "acc_00000437",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000037",
+    "opening_id": "opn_00000437",
+    "status": "approved",
+    "submitted_at": "2023-04-13T05:55:49Z"
+  },
+  {
+    "account_id": "acc_00000438",
+    "application_channel": "agent",
+    "customer_id": "cus_00000038",
+    "opening_id": "opn_00000438",
+    "status": "approved",
+    "submitted_at": "2025-12-14T09:53:02Z"
+  },
+  {
+    "account_id": "acc_00000439",
+    "application_channel": "agent",
+    "customer_id": "cus_00000039",
+    "opening_id": "opn_00000439",
+    "status": "submitted",
+    "submitted_at": "2024-01-28T15:03:28Z"
+  },
+  {
+    "account_id": "acc_00000440",
+    "application_channel": "branch",
+    "customer_id": "cus_00000040",
+    "opening_id": "opn_00000440",
+    "status": "rejected",
+    "submitted_at": "2025-10-31T06:22:49Z"
+  },
+  {
+    "account_id": "acc_00000441",
+    "application_channel": "agent",
+    "customer_id": "cus_00000041",
+    "opening_id": "opn_00000441",
+    "status": "rejected",
+    "submitted_at": "2024-04-02T07:48:08Z"
+  },
+  {
+    "account_id": "acc_00000442",
+    "application_channel": "branch",
+    "customer_id": "cus_00000042",
+    "opening_id": "opn_00000442",
+    "status": "submitted",
+    "submitted_at": "2023-06-23T07:45:52Z"
+  },
+  {
+    "account_id": "acc_00000443",
+    "application_channel": "branch",
+    "customer_id": "cus_00000043",
+    "opening_id": "opn_00000443",
+    "status": "under_review",
+    "submitted_at": "2025-10-10T20:00:40Z"
+  },
+  {
+    "account_id": "acc_00000444",
+    "application_channel": "branch",
+    "customer_id": "cus_00000044",
+    "opening_id": "opn_00000444",
+    "status": "under_review",
+    "submitted_at": "2024-02-02T05:32:17Z"
+  },
+  {
+    "account_id": "acc_00000445",
+    "application_channel": "web",
+    "customer_id": "cus_00000045",
+    "opening_id": "opn_00000445",
+    "status": "approved",
+    "submitted_at": "2024-12-09T04:40:28Z"
+  },
+  {
+    "account_id": "acc_00000446",
+    "application_channel": "web",
+    "customer_id": "cus_00000046",
+    "opening_id": "opn_00000446",
+    "status": "rejected",
+    "submitted_at": "2025-06-01T13:15:08Z"
+  },
+  {
+    "account_id": "acc_00000447",
+    "application_channel": "web",
+    "customer_id": "cus_00000047",
+    "opening_id": "opn_00000447",
+    "status": "approved",
+    "submitted_at": "2023-07-10T18:58:55Z"
+  },
+  {
+    "account_id": "acc_00000448",
+    "application_channel": "branch",
+    "customer_id": "cus_00000048",
+    "opening_id": "opn_00000448",
+    "status": "submitted",
+    "submitted_at": "2025-06-13T12:13:31Z"
+  },
+  {
+    "account_id": "acc_00000449",
+    "application_channel": "web",
+    "customer_id": "cus_00000049",
+    "opening_id": "opn_00000449",
+    "status": "under_review",
+    "submitted_at": "2024-10-11T06:42:53Z"
+  },
+  {
+    "account_id": "acc_00000450",
+    "application_channel": "web",
+    "customer_id": "cus_00000050",
+    "opening_id": "opn_00000450",
+    "status": "under_review",
+    "submitted_at": "2024-02-28T14:54:00Z"
+  },
+  {
+    "account_id": "acc_00000451",
+    "application_channel": "branch",
+    "customer_id": "cus_00000051",
+    "opening_id": "opn_00000451",
+    "status": "submitted",
+    "submitted_at": "2025-07-29T04:30:40Z"
+  },
+  {
+    "account_id": "acc_00000452",
+    "application_channel": "agent",
+    "customer_id": "cus_00000052",
+    "opening_id": "opn_00000452",
+    "status": "approved",
+    "submitted_at": "2025-01-20T12:17:53Z"
+  },
+  {
+    "account_id": "acc_00000453",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000053",
+    "opening_id": "opn_00000453",
+    "status": "approved",
+    "submitted_at": "2023-04-02T20:11:27Z"
+  },
+  {
+    "account_id": "acc_00000454",
+    "application_channel": "agent",
+    "customer_id": "cus_00000054",
+    "opening_id": "opn_00000454",
+    "status": "submitted",
+    "submitted_at": "2025-01-17T14:24:47Z"
+  },
+  {
+    "account_id": "acc_00000455",
+    "application_channel": "agent",
+    "customer_id": "cus_00000055",
+    "opening_id": "opn_00000455",
+    "status": "rejected",
+    "submitted_at": "2026-06-12T07:49:23Z"
+  },
+  {
+    "account_id": "acc_00000456",
+    "application_channel": "web",
+    "customer_id": "cus_00000056",
+    "opening_id": "opn_00000456",
+    "status": "under_review",
+    "submitted_at": "2024-05-06T01:02:13Z"
+  },
+  {
+    "account_id": "acc_00000457",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000057",
+    "opening_id": "opn_00000457",
+    "status": "approved",
+    "submitted_at": "2026-03-18T23:48:38Z"
+  },
+  {
+    "account_id": "acc_00000458",
+    "application_channel": "web",
+    "customer_id": "cus_00000058",
+    "opening_id": "opn_00000458",
+    "status": "under_review",
+    "submitted_at": "2024-01-25T03:18:33Z"
+  },
+  {
+    "account_id": "acc_00000459",
+    "application_channel": "branch",
+    "customer_id": "cus_00000059",
+    "opening_id": "opn_00000459",
+    "status": "rejected",
+    "submitted_at": "2024-05-22T02:29:18Z"
+  },
+  {
+    "account_id": "acc_00000460",
+    "application_channel": "branch",
+    "customer_id": "cus_00000060",
+    "opening_id": "opn_00000460",
+    "status": "under_review",
+    "submitted_at": "2024-03-16T02:43:18Z"
+  },
+  {
+    "account_id": "acc_00000461",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000061",
+    "opening_id": "opn_00000461",
+    "status": "submitted",
+    "submitted_at": "2024-06-21T15:52:21Z"
+  },
+  {
+    "account_id": "acc_00000462",
+    "application_channel": "agent",
+    "customer_id": "cus_00000062",
+    "opening_id": "opn_00000462",
+    "status": "rejected",
+    "submitted_at": "2025-01-19T17:46:21Z"
+  },
+  {
+    "account_id": "acc_00000463",
+    "application_channel": "web",
+    "customer_id": "cus_00000063",
+    "opening_id": "opn_00000463",
+    "status": "approved",
+    "submitted_at": "2024-03-15T21:39:21Z"
+  },
+  {
+    "account_id": "acc_00000464",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000064",
+    "opening_id": "opn_00000464",
+    "status": "under_review",
+    "submitted_at": "2025-09-26T04:13:12Z"
+  },
+  {
+    "account_id": "acc_00000465",
+    "application_channel": "agent",
+    "customer_id": "cus_00000065",
+    "opening_id": "opn_00000465",
+    "status": "submitted",
+    "submitted_at": "2024-04-23T21:56:34Z"
+  },
+  {
+    "account_id": "acc_00000466",
+    "application_channel": "agent",
+    "customer_id": "cus_00000066",
+    "opening_id": "opn_00000466",
+    "status": "rejected",
+    "submitted_at": "2024-11-08T15:18:49Z"
+  },
+  {
+    "account_id": "acc_00000467",
+    "application_channel": "branch",
+    "customer_id": "cus_00000067",
+    "opening_id": "opn_00000467",
+    "status": "under_review",
+    "submitted_at": "2024-05-10T15:27:11Z"
+  },
+  {
+    "account_id": "acc_00000468",
+    "application_channel": "web",
+    "customer_id": "cus_00000068",
+    "opening_id": "opn_00000468",
+    "status": "rejected",
+    "submitted_at": "2025-06-22T07:42:46Z"
+  },
+  {
+    "account_id": "acc_00000469",
+    "application_channel": "branch",
+    "customer_id": "cus_00000069",
+    "opening_id": "opn_00000469",
+    "status": "approved",
+    "submitted_at": "2025-05-28T14:36:10Z"
+  },
+  {
+    "account_id": "acc_00000470",
+    "application_channel": "agent",
+    "customer_id": "cus_00000070",
+    "opening_id": "opn_00000470",
+    "status": "under_review",
+    "submitted_at": "2025-07-08T21:40:11Z"
+  },
+  {
+    "account_id": "acc_00000471",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000071",
+    "opening_id": "opn_00000471",
+    "status": "submitted",
+    "submitted_at": "2024-04-17T21:26:36Z"
+  },
+  {
+    "account_id": "acc_00000472",
+    "application_channel": "agent",
+    "customer_id": "cus_00000072",
+    "opening_id": "opn_00000472",
+    "status": "submitted",
+    "submitted_at": "2023-11-26T15:54:01Z"
+  },
+  {
+    "account_id": "acc_00000473",
+    "application_channel": "agent",
+    "customer_id": "cus_00000073",
+    "opening_id": "opn_00000473",
+    "status": "under_review",
+    "submitted_at": "2025-05-22T00:04:19Z"
+  },
+  {
+    "account_id": "acc_00000474",
+    "application_channel": "agent",
+    "customer_id": "cus_00000074",
+    "opening_id": "opn_00000474",
+    "status": "under_review",
+    "submitted_at": "2023-05-18T03:35:47Z"
+  },
+  {
+    "account_id": "acc_00000475",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000075",
+    "opening_id": "opn_00000475",
+    "status": "approved",
+    "submitted_at": "2023-05-07T19:14:25Z"
+  },
+  {
+    "account_id": "acc_00000476",
+    "application_channel": "agent",
+    "customer_id": "cus_00000076",
+    "opening_id": "opn_00000476",
+    "status": "rejected",
+    "submitted_at": "2023-09-02T20:12:21Z"
+  },
+  {
+    "account_id": "acc_00000477",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000077",
+    "opening_id": "opn_00000477",
+    "status": "approved",
+    "submitted_at": "2024-01-07T12:10:27Z"
+  },
+  {
+    "account_id": "acc_00000478",
+    "application_channel": "web",
+    "customer_id": "cus_00000078",
+    "opening_id": "opn_00000478",
+    "status": "submitted",
+    "submitted_at": "2025-01-24T03:20:48Z"
+  },
+  {
+    "account_id": "acc_00000479",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000079",
+    "opening_id": "opn_00000479",
+    "status": "submitted",
+    "submitted_at": "2023-07-08T03:28:06Z"
+  },
+  {
+    "account_id": "acc_00000480",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000080",
+    "opening_id": "opn_00000480",
+    "status": "submitted",
+    "submitted_at": "2024-08-12T05:20:13Z"
+  },
+  {
+    "account_id": "acc_00000481",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000081",
+    "opening_id": "opn_00000481",
+    "status": "submitted",
+    "submitted_at": "2025-08-01T08:02:04Z"
+  },
+  {
+    "account_id": "acc_00000482",
+    "application_channel": "agent",
+    "customer_id": "cus_00000082",
+    "opening_id": "opn_00000482",
+    "status": "submitted",
+    "submitted_at": "2026-04-14T12:27:47Z"
+  },
+  {
+    "account_id": "acc_00000483",
+    "application_channel": "branch",
+    "customer_id": "cus_00000083",
+    "opening_id": "opn_00000483",
+    "status": "approved",
+    "submitted_at": "2024-10-12T10:48:56Z"
+  },
+  {
+    "account_id": "acc_00000484",
+    "application_channel": "agent",
+    "customer_id": "cus_00000084",
+    "opening_id": "opn_00000484",
+    "status": "rejected",
+    "submitted_at": "2025-08-16T14:09:43Z"
+  },
+  {
+    "account_id": "acc_00000485",
+    "application_channel": "branch",
+    "customer_id": "cus_00000085",
+    "opening_id": "opn_00000485",
+    "status": "approved",
+    "submitted_at": "2025-03-06T11:23:42Z"
+  },
+  {
+    "account_id": "acc_00000486",
+    "application_channel": "web",
+    "customer_id": "cus_00000086",
+    "opening_id": "opn_00000486",
+    "status": "submitted",
+    "submitted_at": "2025-03-25T01:40:57Z"
+  },
+  {
+    "account_id": "acc_00000487",
+    "application_channel": "branch",
+    "customer_id": "cus_00000087",
+    "opening_id": "opn_00000487",
+    "status": "submitted",
+    "submitted_at": "2025-04-20T17:48:57Z"
+  },
+  {
+    "account_id": "acc_00000488",
+    "application_channel": "agent",
+    "customer_id": "cus_00000088",
+    "opening_id": "opn_00000488",
+    "status": "approved",
+    "submitted_at": "2025-08-05T13:29:01Z"
+  },
+  {
+    "account_id": "acc_00000489",
+    "application_channel": "agent",
+    "customer_id": "cus_00000089",
+    "opening_id": "opn_00000489",
+    "status": "under_review",
+    "submitted_at": "2026-04-06T15:05:26Z"
+  },
+  {
+    "account_id": "acc_00000490",
+    "application_channel": "agent",
+    "customer_id": "cus_00000090",
+    "opening_id": "opn_00000490",
+    "status": "approved",
+    "submitted_at": "2024-04-19T01:48:22Z"
+  },
+  {
+    "account_id": "acc_00000491",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000091",
+    "opening_id": "opn_00000491",
+    "status": "under_review",
+    "submitted_at": "2024-10-14T12:12:38Z"
+  },
+  {
+    "account_id": "acc_00000492",
+    "application_channel": "web",
+    "customer_id": "cus_00000092",
+    "opening_id": "opn_00000492",
+    "status": "under_review",
+    "submitted_at": "2026-02-19T17:44:34Z"
+  },
+  {
+    "account_id": "acc_00000493",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000093",
+    "opening_id": "opn_00000493",
+    "status": "under_review",
+    "submitted_at": "2024-07-24T04:10:21Z"
+  },
+  {
+    "account_id": "acc_00000494",
+    "application_channel": "branch",
+    "customer_id": "cus_00000094",
+    "opening_id": "opn_00000494",
+    "status": "rejected",
+    "submitted_at": "2024-01-21T21:02:14Z"
+  },
+  {
+    "account_id": "acc_00000495",
+    "application_channel": "branch",
+    "customer_id": "cus_00000095",
+    "opening_id": "opn_00000495",
+    "status": "approved",
+    "submitted_at": "2023-04-25T14:02:04Z"
+  },
+  {
+    "account_id": "acc_00000496",
+    "application_channel": "agent",
+    "customer_id": "cus_00000096",
+    "opening_id": "opn_00000496",
+    "status": "under_review",
+    "submitted_at": "2023-04-05T16:46:26Z"
+  },
+  {
+    "account_id": "acc_00000497",
+    "application_channel": "branch",
+    "customer_id": "cus_00000097",
+    "opening_id": "opn_00000497",
+    "status": "approved",
+    "submitted_at": "2024-03-11T17:11:01Z"
+  },
+  {
+    "account_id": "acc_00000498",
+    "application_channel": "mobile",
+    "customer_id": "cus_00000098",
+    "opening_id": "opn_00000498",
+    "status": "submitted",
+    "submitted_at": "2025-12-20T19:22:17Z"
+  },
+  {
+    "account_id": "acc_00000499",
+    "application_channel": "web",
+    "customer_id": "cus_00000099",
+    "opening_id": "opn_00000499",
+    "status": "under_review",
+    "submitted_at": "2026-06-07T20:17:32Z"
+  },
+  {
+    "account_id": "acc_00000500",
+    "application_channel": "agent",
+    "customer_id": "cus_00000100",
+    "opening_id": "opn_00000500",
+    "status": "rejected",
+    "submitted_at": "2025-11-19T17:27:57Z"
+  }
+]

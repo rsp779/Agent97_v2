@@ -1,0 +1,402 @@
+[
+  {
+    "case_status": "confirmed",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000138",
+    "fraud_alert_id": "fra_00000001",
+    "fraud_case_id": "case_00000001",
+    "opened_at": "2026-03-26T09:52:47Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000142",
+    "fraud_alert_id": "fra_00000002",
+    "fraud_case_id": "case_00000002",
+    "opened_at": "2026-06-06T22:13:55Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000108",
+    "fraud_alert_id": "fra_00000003",
+    "fraud_case_id": "case_00000003",
+    "opened_at": "2026-04-15T13:16:55Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000198",
+    "fraud_alert_id": "fra_00000004",
+    "fraud_case_id": "case_00000004",
+    "opened_at": "2026-04-20T02:04:35Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Account Takeover",
+    "customer_id": "cus_00000179",
+    "fraud_alert_id": "fra_00000005",
+    "fraud_case_id": "case_00000005",
+    "opened_at": "2026-04-09T20:19:39Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000022",
+    "fraud_alert_id": "fra_00000006",
+    "fraud_case_id": "case_00000006",
+    "opened_at": "2026-05-13T12:50:41Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000120",
+    "fraud_alert_id": "fra_00000007",
+    "fraud_case_id": "case_00000007",
+    "opened_at": "2026-04-16T17:02:13Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000119",
+    "fraud_alert_id": "fra_00000008",
+    "fraud_case_id": "case_00000008",
+    "opened_at": "2026-05-04T04:44:13Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000194",
+    "fraud_alert_id": "fra_00000009",
+    "fraud_case_id": "case_00000009",
+    "opened_at": "2026-04-14T10:43:00Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000097",
+    "fraud_alert_id": "fra_00000010",
+    "fraud_case_id": "case_00000010",
+    "opened_at": "2026-05-24T02:28:32Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000169",
+    "fraud_alert_id": "fra_00000011",
+    "fraud_case_id": "case_00000011",
+    "opened_at": "2026-05-17T08:38:12Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000164",
+    "fraud_alert_id": "fra_00000012",
+    "fraud_case_id": "case_00000012",
+    "opened_at": "2026-05-09T23:38:56Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000026",
+    "fraud_alert_id": "fra_00000013",
+    "fraud_case_id": "case_00000013",
+    "opened_at": "2026-04-08T07:15:50Z"
+  },
+  {
+    "case_status": "confirmed",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000152",
+    "fraud_alert_id": "fra_00000014",
+    "fraud_case_id": "case_00000014",
+    "opened_at": "2026-05-12T20:39:26Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000073",
+    "fraud_alert_id": "fra_00000015",
+    "fraud_case_id": "case_00000015",
+    "opened_at": "2026-06-12T02:46:44Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Account Takeover",
+    "customer_id": "cus_00000027",
+    "fraud_alert_id": "fra_00000016",
+    "fraud_case_id": "case_00000016",
+    "opened_at": "2026-06-13T01:57:58Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000197",
+    "fraud_alert_id": "fra_00000017",
+    "fraud_case_id": "case_00000017",
+    "opened_at": "2026-04-12T13:44:58Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Account Takeover",
+    "customer_id": "cus_00000068",
+    "fraud_alert_id": "fra_00000018",
+    "fraud_case_id": "case_00000018",
+    "opened_at": "2026-05-18T22:27:42Z"
+  },
+  {
+    "case_status": "confirmed",
+    "case_type": "Account Takeover",
+    "customer_id": "cus_00000131",
+    "fraud_alert_id": "fra_00000019",
+    "fraud_case_id": "case_00000019",
+    "opened_at": "2026-06-04T18:05:36Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000021",
+    "fraud_alert_id": "fra_00000020",
+    "fraud_case_id": "case_00000020",
+    "opened_at": "2026-04-26T22:16:56Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000062",
+    "fraud_alert_id": "fra_00000021",
+    "fraud_case_id": "case_00000021",
+    "opened_at": "2026-05-21T20:53:29Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000098",
+    "fraud_alert_id": "fra_00000022",
+    "fraud_case_id": "case_00000022",
+    "opened_at": "2026-05-27T10:47:50Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000098",
+    "fraud_alert_id": "fra_00000023",
+    "fraud_case_id": "case_00000023",
+    "opened_at": "2026-03-20T06:50:01Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000053",
+    "fraud_alert_id": "fra_00000024",
+    "fraud_case_id": "case_00000024",
+    "opened_at": "2026-05-18T00:09:42Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000028",
+    "fraud_alert_id": "fra_00000025",
+    "fraud_case_id": "case_00000025",
+    "opened_at": "2026-05-29T07:29:28Z"
+  },
+  {
+    "case_status": "confirmed",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000008",
+    "fraud_alert_id": "fra_00000026",
+    "fraud_case_id": "case_00000026",
+    "opened_at": "2026-04-24T19:00:38Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000189",
+    "fraud_alert_id": "fra_00000027",
+    "fraud_case_id": "case_00000027",
+    "opened_at": "2026-06-04T07:00:22Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Account Takeover",
+    "customer_id": "cus_00000009",
+    "fraud_alert_id": "fra_00000028",
+    "fraud_case_id": "case_00000028",
+    "opened_at": "2026-06-13T11:38:45Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000068",
+    "fraud_alert_id": "fra_00000029",
+    "fraud_case_id": "case_00000029",
+    "opened_at": "2026-04-30T19:57:17Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000168",
+    "fraud_alert_id": "fra_00000030",
+    "fraud_case_id": "case_00000030",
+    "opened_at": "2026-03-31T23:55:12Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000144",
+    "fraud_alert_id": "fra_00000031",
+    "fraud_case_id": "case_00000031",
+    "opened_at": "2026-05-29T23:14:49Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000031",
+    "fraud_alert_id": "fra_00000032",
+    "fraud_case_id": "case_00000032",
+    "opened_at": "2026-05-26T01:31:18Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000147",
+    "fraud_alert_id": "fra_00000033",
+    "fraud_case_id": "case_00000033",
+    "opened_at": "2026-04-30T22:29:03Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000180",
+    "fraud_alert_id": "fra_00000034",
+    "fraud_case_id": "case_00000034",
+    "opened_at": "2026-06-11T12:22:21Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000081",
+    "fraud_alert_id": "fra_00000035",
+    "fraud_case_id": "case_00000035",
+    "opened_at": "2026-04-05T12:35:36Z"
+  },
+  {
+    "case_status": "confirmed",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000040",
+    "fraud_alert_id": "fra_00000036",
+    "fraud_case_id": "case_00000036",
+    "opened_at": "2026-04-11T17:02:50Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000095",
+    "fraud_alert_id": "fra_00000037",
+    "fraud_case_id": "case_00000037",
+    "opened_at": "2026-04-21T12:50:09Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000149",
+    "fraud_alert_id": "fra_00000038",
+    "fraud_case_id": "case_00000038",
+    "opened_at": "2026-06-08T05:08:26Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000050",
+    "fraud_alert_id": "fra_00000039",
+    "fraud_case_id": "case_00000039",
+    "opened_at": "2026-05-19T02:50:32Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000090",
+    "fraud_alert_id": "fra_00000040",
+    "fraud_case_id": "case_00000040",
+    "opened_at": "2026-05-12T13:26:10Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000166",
+    "fraud_alert_id": "fra_00000041",
+    "fraud_case_id": "case_00000041",
+    "opened_at": "2026-04-30T12:48:14Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000008",
+    "fraud_alert_id": "fra_00000042",
+    "fraud_case_id": "case_00000042",
+    "opened_at": "2026-05-27T15:12:16Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000023",
+    "fraud_alert_id": "fra_00000043",
+    "fraud_case_id": "case_00000043",
+    "opened_at": "2026-05-02T20:50:03Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000034",
+    "fraud_alert_id": "fra_00000044",
+    "fraud_case_id": "case_00000044",
+    "opened_at": "2026-05-09T14:10:36Z"
+  },
+  {
+    "case_status": "closed",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000126",
+    "fraud_alert_id": "fra_00000045",
+    "fraud_case_id": "case_00000045",
+    "opened_at": "2026-04-17T20:33:39Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000100",
+    "fraud_alert_id": "fra_00000046",
+    "fraud_case_id": "case_00000046",
+    "opened_at": "2026-04-11T11:02:24Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Velocity Fraud",
+    "customer_id": "cus_00000110",
+    "fraud_alert_id": "fra_00000047",
+    "fraud_case_id": "case_00000047",
+    "opened_at": "2026-06-08T11:43:04Z"
+  },
+  {
+    "case_status": "false_positive",
+    "case_type": "Promo Abuse",
+    "customer_id": "cus_00000003",
+    "fraud_alert_id": "fra_00000048",
+    "fraud_case_id": "case_00000048",
+    "opened_at": "2026-05-09T22:53:09Z"
+  },
+  {
+    "case_status": "open",
+    "case_type": "Synthetic Identity",
+    "customer_id": "cus_00000100",
+    "fraud_alert_id": "fra_00000049",
+    "fraud_case_id": "case_00000049",
+    "opened_at": "2026-05-09T03:54:00Z"
+  },
+  {
+    "case_status": "under_review",
+    "case_type": "Money Mule Networks",
+    "customer_id": "cus_00000094",
+    "fraud_alert_id": "fra_00000050",
+    "fraud_case_id": "case_00000050",
+    "opened_at": "2026-04-18T11:28:53Z"
+  }
+]

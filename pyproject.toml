@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "synthetic-banking-ecosystem"
+version = "0.1.0"
+description = "Deterministic synthetic banking ecosystem generator"
+requires-python = ">=3.11"
+
+[project.scripts]
+banking-gen = "banking_generator.cli:main"
+

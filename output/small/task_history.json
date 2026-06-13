@@ -1,0 +1,3202 @@
+[
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000001",
+    "task_history_id": "tsk_00000001",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-17T02:02:51Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000002",
+    "task_history_id": "tsk_00000002",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-09T19:36:51Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000003",
+    "task_history_id": "tsk_00000003",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-06-03T15:57:26Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000004",
+    "task_history_id": "tsk_00000004",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-08T09:40:23Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000005",
+    "task_history_id": "tsk_00000005",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-16T13:51:06Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000006",
+    "task_history_id": "tsk_00000006",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-28T08:37:53Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000007",
+    "task_history_id": "tsk_00000007",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-25T08:34:26Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000008",
+    "task_history_id": "tsk_00000008",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-19T18:44:35Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000009",
+    "task_history_id": "tsk_00000009",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-22T22:31:10Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000010",
+    "task_history_id": "tsk_00000010",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-08T03:24:21Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000011",
+    "task_history_id": "tsk_00000011",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-06T12:53:32Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000012",
+    "task_history_id": "tsk_00000012",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-19T13:08:06Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000013",
+    "task_history_id": "tsk_00000013",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-06-06T12:32:51Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000014",
+    "task_history_id": "tsk_00000014",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-19T08:16:59Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000015",
+    "task_history_id": "tsk_00000015",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-05-18T17:21:45Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000016",
+    "task_history_id": "tsk_00000016",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-15T15:54:48Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000017",
+    "task_history_id": "tsk_00000017",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-02T19:40:28Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000018",
+    "task_history_id": "tsk_00000018",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-03T05:28:02Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000019",
+    "task_history_id": "tsk_00000019",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-06-09T03:29:08Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000020",
+    "task_history_id": "tsk_00000020",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-20T19:12:22Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000021",
+    "task_history_id": "tsk_00000021",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-06-04T05:08:20Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000022",
+    "task_history_id": "tsk_00000022",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-15T02:50:34Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000023",
+    "task_history_id": "tsk_00000023",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-30T21:18:22Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000024",
+    "task_history_id": "tsk_00000024",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-21T11:39:35Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000025",
+    "task_history_id": "tsk_00000025",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-20T20:23:25Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000026",
+    "task_history_id": "tsk_00000026",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-19T10:17:56Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000027",
+    "task_history_id": "tsk_00000027",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-06-01T00:18:42Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000028",
+    "task_history_id": "tsk_00000028",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-17T02:55:47Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000029",
+    "task_history_id": "tsk_00000029",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-05-26T12:17:48Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000030",
+    "task_history_id": "tsk_00000030",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-06-03T12:32:35Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000031",
+    "task_history_id": "tsk_00000031",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T11:01:06Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000032",
+    "task_history_id": "tsk_00000032",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-07T19:07:34Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000033",
+    "task_history_id": "tsk_00000033",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-05-24T07:45:27Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000034",
+    "task_history_id": "tsk_00000034",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-26T22:23:03Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000035",
+    "task_history_id": "tsk_00000035",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-08T23:04:57Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000036",
+    "task_history_id": "tsk_00000036",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-19T22:45:44Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000037",
+    "task_history_id": "tsk_00000037",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-06-08T11:26:37Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000038",
+    "task_history_id": "tsk_00000038",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-06-11T02:29:34Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000039",
+    "task_history_id": "tsk_00000039",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-01T12:07:12Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000040",
+    "task_history_id": "tsk_00000040",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-17T18:50:39Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000041",
+    "task_history_id": "tsk_00000041",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-10T23:44:12Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000042",
+    "task_history_id": "tsk_00000042",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-28T00:53:54Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000043",
+    "task_history_id": "tsk_00000043",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-06-02T19:29:32Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000044",
+    "task_history_id": "tsk_00000044",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-15T18:47:30Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000045",
+    "task_history_id": "tsk_00000045",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-13T00:14:40Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000046",
+    "task_history_id": "tsk_00000046",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-25T19:32:24Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000047",
+    "task_history_id": "tsk_00000047",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-29T20:48:09Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000048",
+    "task_history_id": "tsk_00000048",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-20T13:50:30Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000049",
+    "task_history_id": "tsk_00000049",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-26T04:40:18Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000050",
+    "task_history_id": "tsk_00000050",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-03T12:27:44Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000051",
+    "task_history_id": "tsk_00000051",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-06T00:12:31Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000052",
+    "task_history_id": "tsk_00000052",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-05-27T23:40:42Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000053",
+    "task_history_id": "tsk_00000053",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-31T12:04:30Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000054",
+    "task_history_id": "tsk_00000054",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-06-02T01:26:14Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000055",
+    "task_history_id": "tsk_00000055",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-06-12T18:55:23Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000056",
+    "task_history_id": "tsk_00000056",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-11T10:33:03Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000057",
+    "task_history_id": "tsk_00000057",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-01T06:36:34Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000058",
+    "task_history_id": "tsk_00000058",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-03T12:45:42Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000059",
+    "task_history_id": "tsk_00000059",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-16T07:52:01Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000060",
+    "task_history_id": "tsk_00000060",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-06-11T18:21:26Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000061",
+    "task_history_id": "tsk_00000061",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T23:01:31Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000062",
+    "task_history_id": "tsk_00000062",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-19T02:33:36Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000063",
+    "task_history_id": "tsk_00000063",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-19T20:07:30Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000064",
+    "task_history_id": "tsk_00000064",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-17T20:20:23Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000065",
+    "task_history_id": "tsk_00000065",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-20T00:52:24Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000066",
+    "task_history_id": "tsk_00000066",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-16T03:26:55Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000067",
+    "task_history_id": "tsk_00000067",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-03T09:51:19Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000068",
+    "task_history_id": "tsk_00000068",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-13T16:34:11Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000069",
+    "task_history_id": "tsk_00000069",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-18T15:02:56Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000070",
+    "task_history_id": "tsk_00000070",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-22T18:43:09Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000071",
+    "task_history_id": "tsk_00000071",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-16T19:08:13Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000072",
+    "task_history_id": "tsk_00000072",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-25T21:02:14Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000073",
+    "task_history_id": "tsk_00000073",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-18T13:53:55Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000074",
+    "task_history_id": "tsk_00000074",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-22T15:19:55Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000075",
+    "task_history_id": "tsk_00000075",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-06-12T04:27:57Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000076",
+    "task_history_id": "tsk_00000076",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-06-11T20:41:22Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000077",
+    "task_history_id": "tsk_00000077",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-20T09:21:32Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000078",
+    "task_history_id": "tsk_00000078",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-04T07:23:57Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000079",
+    "task_history_id": "tsk_00000079",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-16T00:58:02Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000080",
+    "task_history_id": "tsk_00000080",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-22T05:16:47Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000081",
+    "task_history_id": "tsk_00000081",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-22T03:36:26Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000082",
+    "task_history_id": "tsk_00000082",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T10:03:49Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000083",
+    "task_history_id": "tsk_00000083",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-21T06:31:22Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000084",
+    "task_history_id": "tsk_00000084",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-27T23:43:45Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000085",
+    "task_history_id": "tsk_00000085",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-05-19T03:39:54Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000086",
+    "task_history_id": "tsk_00000086",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-06-11T10:06:49Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000087",
+    "task_history_id": "tsk_00000087",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-06-06T20:16:58Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000088",
+    "task_history_id": "tsk_00000088",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-15T23:54:19Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000089",
+    "task_history_id": "tsk_00000089",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-21T18:08:36Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000090",
+    "task_history_id": "tsk_00000090",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-21T14:18:23Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000091",
+    "task_history_id": "tsk_00000091",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-18T22:37:17Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000092",
+    "task_history_id": "tsk_00000092",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-18T04:11:56Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000093",
+    "task_history_id": "tsk_00000093",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-04T09:27:45Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000094",
+    "task_history_id": "tsk_00000094",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-30T12:51:37Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000095",
+    "task_history_id": "tsk_00000095",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-05-23T12:02:43Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000096",
+    "task_history_id": "tsk_00000096",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-05T19:28:02Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000097",
+    "task_history_id": "tsk_00000097",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-23T10:11:29Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000098",
+    "task_history_id": "tsk_00000098",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-28T21:34:48Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000099",
+    "task_history_id": "tsk_00000099",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-30T03:52:47Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000100",
+    "task_history_id": "tsk_00000100",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-06-01T01:17:43Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000001",
+    "task_history_id": "tsk_00000101",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-06-02T14:08:32Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000002",
+    "task_history_id": "tsk_00000102",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-15T18:15:52Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000003",
+    "task_history_id": "tsk_00000103",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-06T23:34:53Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000004",
+    "task_history_id": "tsk_00000104",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-16T10:47:04Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000005",
+    "task_history_id": "tsk_00000105",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-05-26T01:09:01Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000006",
+    "task_history_id": "tsk_00000106",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-18T10:49:43Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000007",
+    "task_history_id": "tsk_00000107",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-22T03:32:25Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000008",
+    "task_history_id": "tsk_00000108",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-02T10:04:53Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000009",
+    "task_history_id": "tsk_00000109",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-05-21T11:35:12Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000010",
+    "task_history_id": "tsk_00000110",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-06-01T03:30:26Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000011",
+    "task_history_id": "tsk_00000111",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-18T21:14:17Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000012",
+    "task_history_id": "tsk_00000112",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-06-04T08:45:37Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000013",
+    "task_history_id": "tsk_00000113",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-03T18:09:47Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000014",
+    "task_history_id": "tsk_00000114",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-09T21:19:48Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000015",
+    "task_history_id": "tsk_00000115",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-23T07:40:46Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000016",
+    "task_history_id": "tsk_00000116",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-12T06:16:45Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000017",
+    "task_history_id": "tsk_00000117",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-30T15:59:17Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000018",
+    "task_history_id": "tsk_00000118",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-02T06:31:02Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000019",
+    "task_history_id": "tsk_00000119",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-06-05T23:28:20Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000020",
+    "task_history_id": "tsk_00000120",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-30T08:33:31Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000021",
+    "task_history_id": "tsk_00000121",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-27T02:59:42Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000022",
+    "task_history_id": "tsk_00000122",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-17T14:39:24Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000023",
+    "task_history_id": "tsk_00000123",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-23T00:28:13Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000024",
+    "task_history_id": "tsk_00000124",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-06-02T22:17:39Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000025",
+    "task_history_id": "tsk_00000125",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-31T03:28:12Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000026",
+    "task_history_id": "tsk_00000126",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-17T15:21:17Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000027",
+    "task_history_id": "tsk_00000127",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-06-10T23:08:17Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000028",
+    "task_history_id": "tsk_00000128",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-15T17:27:41Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000029",
+    "task_history_id": "tsk_00000129",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-03T03:18:58Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000030",
+    "task_history_id": "tsk_00000130",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-05-27T15:13:06Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000031",
+    "task_history_id": "tsk_00000131",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-20T10:59:01Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000032",
+    "task_history_id": "tsk_00000132",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-30T11:02:26Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000033",
+    "task_history_id": "tsk_00000133",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-29T07:24:30Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000034",
+    "task_history_id": "tsk_00000134",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-21T07:57:26Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000035",
+    "task_history_id": "tsk_00000135",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-19T01:21:08Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000036",
+    "task_history_id": "tsk_00000136",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-29T11:26:33Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000037",
+    "task_history_id": "tsk_00000137",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-06-04T21:12:36Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000038",
+    "task_history_id": "tsk_00000138",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T09:03:55Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000039",
+    "task_history_id": "tsk_00000139",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-20T18:52:52Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000040",
+    "task_history_id": "tsk_00000140",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-01T02:51:34Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000041",
+    "task_history_id": "tsk_00000141",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-18T06:09:43Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000042",
+    "task_history_id": "tsk_00000142",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-24T06:06:01Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000043",
+    "task_history_id": "tsk_00000143",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-19T16:10:43Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000044",
+    "task_history_id": "tsk_00000144",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-15T09:20:09Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000045",
+    "task_history_id": "tsk_00000145",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-14T22:22:43Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000046",
+    "task_history_id": "tsk_00000146",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-06-01T19:34:52Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000047",
+    "task_history_id": "tsk_00000147",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-17T21:28:56Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000048",
+    "task_history_id": "tsk_00000148",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-16T21:16:57Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000049",
+    "task_history_id": "tsk_00000149",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-26T03:54:13Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000050",
+    "task_history_id": "tsk_00000150",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-04T21:47:37Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000051",
+    "task_history_id": "tsk_00000151",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-25T23:08:05Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000052",
+    "task_history_id": "tsk_00000152",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-10T10:00:42Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000053",
+    "task_history_id": "tsk_00000153",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T05:47:01Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000054",
+    "task_history_id": "tsk_00000154",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-14T23:06:00Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000055",
+    "task_history_id": "tsk_00000155",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T14:31:27Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000056",
+    "task_history_id": "tsk_00000156",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-06-11T07:19:59Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000057",
+    "task_history_id": "tsk_00000157",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-17T01:16:06Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000058",
+    "task_history_id": "tsk_00000158",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-27T01:32:58Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000059",
+    "task_history_id": "tsk_00000159",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-21T05:24:28Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000060",
+    "task_history_id": "tsk_00000160",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-06-11T23:58:18Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000061",
+    "task_history_id": "tsk_00000161",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-06-05T05:09:54Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000062",
+    "task_history_id": "tsk_00000162",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-19T23:58:13Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000063",
+    "task_history_id": "tsk_00000163",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-06-05T07:46:35Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000064",
+    "task_history_id": "tsk_00000164",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-08T19:03:01Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000065",
+    "task_history_id": "tsk_00000165",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-09T18:51:42Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000066",
+    "task_history_id": "tsk_00000166",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-19T14:33:45Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000067",
+    "task_history_id": "tsk_00000167",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-29T12:54:02Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000068",
+    "task_history_id": "tsk_00000168",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-05T22:29:10Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000069",
+    "task_history_id": "tsk_00000169",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-06-08T05:36:36Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000070",
+    "task_history_id": "tsk_00000170",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-06-01T21:26:06Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000071",
+    "task_history_id": "tsk_00000171",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-28T20:03:58Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000072",
+    "task_history_id": "tsk_00000172",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-07T14:29:17Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000073",
+    "task_history_id": "tsk_00000173",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-13T01:46:31Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000074",
+    "task_history_id": "tsk_00000174",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-17T06:49:21Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000075",
+    "task_history_id": "tsk_00000175",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-07T07:59:00Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000076",
+    "task_history_id": "tsk_00000176",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-03T22:45:16Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000077",
+    "task_history_id": "tsk_00000177",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-23T04:16:36Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000078",
+    "task_history_id": "tsk_00000178",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-09T16:21:07Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000079",
+    "task_history_id": "tsk_00000179",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-14T03:46:58Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000080",
+    "task_history_id": "tsk_00000180",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-16T15:24:32Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000081",
+    "task_history_id": "tsk_00000181",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-23T10:10:51Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000082",
+    "task_history_id": "tsk_00000182",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-14T12:58:43Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000083",
+    "task_history_id": "tsk_00000183",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-06-09T12:44:41Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000084",
+    "task_history_id": "tsk_00000184",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-05-28T14:40:24Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000085",
+    "task_history_id": "tsk_00000185",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-30T22:36:32Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000086",
+    "task_history_id": "tsk_00000186",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-23T14:10:17Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000087",
+    "task_history_id": "tsk_00000187",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-28T09:56:35Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000088",
+    "task_history_id": "tsk_00000188",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T00:44:29Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000089",
+    "task_history_id": "tsk_00000189",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-13T05:36:56Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000090",
+    "task_history_id": "tsk_00000190",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-05-22T06:19:27Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000091",
+    "task_history_id": "tsk_00000191",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-18T04:26:06Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000092",
+    "task_history_id": "tsk_00000192",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-06-01T13:34:46Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000093",
+    "task_history_id": "tsk_00000193",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-23T05:18:38Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000094",
+    "task_history_id": "tsk_00000194",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-06-08T20:18:18Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000095",
+    "task_history_id": "tsk_00000195",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-30T09:03:03Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000096",
+    "task_history_id": "tsk_00000196",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-18T03:32:21Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000097",
+    "task_history_id": "tsk_00000197",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-27T20:03:58Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000098",
+    "task_history_id": "tsk_00000198",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-19T10:10:57Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000099",
+    "task_history_id": "tsk_00000199",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-06-09T02:16:57Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000100",
+    "task_history_id": "tsk_00000200",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-27T23:40:45Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000001",
+    "task_history_id": "tsk_00000201",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-15T12:28:45Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000002",
+    "task_history_id": "tsk_00000202",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-06-10T02:33:20Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000003",
+    "task_history_id": "tsk_00000203",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-28T21:33:48Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000004",
+    "task_history_id": "tsk_00000204",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-01T09:31:59Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000005",
+    "task_history_id": "tsk_00000205",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-31T00:00:46Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000006",
+    "task_history_id": "tsk_00000206",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-21T22:32:37Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000007",
+    "task_history_id": "tsk_00000207",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-21T16:06:20Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000008",
+    "task_history_id": "tsk_00000208",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-26T01:31:20Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000009",
+    "task_history_id": "tsk_00000209",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-07T03:18:09Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000010",
+    "task_history_id": "tsk_00000210",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-28T21:43:21Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000011",
+    "task_history_id": "tsk_00000211",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-05-14T16:52:42Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000012",
+    "task_history_id": "tsk_00000212",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-24T00:14:50Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000013",
+    "task_history_id": "tsk_00000213",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-21T23:14:37Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000014",
+    "task_history_id": "tsk_00000214",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-20T20:28:23Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000015",
+    "task_history_id": "tsk_00000215",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-14T05:02:26Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000016",
+    "task_history_id": "tsk_00000216",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-01T12:04:06Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000017",
+    "task_history_id": "tsk_00000217",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-08T13:25:38Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000018",
+    "task_history_id": "tsk_00000218",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-06-01T08:45:43Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000019",
+    "task_history_id": "tsk_00000219",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-31T11:22:26Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000020",
+    "task_history_id": "tsk_00000220",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-14T20:39:52Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000021",
+    "task_history_id": "tsk_00000221",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-13T04:29:13Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000022",
+    "task_history_id": "tsk_00000222",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-14T10:11:45Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000023",
+    "task_history_id": "tsk_00000223",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-05-31T19:16:00Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000024",
+    "task_history_id": "tsk_00000224",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-08T11:59:19Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000025",
+    "task_history_id": "tsk_00000225",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-06-04T03:30:50Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000026",
+    "task_history_id": "tsk_00000226",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-01T21:18:47Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000027",
+    "task_history_id": "tsk_00000227",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-05-24T08:57:35Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000028",
+    "task_history_id": "tsk_00000228",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-06-01T00:45:20Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000029",
+    "task_history_id": "tsk_00000229",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-25T21:46:04Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000030",
+    "task_history_id": "tsk_00000230",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-03T03:08:04Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000031",
+    "task_history_id": "tsk_00000231",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-25T03:44:26Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000032",
+    "task_history_id": "tsk_00000232",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-20T14:53:18Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000033",
+    "task_history_id": "tsk_00000233",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-30T16:36:29Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000034",
+    "task_history_id": "tsk_00000234",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-22T10:48:03Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000035",
+    "task_history_id": "tsk_00000235",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-12T06:46:06Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000036",
+    "task_history_id": "tsk_00000236",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-08T15:09:01Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000037",
+    "task_history_id": "tsk_00000237",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-06-09T01:06:37Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000038",
+    "task_history_id": "tsk_00000238",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-23T11:26:05Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000039",
+    "task_history_id": "tsk_00000239",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-04T12:06:35Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000040",
+    "task_history_id": "tsk_00000240",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-10T01:08:15Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000041",
+    "task_history_id": "tsk_00000241",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-06-12T11:41:34Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000042",
+    "task_history_id": "tsk_00000242",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-30T04:59:29Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000043",
+    "task_history_id": "tsk_00000243",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-31T20:34:00Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000044",
+    "task_history_id": "tsk_00000244",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-20T18:33:36Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000045",
+    "task_history_id": "tsk_00000245",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-19T15:46:54Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000046",
+    "task_history_id": "tsk_00000246",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-10T04:57:14Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000047",
+    "task_history_id": "tsk_00000247",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-29T10:09:35Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000048",
+    "task_history_id": "tsk_00000248",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-10T05:18:04Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000049",
+    "task_history_id": "tsk_00000249",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-08T16:54:23Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000050",
+    "task_history_id": "tsk_00000250",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-06-01T13:40:37Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000051",
+    "task_history_id": "tsk_00000251",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-13T15:24:01Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000052",
+    "task_history_id": "tsk_00000252",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-19T23:45:29Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000053",
+    "task_history_id": "tsk_00000253",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-26T01:55:37Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000054",
+    "task_history_id": "tsk_00000254",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-18T06:01:05Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000055",
+    "task_history_id": "tsk_00000255",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-21T04:18:47Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000056",
+    "task_history_id": "tsk_00000256",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-22T21:22:42Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000057",
+    "task_history_id": "tsk_00000257",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-11T13:35:10Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000058",
+    "task_history_id": "tsk_00000258",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-16T10:02:16Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000059",
+    "task_history_id": "tsk_00000259",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-24T04:53:20Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000060",
+    "task_history_id": "tsk_00000260",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-26T19:50:05Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000061",
+    "task_history_id": "tsk_00000261",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-06-12T17:23:54Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000062",
+    "task_history_id": "tsk_00000262",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-06T06:45:33Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000063",
+    "task_history_id": "tsk_00000263",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-22T12:18:49Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000064",
+    "task_history_id": "tsk_00000264",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-06-05T18:03:46Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000065",
+    "task_history_id": "tsk_00000265",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-09T23:56:41Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000066",
+    "task_history_id": "tsk_00000266",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-10T04:31:28Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000067",
+    "task_history_id": "tsk_00000267",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-05-17T19:30:55Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000068",
+    "task_history_id": "tsk_00000268",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-06-02T20:41:14Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000069",
+    "task_history_id": "tsk_00000269",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-29T10:01:18Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000070",
+    "task_history_id": "tsk_00000270",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-20T11:24:33Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000071",
+    "task_history_id": "tsk_00000271",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-05-27T20:27:42Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000072",
+    "task_history_id": "tsk_00000272",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-11T23:36:25Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000073",
+    "task_history_id": "tsk_00000273",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-23T12:09:11Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000074",
+    "task_history_id": "tsk_00000274",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-05-31T20:40:49Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000075",
+    "task_history_id": "tsk_00000275",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-24T13:11:54Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000076",
+    "task_history_id": "tsk_00000276",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-23T06:15:13Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000077",
+    "task_history_id": "tsk_00000277",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-19T19:40:54Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000078",
+    "task_history_id": "tsk_00000278",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-03T15:38:44Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000079",
+    "task_history_id": "tsk_00000279",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-21T23:23:23Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000080",
+    "task_history_id": "tsk_00000280",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-06-05T20:08:42Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000081",
+    "task_history_id": "tsk_00000281",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-30T01:41:06Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000082",
+    "task_history_id": "tsk_00000282",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-08T21:21:33Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000083",
+    "task_history_id": "tsk_00000283",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-17T17:40:07Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000084",
+    "task_history_id": "tsk_00000284",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-18T08:32:18Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000085",
+    "task_history_id": "tsk_00000285",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-16T03:32:04Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000086",
+    "task_history_id": "tsk_00000286",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-06-02T19:52:40Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000087",
+    "task_history_id": "tsk_00000287",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-29T11:16:27Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000088",
+    "task_history_id": "tsk_00000288",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-22T21:33:41Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000089",
+    "task_history_id": "tsk_00000289",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-28T04:59:44Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000090",
+    "task_history_id": "tsk_00000290",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-31T00:50:30Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000091",
+    "task_history_id": "tsk_00000291",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-19T18:58:14Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000092",
+    "task_history_id": "tsk_00000292",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-05T13:50:47Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000093",
+    "task_history_id": "tsk_00000293",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-06-07T03:50:52Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000094",
+    "task_history_id": "tsk_00000294",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-03T13:55:01Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000095",
+    "task_history_id": "tsk_00000295",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-20T00:56:09Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000096",
+    "task_history_id": "tsk_00000296",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-06-11T01:05:24Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000097",
+    "task_history_id": "tsk_00000297",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-01T05:37:11Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000098",
+    "task_history_id": "tsk_00000298",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-19T06:34:24Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000099",
+    "task_history_id": "tsk_00000299",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-10T22:52:42Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000100",
+    "task_history_id": "tsk_00000300",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-21T18:00:36Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000001",
+    "task_history_id": "tsk_00000301",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-14T03:29:16Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000002",
+    "task_history_id": "tsk_00000302",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-14T04:46:27Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000003",
+    "task_history_id": "tsk_00000303",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-06-06T16:21:44Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000004",
+    "task_history_id": "tsk_00000304",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-05-26T20:27:44Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000005",
+    "task_history_id": "tsk_00000305",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-28T09:07:46Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000006",
+    "task_history_id": "tsk_00000306",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-18T14:23:20Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000007",
+    "task_history_id": "tsk_00000307",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-11T06:13:37Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000008",
+    "task_history_id": "tsk_00000308",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-28T12:35:19Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000009",
+    "task_history_id": "tsk_00000309",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-05T15:30:55Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000010",
+    "task_history_id": "tsk_00000310",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-05T00:10:56Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000011",
+    "task_history_id": "tsk_00000311",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-05-17T16:59:38Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000012",
+    "task_history_id": "tsk_00000312",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-26T17:20:00Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000013",
+    "task_history_id": "tsk_00000313",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-05-20T12:29:35Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000014",
+    "task_history_id": "tsk_00000314",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-01T04:26:40Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000015",
+    "task_history_id": "tsk_00000315",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-28T07:08:19Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000016",
+    "task_history_id": "tsk_00000316",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-03T01:36:03Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000017",
+    "task_history_id": "tsk_00000317",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-29T15:31:21Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000018",
+    "task_history_id": "tsk_00000318",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-30T08:58:25Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000019",
+    "task_history_id": "tsk_00000319",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-11T05:32:07Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000020",
+    "task_history_id": "tsk_00000320",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-27T21:24:41Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000021",
+    "task_history_id": "tsk_00000321",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-06-01T01:59:11Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000022",
+    "task_history_id": "tsk_00000322",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-29T22:32:54Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000023",
+    "task_history_id": "tsk_00000323",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-12T15:37:48Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000024",
+    "task_history_id": "tsk_00000324",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-06-07T17:40:02Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000025",
+    "task_history_id": "tsk_00000325",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-30T04:51:07Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000026",
+    "task_history_id": "tsk_00000326",
+    "task_name": "check_kyc",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-01T05:15:23Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000027",
+    "task_history_id": "tsk_00000327",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-01T11:05:57Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000028",
+    "task_history_id": "tsk_00000328",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-20T22:16:27Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000029",
+    "task_history_id": "tsk_00000329",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-05-14T05:04:11Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000030",
+    "task_history_id": "tsk_00000330",
+    "task_name": "close_case",
+    "task_status": "blocked",
+    "updated_at": "2026-05-25T10:50:11Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000031",
+    "task_history_id": "tsk_00000331",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-03T15:50:09Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000032",
+    "task_history_id": "tsk_00000332",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-19T03:54:09Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000033",
+    "task_history_id": "tsk_00000333",
+    "task_name": "check_device",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-06T09:09:52Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000034",
+    "task_history_id": "tsk_00000334",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-31T04:04:22Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000035",
+    "task_history_id": "tsk_00000335",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-20T07:23:34Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000036",
+    "task_history_id": "tsk_00000336",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-18T01:02:25Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000037",
+    "task_history_id": "tsk_00000337",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-20T12:31:38Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000038",
+    "task_history_id": "tsk_00000338",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-24T22:50:54Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000039",
+    "task_history_id": "tsk_00000339",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-11T08:50:03Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000040",
+    "task_history_id": "tsk_00000340",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-27T21:04:40Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000041",
+    "task_history_id": "tsk_00000341",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-05-20T21:31:48Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000042",
+    "task_history_id": "tsk_00000342",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-06-07T22:26:38Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000043",
+    "task_history_id": "tsk_00000343",
+    "task_name": "review",
+    "task_status": "done",
+    "updated_at": "2026-05-26T11:59:01Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000044",
+    "task_history_id": "tsk_00000344",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-06-04T14:19:27Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000045",
+    "task_history_id": "tsk_00000345",
+    "task_name": "close_case",
+    "task_status": "done",
+    "updated_at": "2026-05-27T13:32:00Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000046",
+    "task_history_id": "tsk_00000346",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-16T07:44:30Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000047",
+    "task_history_id": "tsk_00000347",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-05-14T11:45:13Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000048",
+    "task_history_id": "tsk_00000348",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-26T16:48:18Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000049",
+    "task_history_id": "tsk_00000349",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-05-17T04:34:59Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000050",
+    "task_history_id": "tsk_00000350",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-02T10:35:09Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000051",
+    "task_history_id": "tsk_00000351",
+    "task_name": "contact_customer",
+    "task_status": "done",
+    "updated_at": "2026-05-16T04:55:30Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000052",
+    "task_history_id": "tsk_00000352",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-05T03:22:02Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000053",
+    "task_history_id": "tsk_00000353",
+    "task_name": "review",
+    "task_status": "blocked",
+    "updated_at": "2026-05-19T10:09:37Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000054",
+    "task_history_id": "tsk_00000354",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-20T06:22:43Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000055",
+    "task_history_id": "tsk_00000355",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-08T03:44:40Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000056",
+    "task_history_id": "tsk_00000356",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-24T11:30:58Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000057",
+    "task_history_id": "tsk_00000357",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-10T03:25:40Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000058",
+    "task_history_id": "tsk_00000358",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-15T04:31:39Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000059",
+    "task_history_id": "tsk_00000359",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-29T09:41:25Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000060",
+    "task_history_id": "tsk_00000360",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-02T03:19:22Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000061",
+    "task_history_id": "tsk_00000361",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-05-25T16:30:42Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000062",
+    "task_history_id": "tsk_00000362",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-19T15:32:37Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000063",
+    "task_history_id": "tsk_00000363",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-18T06:04:26Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000064",
+    "task_history_id": "tsk_00000364",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-18T12:49:41Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000065",
+    "task_history_id": "tsk_00000365",
+    "task_name": "contact_customer",
+    "task_status": "created",
+    "updated_at": "2026-06-09T08:35:42Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000066",
+    "task_history_id": "tsk_00000366",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-10T06:52:27Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000067",
+    "task_history_id": "tsk_00000367",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-03T10:58:04Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000068",
+    "task_history_id": "tsk_00000368",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-21T04:19:26Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000069",
+    "task_history_id": "tsk_00000369",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-20T14:46:25Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000070",
+    "task_history_id": "tsk_00000370",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-06T10:39:05Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000071",
+    "task_history_id": "tsk_00000371",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-12T06:29:36Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000072",
+    "task_history_id": "tsk_00000372",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-18T07:05:29Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000073",
+    "task_history_id": "tsk_00000373",
+    "task_name": "contact_customer",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-04T10:54:10Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000074",
+    "task_history_id": "tsk_00000374",
+    "task_name": "close_case",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-23T22:18:57Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000075",
+    "task_history_id": "tsk_00000375",
+    "task_name": "check_device",
+    "task_status": "done",
+    "updated_at": "2026-05-24T15:21:36Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000076",
+    "task_history_id": "tsk_00000376",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-05-17T16:09:25Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000077",
+    "task_history_id": "tsk_00000377",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-06T11:39:59Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000078",
+    "task_history_id": "tsk_00000378",
+    "task_name": "escalate",
+    "task_status": "blocked",
+    "updated_at": "2026-05-18T09:07:40Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000079",
+    "task_history_id": "tsk_00000379",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-18T07:57:44Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000080",
+    "task_history_id": "tsk_00000380",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-05-19T11:52:59Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000081",
+    "task_history_id": "tsk_00000381",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-14T18:00:48Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000082",
+    "task_history_id": "tsk_00000382",
+    "task_name": "check_kyc",
+    "task_status": "created",
+    "updated_at": "2026-05-26T11:36:52Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000083",
+    "task_history_id": "tsk_00000383",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-05-15T04:55:37Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000084",
+    "task_history_id": "tsk_00000384",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-10T10:27:47Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000085",
+    "task_history_id": "tsk_00000385",
+    "task_name": "escalate",
+    "task_status": "created",
+    "updated_at": "2026-06-05T02:06:15Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000086",
+    "task_history_id": "tsk_00000386",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-26T08:43:13Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000087",
+    "task_history_id": "tsk_00000387",
+    "task_name": "close_case",
+    "task_status": "created",
+    "updated_at": "2026-06-09T18:59:12Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000088",
+    "task_history_id": "tsk_00000388",
+    "task_name": "check_device",
+    "task_status": "created",
+    "updated_at": "2026-06-07T03:17:46Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000089",
+    "task_history_id": "tsk_00000389",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-05-14T17:19:44Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000090",
+    "task_history_id": "tsk_00000390",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-20T05:02:49Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000091",
+    "task_history_id": "tsk_00000391",
+    "task_name": "check_kyc",
+    "task_status": "done",
+    "updated_at": "2026-05-24T22:50:54Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000092",
+    "task_history_id": "tsk_00000392",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-05-30T07:42:19Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000093",
+    "task_history_id": "tsk_00000393",
+    "task_name": "contact_customer",
+    "task_status": "blocked",
+    "updated_at": "2026-05-21T10:30:38Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000094",
+    "task_history_id": "tsk_00000394",
+    "task_name": "check_device",
+    "task_status": "blocked",
+    "updated_at": "2026-06-10T07:14:10Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000095",
+    "task_history_id": "tsk_00000395",
+    "task_name": "review",
+    "task_status": "created",
+    "updated_at": "2026-06-06T20:44:12Z"
+  },
+  {
+    "assigned_to": "agent_b",
+    "investigation_id": "inv_00000096",
+    "task_history_id": "tsk_00000396",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-02T07:47:26Z"
+  },
+  {
+    "assigned_to": "agent_a",
+    "investigation_id": "inv_00000097",
+    "task_history_id": "tsk_00000397",
+    "task_name": "escalate",
+    "task_status": "done",
+    "updated_at": "2026-06-04T04:45:42Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000098",
+    "task_history_id": "tsk_00000398",
+    "task_name": "escalate",
+    "task_status": "in_progress",
+    "updated_at": "2026-06-09T21:58:55Z"
+  },
+  {
+    "assigned_to": "bot_queue",
+    "investigation_id": "inv_00000099",
+    "task_history_id": "tsk_00000399",
+    "task_name": "review",
+    "task_status": "in_progress",
+    "updated_at": "2026-05-25T00:39:35Z"
+  },
+  {
+    "assigned_to": "agent_c",
+    "investigation_id": "inv_00000100",
+    "task_history_id": "tsk_00000400",
+    "task_name": "check_kyc",
+    "task_status": "blocked",
+    "updated_at": "2026-06-08T20:56:52Z"
+  }
+]

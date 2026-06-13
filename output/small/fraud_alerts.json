@@ -1,0 +1,1082 @@
+[
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-06-07T11:47:14Z",
+    "customer_id": "cus_00000138",
+    "fraud_alert_id": "fra_00000001",
+    "severity": "low",
+    "transaction_id": "txn_00000001"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-14T09:38:42Z",
+    "customer_id": "cus_00000142",
+    "fraud_alert_id": "fra_00000002",
+    "severity": "critical",
+    "transaction_id": "txn_00000002"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-03T20:50:39Z",
+    "customer_id": "cus_00000108",
+    "fraud_alert_id": "fra_00000003",
+    "severity": "high",
+    "transaction_id": "txn_00000003"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-21T18:30:30Z",
+    "customer_id": "cus_00000198",
+    "fraud_alert_id": "fra_00000004",
+    "severity": "high",
+    "transaction_id": "txn_00000004"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-08T21:32:07Z",
+    "customer_id": "cus_00000179",
+    "fraud_alert_id": "fra_00000005",
+    "severity": "high",
+    "transaction_id": "txn_00000005"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-06-05T18:20:38Z",
+    "customer_id": "cus_00000022",
+    "fraud_alert_id": "fra_00000006",
+    "severity": "low",
+    "transaction_id": "txn_00000006"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-29T06:54:24Z",
+    "customer_id": "cus_00000120",
+    "fraud_alert_id": "fra_00000007",
+    "severity": "low",
+    "transaction_id": "txn_00000007"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-26T01:55:43Z",
+    "customer_id": "cus_00000119",
+    "fraud_alert_id": "fra_00000008",
+    "severity": "low",
+    "transaction_id": "txn_00000008"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-29T07:43:24Z",
+    "customer_id": "cus_00000194",
+    "fraud_alert_id": "fra_00000009",
+    "severity": "low",
+    "transaction_id": "txn_00000009"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-07T14:17:05Z",
+    "customer_id": "cus_00000097",
+    "fraud_alert_id": "fra_00000010",
+    "severity": "critical",
+    "transaction_id": "txn_00000010"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-04-23T10:26:43Z",
+    "customer_id": "cus_00000169",
+    "fraud_alert_id": "fra_00000011",
+    "severity": "high",
+    "transaction_id": "txn_00000011"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-23T04:20:17Z",
+    "customer_id": "cus_00000164",
+    "fraud_alert_id": "fra_00000012",
+    "severity": "low",
+    "transaction_id": "txn_00000012"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-04T14:58:05Z",
+    "customer_id": "cus_00000026",
+    "fraud_alert_id": "fra_00000013",
+    "severity": "critical",
+    "transaction_id": "txn_00000013"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-18T15:44:22Z",
+    "customer_id": "cus_00000152",
+    "fraud_alert_id": "fra_00000014",
+    "severity": "medium",
+    "transaction_id": "txn_00000014"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-25T17:25:20Z",
+    "customer_id": "cus_00000073",
+    "fraud_alert_id": "fra_00000015",
+    "severity": "critical",
+    "transaction_id": "txn_00000015"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-06-07T17:59:43Z",
+    "customer_id": "cus_00000027",
+    "fraud_alert_id": "fra_00000016",
+    "severity": "medium",
+    "transaction_id": "txn_00000016"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-06-05T03:36:51Z",
+    "customer_id": "cus_00000197",
+    "fraud_alert_id": "fra_00000017",
+    "severity": "high",
+    "transaction_id": "txn_00000017"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-19T23:05:42Z",
+    "customer_id": "cus_00000068",
+    "fraud_alert_id": "fra_00000018",
+    "severity": "high",
+    "transaction_id": "txn_00000018"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-14T23:15:16Z",
+    "customer_id": "cus_00000131",
+    "fraud_alert_id": "fra_00000019",
+    "severity": "low",
+    "transaction_id": "txn_00000019"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-12T03:40:38Z",
+    "customer_id": "cus_00000021",
+    "fraud_alert_id": "fra_00000020",
+    "severity": "critical",
+    "transaction_id": "txn_00000020"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-06-01T06:59:48Z",
+    "customer_id": "cus_00000062",
+    "fraud_alert_id": "fra_00000021",
+    "severity": "critical",
+    "transaction_id": "txn_00000021"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-06-12T00:35:14Z",
+    "customer_id": "cus_00000098",
+    "fraud_alert_id": "fra_00000022",
+    "severity": "critical",
+    "transaction_id": "txn_00000022"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-06-07T12:58:48Z",
+    "customer_id": "cus_00000098",
+    "fraud_alert_id": "fra_00000023",
+    "severity": "medium",
+    "transaction_id": "txn_00000023"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-22T00:22:13Z",
+    "customer_id": "cus_00000053",
+    "fraud_alert_id": "fra_00000024",
+    "severity": "low",
+    "transaction_id": "txn_00000024"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-07T11:38:25Z",
+    "customer_id": "cus_00000028",
+    "fraud_alert_id": "fra_00000025",
+    "severity": "low",
+    "transaction_id": "txn_00000025"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-13T08:53:37Z",
+    "customer_id": "cus_00000008",
+    "fraud_alert_id": "fra_00000026",
+    "severity": "critical",
+    "transaction_id": "txn_00000026"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-07T05:12:01Z",
+    "customer_id": "cus_00000189",
+    "fraud_alert_id": "fra_00000027",
+    "severity": "critical",
+    "transaction_id": "txn_00000027"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-06-02T09:52:45Z",
+    "customer_id": "cus_00000009",
+    "fraud_alert_id": "fra_00000028",
+    "severity": "high",
+    "transaction_id": "txn_00000028"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-04-18T21:11:34Z",
+    "customer_id": "cus_00000068",
+    "fraud_alert_id": "fra_00000029",
+    "severity": "medium",
+    "transaction_id": "txn_00000029"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-04-25T23:18:55Z",
+    "customer_id": "cus_00000168",
+    "fraud_alert_id": "fra_00000030",
+    "severity": "medium",
+    "transaction_id": "txn_00000030"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-06-05T01:07:13Z",
+    "customer_id": "cus_00000144",
+    "fraud_alert_id": "fra_00000031",
+    "severity": "high",
+    "transaction_id": "txn_00000031"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-06-07T01:14:24Z",
+    "customer_id": "cus_00000031",
+    "fraud_alert_id": "fra_00000032",
+    "severity": "low",
+    "transaction_id": "txn_00000032"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-04-27T07:27:58Z",
+    "customer_id": "cus_00000147",
+    "fraud_alert_id": "fra_00000033",
+    "severity": "high",
+    "transaction_id": "txn_00000033"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-27T00:37:45Z",
+    "customer_id": "cus_00000180",
+    "fraud_alert_id": "fra_00000034",
+    "severity": "low",
+    "transaction_id": "txn_00000034"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-26T01:05:32Z",
+    "customer_id": "cus_00000081",
+    "fraud_alert_id": "fra_00000035",
+    "severity": "medium",
+    "transaction_id": "txn_00000035"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-04T13:16:49Z",
+    "customer_id": "cus_00000040",
+    "fraud_alert_id": "fra_00000036",
+    "severity": "critical",
+    "transaction_id": "txn_00000036"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-07T02:48:15Z",
+    "customer_id": "cus_00000095",
+    "fraud_alert_id": "fra_00000037",
+    "severity": "low",
+    "transaction_id": "txn_00000037"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-02T05:39:06Z",
+    "customer_id": "cus_00000149",
+    "fraud_alert_id": "fra_00000038",
+    "severity": "high",
+    "transaction_id": "txn_00000038"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-20T15:01:40Z",
+    "customer_id": "cus_00000050",
+    "fraud_alert_id": "fra_00000039",
+    "severity": "high",
+    "transaction_id": "txn_00000039"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-30T13:44:17Z",
+    "customer_id": "cus_00000090",
+    "fraud_alert_id": "fra_00000040",
+    "severity": "low",
+    "transaction_id": "txn_00000040"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-11T11:31:20Z",
+    "customer_id": "cus_00000166",
+    "fraud_alert_id": "fra_00000041",
+    "severity": "medium",
+    "transaction_id": "txn_00000041"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-06-10T18:31:34Z",
+    "customer_id": "cus_00000008",
+    "fraud_alert_id": "fra_00000042",
+    "severity": "critical",
+    "transaction_id": "txn_00000042"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-21T03:11:06Z",
+    "customer_id": "cus_00000023",
+    "fraud_alert_id": "fra_00000043",
+    "severity": "critical",
+    "transaction_id": "txn_00000043"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-26T19:23:22Z",
+    "customer_id": "cus_00000034",
+    "fraud_alert_id": "fra_00000044",
+    "severity": "high",
+    "transaction_id": "txn_00000044"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-26T02:40:02Z",
+    "customer_id": "cus_00000126",
+    "fraud_alert_id": "fra_00000045",
+    "severity": "critical",
+    "transaction_id": "txn_00000045"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-29T11:23:20Z",
+    "customer_id": "cus_00000100",
+    "fraud_alert_id": "fra_00000046",
+    "severity": "high",
+    "transaction_id": "txn_00000046"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-06-09T20:47:42Z",
+    "customer_id": "cus_00000110",
+    "fraud_alert_id": "fra_00000047",
+    "severity": "high",
+    "transaction_id": "txn_00000047"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-09T18:01:04Z",
+    "customer_id": "cus_00000003",
+    "fraud_alert_id": "fra_00000048",
+    "severity": "critical",
+    "transaction_id": "txn_00000048"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-17T08:02:24Z",
+    "customer_id": "cus_00000100",
+    "fraud_alert_id": "fra_00000049",
+    "severity": "high",
+    "transaction_id": "txn_00000049"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-12T19:46:48Z",
+    "customer_id": "cus_00000094",
+    "fraud_alert_id": "fra_00000050",
+    "severity": "high",
+    "transaction_id": "txn_00000050"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-04-19T02:03:22Z",
+    "customer_id": "cus_00000059",
+    "fraud_alert_id": "fra_00000051",
+    "severity": "high",
+    "transaction_id": "txn_00000051"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-06-06T11:49:05Z",
+    "customer_id": "cus_00000006",
+    "fraud_alert_id": "fra_00000052",
+    "severity": "low",
+    "transaction_id": "txn_00000052"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-04-18T23:30:00Z",
+    "customer_id": "cus_00000007",
+    "fraud_alert_id": "fra_00000053",
+    "severity": "critical",
+    "transaction_id": "txn_00000053"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-17T11:02:22Z",
+    "customer_id": "cus_00000091",
+    "fraud_alert_id": "fra_00000054",
+    "severity": "medium",
+    "transaction_id": "txn_00000054"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-07T14:15:03Z",
+    "customer_id": "cus_00000194",
+    "fraud_alert_id": "fra_00000055",
+    "severity": "critical",
+    "transaction_id": "txn_00000055"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-06-11T20:35:28Z",
+    "customer_id": "cus_00000037",
+    "fraud_alert_id": "fra_00000056",
+    "severity": "high",
+    "transaction_id": "txn_00000056"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-21T08:49:55Z",
+    "customer_id": "cus_00000037",
+    "fraud_alert_id": "fra_00000057",
+    "severity": "critical",
+    "transaction_id": "txn_00000057"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-04-30T22:16:12Z",
+    "customer_id": "cus_00000076",
+    "fraud_alert_id": "fra_00000058",
+    "severity": "medium",
+    "transaction_id": "txn_00000058"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-06-09T12:59:30Z",
+    "customer_id": "cus_00000056",
+    "fraud_alert_id": "fra_00000059",
+    "severity": "medium",
+    "transaction_id": "txn_00000059"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-30T13:31:05Z",
+    "customer_id": "cus_00000192",
+    "fraud_alert_id": "fra_00000060",
+    "severity": "high",
+    "transaction_id": "txn_00000060"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-04-14T06:59:49Z",
+    "customer_id": "cus_00000131",
+    "fraud_alert_id": "fra_00000061",
+    "severity": "high",
+    "transaction_id": "txn_00000061"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-01T03:47:03Z",
+    "customer_id": "cus_00000143",
+    "fraud_alert_id": "fra_00000062",
+    "severity": "high",
+    "transaction_id": "txn_00000062"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-04-16T02:59:25Z",
+    "customer_id": "cus_00000024",
+    "fraud_alert_id": "fra_00000063",
+    "severity": "critical",
+    "transaction_id": "txn_00000063"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-04-15T01:28:20Z",
+    "customer_id": "cus_00000107",
+    "fraud_alert_id": "fra_00000064",
+    "severity": "high",
+    "transaction_id": "txn_00000064"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-04T23:44:02Z",
+    "customer_id": "cus_00000179",
+    "fraud_alert_id": "fra_00000065",
+    "severity": "high",
+    "transaction_id": "txn_00000065"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-16T05:35:44Z",
+    "customer_id": "cus_00000188",
+    "fraud_alert_id": "fra_00000066",
+    "severity": "low",
+    "transaction_id": "txn_00000066"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-04-27T12:38:23Z",
+    "customer_id": "cus_00000127",
+    "fraud_alert_id": "fra_00000067",
+    "severity": "high",
+    "transaction_id": "txn_00000067"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-30T07:47:30Z",
+    "customer_id": "cus_00000113",
+    "fraud_alert_id": "fra_00000068",
+    "severity": "low",
+    "transaction_id": "txn_00000068"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-06-03T04:51:32Z",
+    "customer_id": "cus_00000175",
+    "fraud_alert_id": "fra_00000069",
+    "severity": "high",
+    "transaction_id": "txn_00000069"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-04-16T07:54:53Z",
+    "customer_id": "cus_00000054",
+    "fraud_alert_id": "fra_00000070",
+    "severity": "critical",
+    "transaction_id": "txn_00000070"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-18T02:46:15Z",
+    "customer_id": "cus_00000100",
+    "fraud_alert_id": "fra_00000071",
+    "severity": "low",
+    "transaction_id": "txn_00000071"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-26T22:26:42Z",
+    "customer_id": "cus_00000197",
+    "fraud_alert_id": "fra_00000072",
+    "severity": "high",
+    "transaction_id": "txn_00000072"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-06-08T06:40:33Z",
+    "customer_id": "cus_00000170",
+    "fraud_alert_id": "fra_00000073",
+    "severity": "high",
+    "transaction_id": "txn_00000073"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-08T08:09:15Z",
+    "customer_id": "cus_00000097",
+    "fraud_alert_id": "fra_00000074",
+    "severity": "medium",
+    "transaction_id": "txn_00000074"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-04-29T07:50:42Z",
+    "customer_id": "cus_00000090",
+    "fraud_alert_id": "fra_00000075",
+    "severity": "low",
+    "transaction_id": "txn_00000075"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-13T12:57:49Z",
+    "customer_id": "cus_00000184",
+    "fraud_alert_id": "fra_00000076",
+    "severity": "medium",
+    "transaction_id": "txn_00000076"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-22T06:26:43Z",
+    "customer_id": "cus_00000174",
+    "fraud_alert_id": "fra_00000077",
+    "severity": "high",
+    "transaction_id": "txn_00000077"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-04-24T21:19:56Z",
+    "customer_id": "cus_00000184",
+    "fraud_alert_id": "fra_00000078",
+    "severity": "medium",
+    "transaction_id": "txn_00000078"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-30T13:52:13Z",
+    "customer_id": "cus_00000124",
+    "fraud_alert_id": "fra_00000079",
+    "severity": "high",
+    "transaction_id": "txn_00000079"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-16T04:16:40Z",
+    "customer_id": "cus_00000082",
+    "fraud_alert_id": "fra_00000080",
+    "severity": "high",
+    "transaction_id": "txn_00000080"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-15T17:41:25Z",
+    "customer_id": "cus_00000050",
+    "fraud_alert_id": "fra_00000081",
+    "severity": "medium",
+    "transaction_id": "txn_00000081"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-05-07T05:48:42Z",
+    "customer_id": "cus_00000156",
+    "fraud_alert_id": "fra_00000082",
+    "severity": "critical",
+    "transaction_id": "txn_00000082"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-06-13T07:36:05Z",
+    "customer_id": "cus_00000089",
+    "fraud_alert_id": "fra_00000083",
+    "severity": "low",
+    "transaction_id": "txn_00000083"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-04-26T06:36:42Z",
+    "customer_id": "cus_00000001",
+    "fraud_alert_id": "fra_00000084",
+    "severity": "critical",
+    "transaction_id": "txn_00000084"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-04T03:28:17Z",
+    "customer_id": "cus_00000066",
+    "fraud_alert_id": "fra_00000085",
+    "severity": "medium",
+    "transaction_id": "txn_00000085"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-30T18:32:21Z",
+    "customer_id": "cus_00000099",
+    "fraud_alert_id": "fra_00000086",
+    "severity": "critical",
+    "transaction_id": "txn_00000086"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-29T08:34:05Z",
+    "customer_id": "cus_00000093",
+    "fraud_alert_id": "fra_00000087",
+    "severity": "high",
+    "transaction_id": "txn_00000087"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-08T15:57:05Z",
+    "customer_id": "cus_00000092",
+    "fraud_alert_id": "fra_00000088",
+    "severity": "medium",
+    "transaction_id": "txn_00000088"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-15T04:32:31Z",
+    "customer_id": "cus_00000050",
+    "fraud_alert_id": "fra_00000089",
+    "severity": "low",
+    "transaction_id": "txn_00000089"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-13T13:57:08Z",
+    "customer_id": "cus_00000171",
+    "fraud_alert_id": "fra_00000090",
+    "severity": "high",
+    "transaction_id": "txn_00000090"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-20T04:19:57Z",
+    "customer_id": "cus_00000060",
+    "fraud_alert_id": "fra_00000091",
+    "severity": "critical",
+    "transaction_id": "txn_00000091"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-04-18T02:36:21Z",
+    "customer_id": "cus_00000034",
+    "fraud_alert_id": "fra_00000092",
+    "severity": "critical",
+    "transaction_id": "txn_00000092"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-23T10:44:34Z",
+    "customer_id": "cus_00000190",
+    "fraud_alert_id": "fra_00000093",
+    "severity": "high",
+    "transaction_id": "txn_00000093"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-15T23:02:21Z",
+    "customer_id": "cus_00000176",
+    "fraud_alert_id": "fra_00000094",
+    "severity": "critical",
+    "transaction_id": "txn_00000094"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-03T21:37:28Z",
+    "customer_id": "cus_00000164",
+    "fraud_alert_id": "fra_00000095",
+    "severity": "low",
+    "transaction_id": "txn_00000095"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-06T10:29:00Z",
+    "customer_id": "cus_00000184",
+    "fraud_alert_id": "fra_00000096",
+    "severity": "low",
+    "transaction_id": "txn_00000096"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-08T12:46:07Z",
+    "customer_id": "cus_00000039",
+    "fraud_alert_id": "fra_00000097",
+    "severity": "medium",
+    "transaction_id": "txn_00000097"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-10T15:20:55Z",
+    "customer_id": "cus_00000022",
+    "fraud_alert_id": "fra_00000098",
+    "severity": "medium",
+    "transaction_id": "txn_00000098"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-05T13:12:24Z",
+    "customer_id": "cus_00000089",
+    "fraud_alert_id": "fra_00000099",
+    "severity": "medium",
+    "transaction_id": "txn_00000099"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-06-05T04:05:00Z",
+    "customer_id": "cus_00000146",
+    "fraud_alert_id": "fra_00000100",
+    "severity": "critical",
+    "transaction_id": "txn_00000100"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-15T13:54:39Z",
+    "customer_id": "cus_00000020",
+    "fraud_alert_id": "fra_00000101",
+    "severity": "high",
+    "transaction_id": "txn_00000101"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-06-05T19:52:01Z",
+    "customer_id": "cus_00000185",
+    "fraud_alert_id": "fra_00000102",
+    "severity": "critical",
+    "transaction_id": "txn_00000102"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-06-03T05:27:56Z",
+    "customer_id": "cus_00000115",
+    "fraud_alert_id": "fra_00000103",
+    "severity": "low",
+    "transaction_id": "txn_00000103"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-04-19T12:30:50Z",
+    "customer_id": "cus_00000142",
+    "fraud_alert_id": "fra_00000104",
+    "severity": "low",
+    "transaction_id": "txn_00000104"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-23T12:11:42Z",
+    "customer_id": "cus_00000073",
+    "fraud_alert_id": "fra_00000105",
+    "severity": "low",
+    "transaction_id": "txn_00000105"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Synthetic Identity",
+    "created_at": "2026-04-14T04:34:35Z",
+    "customer_id": "cus_00000188",
+    "fraud_alert_id": "fra_00000106",
+    "severity": "high",
+    "transaction_id": "txn_00000106"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-03T16:44:07Z",
+    "customer_id": "cus_00000013",
+    "fraud_alert_id": "fra_00000107",
+    "severity": "critical",
+    "transaction_id": "txn_00000107"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-04-29T18:58:50Z",
+    "customer_id": "cus_00000127",
+    "fraud_alert_id": "fra_00000108",
+    "severity": "high",
+    "transaction_id": "txn_00000108"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-07T00:17:22Z",
+    "customer_id": "cus_00000088",
+    "fraud_alert_id": "fra_00000109",
+    "severity": "high",
+    "transaction_id": "txn_00000109"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-23T11:03:18Z",
+    "customer_id": "cus_00000193",
+    "fraud_alert_id": "fra_00000110",
+    "severity": "low",
+    "transaction_id": "txn_00000110"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-04-17T03:35:27Z",
+    "customer_id": "cus_00000159",
+    "fraud_alert_id": "fra_00000111",
+    "severity": "critical",
+    "transaction_id": "txn_00000111"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-19T07:57:58Z",
+    "customer_id": "cus_00000106",
+    "fraud_alert_id": "fra_00000112",
+    "severity": "high",
+    "transaction_id": "txn_00000112"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-06-06T16:57:24Z",
+    "customer_id": "cus_00000046",
+    "fraud_alert_id": "fra_00000113",
+    "severity": "critical",
+    "transaction_id": "txn_00000113"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Account Takeover",
+    "created_at": "2026-05-25T04:23:49Z",
+    "customer_id": "cus_00000074",
+    "fraud_alert_id": "fra_00000114",
+    "severity": "medium",
+    "transaction_id": "txn_00000114"
+  },
+  {
+    "alert_status": "open",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-05-01T03:11:06Z",
+    "customer_id": "cus_00000070",
+    "fraud_alert_id": "fra_00000115",
+    "severity": "high",
+    "transaction_id": "txn_00000115"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-04-17T22:34:04Z",
+    "customer_id": "cus_00000038",
+    "fraud_alert_id": "fra_00000116",
+    "severity": "low",
+    "transaction_id": "txn_00000116"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Velocity Fraud",
+    "created_at": "2026-05-06T05:17:56Z",
+    "customer_id": "cus_00000170",
+    "fraud_alert_id": "fra_00000117",
+    "severity": "medium",
+    "transaction_id": "txn_00000117"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Promo Abuse",
+    "created_at": "2026-04-23T22:52:26Z",
+    "customer_id": "cus_00000074",
+    "fraud_alert_id": "fra_00000118",
+    "severity": "low",
+    "transaction_id": "txn_00000118"
+  },
+  {
+    "alert_status": "triaged",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-08T16:14:40Z",
+    "customer_id": "cus_00000066",
+    "fraud_alert_id": "fra_00000119",
+    "severity": "low",
+    "transaction_id": "txn_00000119"
+  },
+  {
+    "alert_status": "closed",
+    "alert_type": "Money Mule Networks",
+    "created_at": "2026-05-23T20:22:00Z",
+    "customer_id": "cus_00000145",
+    "fraud_alert_id": "fra_00000120",
+    "severity": "high",
+    "transaction_id": "txn_00000120"
+  }
+]

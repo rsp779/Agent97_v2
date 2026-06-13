@@ -1,0 +1,802 @@
+[
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000001",
+    "investigation_id": "inv_00000001",
+    "priority": "P1",
+    "started_at": "2026-05-17T20:54:11Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000002",
+    "investigation_id": "inv_00000002",
+    "priority": "P3",
+    "started_at": "2026-05-29T06:43:03Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000003",
+    "investigation_id": "inv_00000003",
+    "priority": "P2",
+    "started_at": "2026-06-10T05:33:41Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000004",
+    "investigation_id": "inv_00000004",
+    "priority": "P3",
+    "started_at": "2026-05-08T03:55:12Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000005",
+    "investigation_id": "inv_00000005",
+    "priority": "P1",
+    "started_at": "2026-06-07T08:32:41Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000006",
+    "investigation_id": "inv_00000006",
+    "priority": "P3",
+    "started_at": "2026-05-18T23:44:54Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000007",
+    "investigation_id": "inv_00000007",
+    "priority": "P3",
+    "started_at": "2026-05-22T17:34:47Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000008",
+    "investigation_id": "inv_00000008",
+    "priority": "P2",
+    "started_at": "2026-06-05T02:04:55Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000009",
+    "investigation_id": "inv_00000009",
+    "priority": "P1",
+    "started_at": "2026-06-07T00:06:50Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000010",
+    "investigation_id": "inv_00000010",
+    "priority": "P2",
+    "started_at": "2026-05-17T14:27:54Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000011",
+    "investigation_id": "inv_00000011",
+    "priority": "P2",
+    "started_at": "2026-05-14T17:34:19Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000012",
+    "investigation_id": "inv_00000012",
+    "priority": "P2",
+    "started_at": "2026-05-15T15:48:10Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000013",
+    "investigation_id": "inv_00000013",
+    "priority": "P3",
+    "started_at": "2026-04-29T09:23:02Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000014",
+    "investigation_id": "inv_00000014",
+    "priority": "P2",
+    "started_at": "2026-05-18T21:10:44Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000015",
+    "investigation_id": "inv_00000015",
+    "priority": "P1",
+    "started_at": "2026-05-09T15:40:58Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000016",
+    "investigation_id": "inv_00000016",
+    "priority": "P3",
+    "started_at": "2026-05-02T03:30:34Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000017",
+    "investigation_id": "inv_00000017",
+    "priority": "P2",
+    "started_at": "2026-05-23T22:31:52Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000018",
+    "investigation_id": "inv_00000018",
+    "priority": "P3",
+    "started_at": "2026-05-05T14:14:33Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000019",
+    "investigation_id": "inv_00000019",
+    "priority": "P3",
+    "started_at": "2026-06-05T03:01:18Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000020",
+    "investigation_id": "inv_00000020",
+    "priority": "P3",
+    "started_at": "2026-05-03T19:29:34Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000021",
+    "investigation_id": "inv_00000021",
+    "priority": "P3",
+    "started_at": "2026-05-07T05:29:26Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000022",
+    "investigation_id": "inv_00000022",
+    "priority": "P3",
+    "started_at": "2026-06-04T20:54:34Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000023",
+    "investigation_id": "inv_00000023",
+    "priority": "P1",
+    "started_at": "2026-05-06T19:57:51Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000024",
+    "investigation_id": "inv_00000024",
+    "priority": "P2",
+    "started_at": "2026-05-07T14:33:10Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000025",
+    "investigation_id": "inv_00000025",
+    "priority": "P1",
+    "started_at": "2026-06-04T12:46:37Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000026",
+    "investigation_id": "inv_00000026",
+    "priority": "P1",
+    "started_at": "2026-04-30T14:02:42Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000027",
+    "investigation_id": "inv_00000027",
+    "priority": "P3",
+    "started_at": "2026-06-13T05:47:02Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000028",
+    "investigation_id": "inv_00000028",
+    "priority": "P1",
+    "started_at": "2026-06-05T08:06:07Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000029",
+    "investigation_id": "inv_00000029",
+    "priority": "P3",
+    "started_at": "2026-05-08T11:06:52Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000030",
+    "investigation_id": "inv_00000030",
+    "priority": "P2",
+    "started_at": "2026-06-03T01:31:43Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000031",
+    "investigation_id": "inv_00000031",
+    "priority": "P2",
+    "started_at": "2026-06-04T11:19:34Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000032",
+    "investigation_id": "inv_00000032",
+    "priority": "P2",
+    "started_at": "2026-05-16T21:46:05Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000033",
+    "investigation_id": "inv_00000033",
+    "priority": "P3",
+    "started_at": "2026-05-06T04:54:01Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000034",
+    "investigation_id": "inv_00000034",
+    "priority": "P1",
+    "started_at": "2026-05-26T05:45:25Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000035",
+    "investigation_id": "inv_00000035",
+    "priority": "P2",
+    "started_at": "2026-05-24T03:51:53Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000036",
+    "investigation_id": "inv_00000036",
+    "priority": "P2",
+    "started_at": "2026-05-29T10:40:14Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000037",
+    "investigation_id": "inv_00000037",
+    "priority": "P2",
+    "started_at": "2026-05-05T17:26:05Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000038",
+    "investigation_id": "inv_00000038",
+    "priority": "P1",
+    "started_at": "2026-06-03T10:23:33Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000039",
+    "investigation_id": "inv_00000039",
+    "priority": "P2",
+    "started_at": "2026-06-01T00:00:27Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000040",
+    "investigation_id": "inv_00000040",
+    "priority": "P2",
+    "started_at": "2026-05-21T12:05:48Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000041",
+    "investigation_id": "inv_00000041",
+    "priority": "P3",
+    "started_at": "2026-06-01T17:51:20Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000042",
+    "investigation_id": "inv_00000042",
+    "priority": "P3",
+    "started_at": "2026-06-12T07:32:14Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000043",
+    "investigation_id": "inv_00000043",
+    "priority": "P2",
+    "started_at": "2026-05-25T05:15:42Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000044",
+    "investigation_id": "inv_00000044",
+    "priority": "P1",
+    "started_at": "2026-05-14T18:59:39Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000045",
+    "investigation_id": "inv_00000045",
+    "priority": "P3",
+    "started_at": "2026-05-29T00:39:43Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000046",
+    "investigation_id": "inv_00000046",
+    "priority": "P1",
+    "started_at": "2026-05-13T13:42:04Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000047",
+    "investigation_id": "inv_00000047",
+    "priority": "P2",
+    "started_at": "2026-05-22T00:07:49Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000048",
+    "investigation_id": "inv_00000048",
+    "priority": "P2",
+    "started_at": "2026-06-08T20:41:33Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000049",
+    "investigation_id": "inv_00000049",
+    "priority": "P2",
+    "started_at": "2026-05-14T04:25:24Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000050",
+    "investigation_id": "inv_00000050",
+    "priority": "P2",
+    "started_at": "2026-05-09T08:44:16Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000001",
+    "investigation_id": "inv_00000051",
+    "priority": "P2",
+    "started_at": "2026-06-01T22:26:16Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000002",
+    "investigation_id": "inv_00000052",
+    "priority": "P2",
+    "started_at": "2026-05-23T03:37:43Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000003",
+    "investigation_id": "inv_00000053",
+    "priority": "P3",
+    "started_at": "2026-05-06T02:55:48Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000004",
+    "investigation_id": "inv_00000054",
+    "priority": "P2",
+    "started_at": "2026-06-05T10:06:46Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000005",
+    "investigation_id": "inv_00000055",
+    "priority": "P1",
+    "started_at": "2026-05-31T03:21:05Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000006",
+    "investigation_id": "inv_00000056",
+    "priority": "P3",
+    "started_at": "2026-05-08T10:47:02Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000007",
+    "investigation_id": "inv_00000057",
+    "priority": "P1",
+    "started_at": "2026-05-04T16:58:41Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000008",
+    "investigation_id": "inv_00000058",
+    "priority": "P3",
+    "started_at": "2026-05-25T20:22:08Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000009",
+    "investigation_id": "inv_00000059",
+    "priority": "P1",
+    "started_at": "2026-04-28T16:03:15Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000010",
+    "investigation_id": "inv_00000060",
+    "priority": "P1",
+    "started_at": "2026-05-29T20:14:34Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000011",
+    "investigation_id": "inv_00000061",
+    "priority": "P3",
+    "started_at": "2026-06-03T20:32:45Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000012",
+    "investigation_id": "inv_00000062",
+    "priority": "P3",
+    "started_at": "2026-05-07T23:25:16Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000013",
+    "investigation_id": "inv_00000063",
+    "priority": "P2",
+    "started_at": "2026-05-26T06:02:34Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000014",
+    "investigation_id": "inv_00000064",
+    "priority": "P3",
+    "started_at": "2026-05-18T05:49:00Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000015",
+    "investigation_id": "inv_00000065",
+    "priority": "P1",
+    "started_at": "2026-05-03T00:47:02Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000016",
+    "investigation_id": "inv_00000066",
+    "priority": "P1",
+    "started_at": "2026-04-29T02:34:17Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000017",
+    "investigation_id": "inv_00000067",
+    "priority": "P1",
+    "started_at": "2026-05-28T04:46:29Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000018",
+    "investigation_id": "inv_00000068",
+    "priority": "P2",
+    "started_at": "2026-05-28T04:58:07Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000019",
+    "investigation_id": "inv_00000069",
+    "priority": "P3",
+    "started_at": "2026-05-07T09:14:29Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000020",
+    "investigation_id": "inv_00000070",
+    "priority": "P1",
+    "started_at": "2026-04-30T12:21:09Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000021",
+    "investigation_id": "inv_00000071",
+    "priority": "P2",
+    "started_at": "2026-06-02T20:33:07Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000022",
+    "investigation_id": "inv_00000072",
+    "priority": "P3",
+    "started_at": "2026-05-24T06:54:01Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000023",
+    "investigation_id": "inv_00000073",
+    "priority": "P3",
+    "started_at": "2026-05-03T18:09:17Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000024",
+    "investigation_id": "inv_00000074",
+    "priority": "P3",
+    "started_at": "2026-05-01T19:03:37Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000025",
+    "investigation_id": "inv_00000075",
+    "priority": "P1",
+    "started_at": "2026-05-31T16:56:54Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000026",
+    "investigation_id": "inv_00000076",
+    "priority": "P1",
+    "started_at": "2026-06-13T11:02:12Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000027",
+    "investigation_id": "inv_00000077",
+    "priority": "P1",
+    "started_at": "2026-05-30T13:32:09Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000028",
+    "investigation_id": "inv_00000078",
+    "priority": "P2",
+    "started_at": "2026-05-02T19:17:57Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000029",
+    "investigation_id": "inv_00000079",
+    "priority": "P2",
+    "started_at": "2026-05-18T23:09:52Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000030",
+    "investigation_id": "inv_00000080",
+    "priority": "P1",
+    "started_at": "2026-06-02T16:29:58Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000031",
+    "investigation_id": "inv_00000081",
+    "priority": "P2",
+    "started_at": "2026-05-29T02:05:28Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000032",
+    "investigation_id": "inv_00000082",
+    "priority": "P2",
+    "started_at": "2026-05-30T05:55:54Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000033",
+    "investigation_id": "inv_00000083",
+    "priority": "P2",
+    "started_at": "2026-05-02T21:34:59Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000034",
+    "investigation_id": "inv_00000084",
+    "priority": "P1",
+    "started_at": "2026-05-25T21:40:00Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000035",
+    "investigation_id": "inv_00000085",
+    "priority": "P2",
+    "started_at": "2026-05-15T01:14:32Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000036",
+    "investigation_id": "inv_00000086",
+    "priority": "P1",
+    "started_at": "2026-06-08T17:53:07Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000037",
+    "investigation_id": "inv_00000087",
+    "priority": "P1",
+    "started_at": "2026-05-18T15:54:42Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000038",
+    "investigation_id": "inv_00000088",
+    "priority": "P2",
+    "started_at": "2026-05-06T21:45:18Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000039",
+    "investigation_id": "inv_00000089",
+    "priority": "P2",
+    "started_at": "2026-06-10T13:18:06Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000040",
+    "investigation_id": "inv_00000090",
+    "priority": "P3",
+    "started_at": "2026-05-16T01:09:48Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000041",
+    "investigation_id": "inv_00000091",
+    "priority": "P1",
+    "started_at": "2026-05-26T17:50:35Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000042",
+    "investigation_id": "inv_00000092",
+    "priority": "P3",
+    "started_at": "2026-06-08T12:18:26Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000043",
+    "investigation_id": "inv_00000093",
+    "priority": "P1",
+    "started_at": "2026-05-24T09:15:12Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000044",
+    "investigation_id": "inv_00000094",
+    "priority": "P2",
+    "started_at": "2026-05-13T15:13:13Z",
+    "status": "escalated"
+  },
+  {
+    "assigned_team": "AML",
+    "fraud_case_id": "case_00000045",
+    "investigation_id": "inv_00000095",
+    "priority": "P3",
+    "started_at": "2026-05-14T13:16:47Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000046",
+    "investigation_id": "inv_00000096",
+    "priority": "P1",
+    "started_at": "2026-05-18T21:34:46Z",
+    "status": "resolved"
+  },
+  {
+    "assigned_team": "Tier1",
+    "fraud_case_id": "case_00000047",
+    "investigation_id": "inv_00000097",
+    "priority": "P2",
+    "started_at": "2026-05-26T07:23:02Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000048",
+    "investigation_id": "inv_00000098",
+    "priority": "P2",
+    "started_at": "2026-06-10T05:53:33Z",
+    "status": "in_progress"
+  },
+  {
+    "assigned_team": "Forensics",
+    "fraud_case_id": "case_00000049",
+    "investigation_id": "inv_00000099",
+    "priority": "P1",
+    "started_at": "2026-05-29T18:54:15Z",
+    "status": "open"
+  },
+  {
+    "assigned_team": "Tier2",
+    "fraud_case_id": "case_00000050",
+    "investigation_id": "inv_00000100",
+    "priority": "P1",
+    "started_at": "2026-06-06T12:02:11Z",
+    "status": "in_progress"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "approval_id": "apr_00000001",
+    "approved_at": "2026-06-01T13:22:54Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000001"
+  },
+  {
+    "approval_id": "apr_00000002",
+    "approved_at": "2026-05-16T05:41:58Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000002"
+  },
+  {
+    "approval_id": "apr_00000003",
+    "approved_at": "2026-06-07T14:30:39Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000003"
+  },
+  {
+    "approval_id": "apr_00000004",
+    "approved_at": "2026-06-12T09:27:30Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000004"
+  },
+  {
+    "approval_id": "apr_00000005",
+    "approved_at": "2026-05-23T01:29:49Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000005"
+  },
+  {
+    "approval_id": "apr_00000006",
+    "approved_at": "2026-05-16T07:46:43Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000006"
+  },
+  {
+    "approval_id": "apr_00000007",
+    "approved_at": "2026-06-12T19:50:40Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000007"
+  },
+  {
+    "approval_id": "apr_00000008",
+    "approved_at": "2026-05-23T15:04:58Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000008"
+  },
+  {
+    "approval_id": "apr_00000009",
+    "approved_at": "2026-05-25T10:38:32Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000009"
+  },
+  {
+    "approval_id": "apr_00000010",
+    "approved_at": "2026-05-27T04:53:24Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000010"
+  },
+  {
+    "approval_id": "apr_00000011",
+    "approved_at": "2026-06-03T18:27:44Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000011"
+  },
+  {
+    "approval_id": "apr_00000012",
+    "approved_at": "2026-05-22T13:54:57Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000012"
+  },
+  {
+    "approval_id": "apr_00000013",
+    "approved_at": "2026-05-13T20:39:57Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000013"
+  },
+  {
+    "approval_id": "apr_00000014",
+    "approved_at": "2026-06-04T01:34:33Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000014"
+  },
+  {
+    "approval_id": "apr_00000015",
+    "approved_at": "2026-05-31T22:53:15Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000015"
+  },
+  {
+    "approval_id": "apr_00000016",
+    "approved_at": "2026-05-21T16:09:43Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000016"
+  },
+  {
+    "approval_id": "apr_00000017",
+    "approved_at": "2026-05-15T12:26:48Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000017"
+  },
+  {
+    "approval_id": "apr_00000018",
+    "approved_at": "2026-05-24T01:21:46Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000018"
+  },
+  {
+    "approval_id": "apr_00000019",
+    "approved_at": "2026-05-30T18:13:02Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000019"
+  },
+  {
+    "approval_id": "apr_00000020",
+    "approved_at": "2026-05-20T23:39:47Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000020"
+  },
+  {
+    "approval_id": "apr_00000021",
+    "approved_at": "2026-05-28T00:43:09Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000021"
+  },
+  {
+    "approval_id": "apr_00000022",
+    "approved_at": "2026-06-08T00:27:23Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000022"
+  },
+  {
+    "approval_id": "apr_00000023",
+    "approved_at": "2026-06-07T15:50:22Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000023"
+  },
+  {
+    "approval_id": "apr_00000024",
+    "approved_at": "2026-05-31T22:46:37Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000024"
+  },
+  {
+    "approval_id": "apr_00000025",
+    "approved_at": "2026-06-07T07:25:36Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000025"
+  },
+  {
+    "approval_id": "apr_00000026",
+    "approved_at": "2026-05-21T06:50:27Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000026"
+  },
+  {
+    "approval_id": "apr_00000027",
+    "approved_at": "2026-05-24T01:32:58Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000027"
+  },
+  {
+    "approval_id": "apr_00000028",
+    "approved_at": "2026-05-14T16:57:09Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000028"
+  },
+  {
+    "approval_id": "apr_00000029",
+    "approved_at": "2026-05-22T06:35:35Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000029"
+  },
+  {
+    "approval_id": "apr_00000030",
+    "approved_at": "2026-05-21T02:46:34Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000030"
+  },
+  {
+    "approval_id": "apr_00000031",
+    "approved_at": "2026-06-07T03:51:03Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000031"
+  },
+  {
+    "approval_id": "apr_00000032",
+    "approved_at": "2026-06-04T20:57:10Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000032"
+  },
+  {
+    "approval_id": "apr_00000033",
+    "approved_at": "2026-06-10T10:57:01Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000033"
+  },
+  {
+    "approval_id": "apr_00000034",
+    "approved_at": "2026-05-15T01:45:53Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000034"
+  },
+  {
+    "approval_id": "apr_00000035",
+    "approved_at": "2026-05-20T22:33:29Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000035"
+  },
+  {
+    "approval_id": "apr_00000036",
+    "approved_at": "2026-06-11T22:50:45Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000036"
+  },
+  {
+    "approval_id": "apr_00000037",
+    "approved_at": "2026-06-07T18:20:28Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000037"
+  },
+  {
+    "approval_id": "apr_00000038",
+    "approved_at": "2026-05-19T17:41:35Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000038"
+  },
+  {
+    "approval_id": "apr_00000039",
+    "approved_at": "2026-05-13T19:28:48Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000039"
+  },
+  {
+    "approval_id": "apr_00000040",
+    "approved_at": "2026-06-05T03:30:02Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000040"
+  },
+  {
+    "approval_id": "apr_00000041",
+    "approved_at": "2026-05-16T11:55:55Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000041"
+  },
+  {
+    "approval_id": "apr_00000042",
+    "approved_at": "2026-05-14T12:57:28Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000042"
+  },
+  {
+    "approval_id": "apr_00000043",
+    "approved_at": "2026-06-02T09:35:17Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000043"
+  },
+  {
+    "approval_id": "apr_00000044",
+    "approved_at": "2026-05-25T00:49:38Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000044"
+  },
+  {
+    "approval_id": "apr_00000045",
+    "approved_at": "2026-06-06T01:42:45Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000045"
+  },
+  {
+    "approval_id": "apr_00000046",
+    "approved_at": "2026-05-16T16:10:57Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000046"
+  },
+  {
+    "approval_id": "apr_00000047",
+    "approved_at": "2026-05-21T12:44:53Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000047"
+  },
+  {
+    "approval_id": "apr_00000048",
+    "approved_at": "2026-05-27T03:36:36Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000048"
+  },
+  {
+    "approval_id": "apr_00000049",
+    "approved_at": "2026-06-09T22:14:28Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000049"
+  },
+  {
+    "approval_id": "apr_00000050",
+    "approved_at": "2026-06-07T02:52:18Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000050"
+  },
+  {
+    "approval_id": "apr_00000051",
+    "approved_at": "2026-05-26T10:08:38Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000051"
+  },
+  {
+    "approval_id": "apr_00000052",
+    "approved_at": "2026-05-18T05:12:55Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000052"
+  },
+  {
+    "approval_id": "apr_00000053",
+    "approved_at": "2026-05-25T03:36:20Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000053"
+  },
+  {
+    "approval_id": "apr_00000054",
+    "approved_at": "2026-05-27T12:32:17Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000054"
+  },
+  {
+    "approval_id": "apr_00000055",
+    "approved_at": "2026-05-16T06:52:50Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000055"
+  },
+  {
+    "approval_id": "apr_00000056",
+    "approved_at": "2026-06-10T22:35:11Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000056"
+  },
+  {
+    "approval_id": "apr_00000057",
+    "approved_at": "2026-05-27T23:15:35Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000057"
+  },
+  {
+    "approval_id": "apr_00000058",
+    "approved_at": "2026-06-12T13:47:20Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000058"
+  },
+  {
+    "approval_id": "apr_00000059",
+    "approved_at": "2026-05-26T09:00:17Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000059"
+  },
+  {
+    "approval_id": "apr_00000060",
+    "approved_at": "2026-06-07T09:57:33Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000060"
+  },
+  {
+    "approval_id": "apr_00000061",
+    "approved_at": "2026-05-17T22:14:36Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000061"
+  },
+  {
+    "approval_id": "apr_00000062",
+    "approved_at": "2026-06-07T10:12:01Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000062"
+  },
+  {
+    "approval_id": "apr_00000063",
+    "approved_at": "2026-05-25T16:28:43Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000063"
+  },
+  {
+    "approval_id": "apr_00000064",
+    "approved_at": "2026-06-07T18:57:52Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000064"
+  },
+  {
+    "approval_id": "apr_00000065",
+    "approved_at": "2026-06-06T08:10:30Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000065"
+  },
+  {
+    "approval_id": "apr_00000066",
+    "approved_at": "2026-05-14T21:05:51Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000066"
+  },
+  {
+    "approval_id": "apr_00000067",
+    "approved_at": "2026-06-12T08:31:54Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000067"
+  },
+  {
+    "approval_id": "apr_00000068",
+    "approved_at": "2026-06-01T14:37:07Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000068"
+  },
+  {
+    "approval_id": "apr_00000069",
+    "approved_at": "2026-06-09T20:00:12Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000069"
+  },
+  {
+    "approval_id": "apr_00000070",
+    "approved_at": "2026-06-02T22:06:08Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000070"
+  },
+  {
+    "approval_id": "apr_00000071",
+    "approved_at": "2026-05-22T12:07:25Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000071"
+  },
+  {
+    "approval_id": "apr_00000072",
+    "approved_at": "2026-06-13T08:47:38Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000072"
+  },
+  {
+    "approval_id": "apr_00000073",
+    "approved_at": "2026-05-24T09:44:28Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000073"
+  },
+  {
+    "approval_id": "apr_00000074",
+    "approved_at": "2026-05-17T00:08:41Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000074"
+  },
+  {
+    "approval_id": "apr_00000075",
+    "approved_at": "2026-05-14T01:55:08Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000075"
+  },
+  {
+    "approval_id": "apr_00000076",
+    "approved_at": "2026-06-06T03:15:38Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000076"
+  },
+  {
+    "approval_id": "apr_00000077",
+    "approved_at": "2026-05-14T19:06:46Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000077"
+  },
+  {
+    "approval_id": "apr_00000078",
+    "approved_at": "2026-05-15T09:58:34Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000078"
+  },
+  {
+    "approval_id": "apr_00000079",
+    "approved_at": "2026-05-20T18:40:53Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000079"
+  },
+  {
+    "approval_id": "apr_00000080",
+    "approved_at": "2026-05-25T08:25:38Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000080"
+  },
+  {
+    "approval_id": "apr_00000081",
+    "approved_at": "2026-05-24T10:29:28Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000081"
+  },
+  {
+    "approval_id": "apr_00000082",
+    "approved_at": "2026-05-26T20:09:36Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000082"
+  },
+  {
+    "approval_id": "apr_00000083",
+    "approved_at": "2026-05-29T07:30:14Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000083"
+  },
+  {
+    "approval_id": "apr_00000084",
+    "approved_at": "2026-05-16T11:24:58Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000084"
+  },
+  {
+    "approval_id": "apr_00000085",
+    "approved_at": "2026-06-11T13:55:57Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000085"
+  },
+  {
+    "approval_id": "apr_00000086",
+    "approved_at": "2026-05-20T17:42:12Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000086"
+  },
+  {
+    "approval_id": "apr_00000087",
+    "approved_at": "2026-05-15T05:15:56Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000087"
+  },
+  {
+    "approval_id": "apr_00000088",
+    "approved_at": "2026-05-21T15:56:51Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000088"
+  },
+  {
+    "approval_id": "apr_00000089",
+    "approved_at": "2026-06-08T05:09:50Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000089"
+  },
+  {
+    "approval_id": "apr_00000090",
+    "approved_at": "2026-06-01T12:09:53Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000090"
+  },
+  {
+    "approval_id": "apr_00000091",
+    "approved_at": "2026-05-16T14:46:04Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000091"
+  },
+  {
+    "approval_id": "apr_00000092",
+    "approved_at": "2026-06-08T02:57:53Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000092"
+  },
+  {
+    "approval_id": "apr_00000093",
+    "approved_at": "2026-05-27T04:07:30Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000093"
+  },
+  {
+    "approval_id": "apr_00000094",
+    "approved_at": "2026-05-20T23:52:12Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000094"
+  },
+  {
+    "approval_id": "apr_00000095",
+    "approved_at": "2026-05-29T22:37:45Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000095"
+  },
+  {
+    "approval_id": "apr_00000096",
+    "approved_at": "2026-06-08T12:45:23Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000096"
+  },
+  {
+    "approval_id": "apr_00000097",
+    "approved_at": "2026-06-11T04:36:19Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000097"
+  },
+  {
+    "approval_id": "apr_00000098",
+    "approved_at": "2026-05-30T19:36:34Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000098"
+  },
+  {
+    "approval_id": "apr_00000099",
+    "approved_at": "2026-05-21T02:03:38Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000099"
+  },
+  {
+    "approval_id": "apr_00000100",
+    "approved_at": "2026-05-14T04:47:32Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000100"
+  },
+  {
+    "approval_id": "apr_00000101",
+    "approved_at": "2026-05-29T11:39:24Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000001"
+  },
+  {
+    "approval_id": "apr_00000102",
+    "approved_at": "2026-05-20T09:35:10Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000002"
+  },
+  {
+    "approval_id": "apr_00000103",
+    "approved_at": "2026-05-28T08:35:22Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000003"
+  },
+  {
+    "approval_id": "apr_00000104",
+    "approved_at": "2026-05-14T19:34:28Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000004"
+  },
+  {
+    "approval_id": "apr_00000105",
+    "approved_at": "2026-05-31T07:41:00Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000005"
+  },
+  {
+    "approval_id": "apr_00000106",
+    "approved_at": "2026-06-08T00:58:42Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000006"
+  },
+  {
+    "approval_id": "apr_00000107",
+    "approved_at": "2026-06-06T18:09:27Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000007"
+  },
+  {
+    "approval_id": "apr_00000108",
+    "approved_at": "2026-05-20T06:27:38Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000008"
+  },
+  {
+    "approval_id": "apr_00000109",
+    "approved_at": "2026-06-06T12:03:03Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000009"
+  },
+  {
+    "approval_id": "apr_00000110",
+    "approved_at": "2026-06-11T14:14:25Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000010"
+  },
+  {
+    "approval_id": "apr_00000111",
+    "approved_at": "2026-06-10T19:01:36Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000011"
+  },
+  {
+    "approval_id": "apr_00000112",
+    "approved_at": "2026-06-06T13:17:47Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000012"
+  },
+  {
+    "approval_id": "apr_00000113",
+    "approved_at": "2026-05-14T12:11:23Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000013"
+  },
+  {
+    "approval_id": "apr_00000114",
+    "approved_at": "2026-06-10T14:28:31Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000014"
+  },
+  {
+    "approval_id": "apr_00000115",
+    "approved_at": "2026-05-20T09:55:13Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000015"
+  },
+  {
+    "approval_id": "apr_00000116",
+    "approved_at": "2026-06-03T11:37:26Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000016"
+  },
+  {
+    "approval_id": "apr_00000117",
+    "approved_at": "2026-05-19T00:58:59Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000017"
+  },
+  {
+    "approval_id": "apr_00000118",
+    "approved_at": "2026-06-04T18:21:14Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000018"
+  },
+  {
+    "approval_id": "apr_00000119",
+    "approved_at": "2026-05-27T02:01:17Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000019"
+  },
+  {
+    "approval_id": "apr_00000120",
+    "approved_at": "2026-05-30T10:21:23Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000020"
+  },
+  {
+    "approval_id": "apr_00000121",
+    "approved_at": "2026-05-28T03:30:13Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000021"
+  },
+  {
+    "approval_id": "apr_00000122",
+    "approved_at": "2026-05-24T18:42:21Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000022"
+  },
+  {
+    "approval_id": "apr_00000123",
+    "approved_at": "2026-06-12T16:16:00Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000023"
+  },
+  {
+    "approval_id": "apr_00000124",
+    "approved_at": "2026-06-06T11:45:41Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000024"
+  },
+  {
+    "approval_id": "apr_00000125",
+    "approved_at": "2026-06-01T02:41:56Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000025"
+  },
+  {
+    "approval_id": "apr_00000126",
+    "approved_at": "2026-05-18T11:09:19Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000026"
+  },
+  {
+    "approval_id": "apr_00000127",
+    "approved_at": "2026-06-06T00:54:10Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000027"
+  },
+  {
+    "approval_id": "apr_00000128",
+    "approved_at": "2026-05-16T12:20:27Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000028"
+  },
+  {
+    "approval_id": "apr_00000129",
+    "approved_at": "2026-05-16T06:40:27Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000029"
+  },
+  {
+    "approval_id": "apr_00000130",
+    "approved_at": "2026-05-29T13:16:38Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000030"
+  },
+  {
+    "approval_id": "apr_00000131",
+    "approved_at": "2026-06-06T07:36:58Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000031"
+  },
+  {
+    "approval_id": "apr_00000132",
+    "approved_at": "2026-05-26T11:41:05Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000032"
+  },
+  {
+    "approval_id": "apr_00000133",
+    "approved_at": "2026-05-27T04:01:20Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000033"
+  },
+  {
+    "approval_id": "apr_00000134",
+    "approved_at": "2026-06-02T08:41:39Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000034"
+  },
+  {
+    "approval_id": "apr_00000135",
+    "approved_at": "2026-06-11T05:35:13Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000035"
+  },
+  {
+    "approval_id": "apr_00000136",
+    "approved_at": "2026-05-31T05:30:29Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000036"
+  },
+  {
+    "approval_id": "apr_00000137",
+    "approved_at": "2026-06-13T09:57:59Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000037"
+  },
+  {
+    "approval_id": "apr_00000138",
+    "approved_at": "2026-06-11T23:22:32Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000038"
+  },
+  {
+    "approval_id": "apr_00000139",
+    "approved_at": "2026-06-04T11:06:53Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000039"
+  },
+  {
+    "approval_id": "apr_00000140",
+    "approved_at": "2026-06-11T10:12:57Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000040"
+  },
+  {
+    "approval_id": "apr_00000141",
+    "approved_at": "2026-05-24T02:40:42Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000041"
+  },
+  {
+    "approval_id": "apr_00000142",
+    "approved_at": "2026-05-21T09:23:38Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000042"
+  },
+  {
+    "approval_id": "apr_00000143",
+    "approved_at": "2026-05-22T22:19:11Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000043"
+  },
+  {
+    "approval_id": "apr_00000144",
+    "approved_at": "2026-06-01T20:36:24Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000044"
+  },
+  {
+    "approval_id": "apr_00000145",
+    "approved_at": "2026-05-14T18:02:52Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000045"
+  },
+  {
+    "approval_id": "apr_00000146",
+    "approved_at": "2026-05-14T05:30:56Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000046"
+  },
+  {
+    "approval_id": "apr_00000147",
+    "approved_at": "2026-06-11T06:40:13Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000047"
+  },
+  {
+    "approval_id": "apr_00000148",
+    "approved_at": "2026-05-29T14:37:37Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000048"
+  },
+  {
+    "approval_id": "apr_00000149",
+    "approved_at": "2026-05-24T01:46:58Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000049"
+  },
+  {
+    "approval_id": "apr_00000150",
+    "approved_at": "2026-06-11T03:39:03Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000050"
+  },
+  {
+    "approval_id": "apr_00000151",
+    "approved_at": "2026-05-28T08:14:16Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000051"
+  },
+  {
+    "approval_id": "apr_00000152",
+    "approved_at": "2026-05-15T08:05:55Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000052"
+  },
+  {
+    "approval_id": "apr_00000153",
+    "approved_at": "2026-05-18T00:25:02Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000053"
+  },
+  {
+    "approval_id": "apr_00000154",
+    "approved_at": "2026-05-28T21:59:00Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000054"
+  },
+  {
+    "approval_id": "apr_00000155",
+    "approved_at": "2026-05-31T10:01:51Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000055"
+  },
+  {
+    "approval_id": "apr_00000156",
+    "approved_at": "2026-06-09T02:52:03Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000056"
+  },
+  {
+    "approval_id": "apr_00000157",
+    "approved_at": "2026-05-21T11:34:07Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000057"
+  },
+  {
+    "approval_id": "apr_00000158",
+    "approved_at": "2026-06-11T15:56:06Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000058"
+  },
+  {
+    "approval_id": "apr_00000159",
+    "approved_at": "2026-05-29T21:15:12Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000059"
+  },
+  {
+    "approval_id": "apr_00000160",
+    "approved_at": "2026-06-10T19:01:56Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000060"
+  },
+  {
+    "approval_id": "apr_00000161",
+    "approved_at": "2026-06-09T07:04:09Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000061"
+  },
+  {
+    "approval_id": "apr_00000162",
+    "approved_at": "2026-05-27T12:28:16Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000062"
+  },
+  {
+    "approval_id": "apr_00000163",
+    "approved_at": "2026-06-02T04:15:00Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000063"
+  },
+  {
+    "approval_id": "apr_00000164",
+    "approved_at": "2026-05-28T06:43:11Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000064"
+  },
+  {
+    "approval_id": "apr_00000165",
+    "approved_at": "2026-05-23T07:40:23Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000065"
+  },
+  {
+    "approval_id": "apr_00000166",
+    "approved_at": "2026-05-21T07:12:27Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000066"
+  },
+  {
+    "approval_id": "apr_00000167",
+    "approved_at": "2026-05-14T23:45:37Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000067"
+  },
+  {
+    "approval_id": "apr_00000168",
+    "approved_at": "2026-05-24T05:58:35Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000068"
+  },
+  {
+    "approval_id": "apr_00000169",
+    "approved_at": "2026-05-27T16:05:18Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000069"
+  },
+  {
+    "approval_id": "apr_00000170",
+    "approved_at": "2026-05-19T04:02:30Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000070"
+  },
+  {
+    "approval_id": "apr_00000171",
+    "approved_at": "2026-05-27T18:27:41Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000071"
+  },
+  {
+    "approval_id": "apr_00000172",
+    "approved_at": "2026-05-14T06:23:01Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000072"
+  },
+  {
+    "approval_id": "apr_00000173",
+    "approved_at": "2026-05-16T05:42:00Z",
+    "approver_role": "risk_lead",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000073"
+  },
+  {
+    "approval_id": "apr_00000174",
+    "approved_at": "2026-05-21T00:15:54Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000074"
+  },
+  {
+    "approval_id": "apr_00000175",
+    "approved_at": "2026-05-15T13:47:42Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000075"
+  },
+  {
+    "approval_id": "apr_00000176",
+    "approved_at": "2026-05-22T03:20:32Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000076"
+  },
+  {
+    "approval_id": "apr_00000177",
+    "approved_at": "2026-06-05T15:40:37Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000077"
+  },
+  {
+    "approval_id": "apr_00000178",
+    "approved_at": "2026-05-22T21:11:53Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000078"
+  },
+  {
+    "approval_id": "apr_00000179",
+    "approved_at": "2026-05-24T17:22:54Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000079"
+  },
+  {
+    "approval_id": "apr_00000180",
+    "approved_at": "2026-06-03T17:11:31Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000080"
+  },
+  {
+    "approval_id": "apr_00000181",
+    "approved_at": "2026-06-08T20:03:40Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000081"
+  },
+  {
+    "approval_id": "apr_00000182",
+    "approved_at": "2026-05-27T04:09:30Z",
+    "approver_role": "analyst",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000082"
+  },
+  {
+    "approval_id": "apr_00000183",
+    "approved_at": "2026-05-19T22:19:08Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000083"
+  },
+  {
+    "approval_id": "apr_00000184",
+    "approved_at": "2026-06-09T03:53:42Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000084"
+  },
+  {
+    "approval_id": "apr_00000185",
+    "approved_at": "2026-05-26T16:29:42Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000085"
+  },
+  {
+    "approval_id": "apr_00000186",
+    "approved_at": "2026-05-29T21:52:08Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000086"
+  },
+  {
+    "approval_id": "apr_00000187",
+    "approved_at": "2026-05-29T03:33:39Z",
+    "approver_role": "analyst",
+    "decision": "approve",
+    "investigation_id": "inv_00000087"
+  },
+  {
+    "approval_id": "apr_00000188",
+    "approved_at": "2026-05-18T04:04:47Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000088"
+  },
+  {
+    "approval_id": "apr_00000189",
+    "approved_at": "2026-05-13T22:24:32Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000089"
+  },
+  {
+    "approval_id": "apr_00000190",
+    "approved_at": "2026-06-12T08:49:28Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000090"
+  },
+  {
+    "approval_id": "apr_00000191",
+    "approved_at": "2026-06-07T03:40:23Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000091"
+  },
+  {
+    "approval_id": "apr_00000192",
+    "approved_at": "2026-06-10T03:05:31Z",
+    "approver_role": "manager",
+    "decision": "approve",
+    "investigation_id": "inv_00000092"
+  },
+  {
+    "approval_id": "apr_00000193",
+    "approved_at": "2026-06-10T22:59:33Z",
+    "approver_role": "risk_lead",
+    "decision": "approve",
+    "investigation_id": "inv_00000093"
+  },
+  {
+    "approval_id": "apr_00000194",
+    "approved_at": "2026-06-07T03:19:27Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000094"
+  },
+  {
+    "approval_id": "apr_00000195",
+    "approved_at": "2026-06-07T21:29:33Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000095"
+  },
+  {
+    "approval_id": "apr_00000196",
+    "approved_at": "2026-06-07T17:23:37Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000096"
+  },
+  {
+    "approval_id": "apr_00000197",
+    "approved_at": "2026-06-08T04:43:04Z",
+    "approver_role": "risk_lead",
+    "decision": "reject",
+    "investigation_id": "inv_00000097"
+  },
+  {
+    "approval_id": "apr_00000198",
+    "approved_at": "2026-05-30T11:27:12Z",
+    "approver_role": "analyst",
+    "decision": "reject",
+    "investigation_id": "inv_00000098"
+  },
+  {
+    "approval_id": "apr_00000199",
+    "approved_at": "2026-06-04T23:22:42Z",
+    "approver_role": "manager",
+    "decision": "reject",
+    "investigation_id": "inv_00000099"
+  },
+  {
+    "approval_id": "apr_00000200",
+    "approved_at": "2026-06-09T12:52:14Z",
+    "approver_role": "manager",
+    "decision": "request_more_info",
+    "investigation_id": "inv_00000100"
+  }
+]

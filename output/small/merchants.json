@@ -1,0 +1,272 @@
+[
+  {
+    "category": "utilities",
+    "city": "Chennai",
+    "country": "IN",
+    "mcc": 8359,
+    "merchant_id": "mch_00000001",
+    "merchant_name": "Axis Trade 1",
+    "risk_profile": "high"
+  },
+  {
+    "category": "electronics",
+    "city": "Ahmedabad",
+    "country": "IN",
+    "mcc": 4387,
+    "merchant_id": "mch_00000002",
+    "merchant_name": "Axis Retail 2",
+    "risk_profile": "high"
+  },
+  {
+    "category": "electronics",
+    "city": "Kolkata",
+    "country": "IN",
+    "mcc": 9869,
+    "merchant_id": "mch_00000003",
+    "merchant_name": "Vertex Trade 3",
+    "risk_profile": "high"
+  },
+  {
+    "category": "fashion",
+    "city": "Mumbai",
+    "country": "IN",
+    "mcc": 3262,
+    "merchant_id": "mch_00000004",
+    "merchant_name": "Vertex Foods 4",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "electronics",
+    "city": "Chennai",
+    "country": "IN",
+    "mcc": 8046,
+    "merchant_id": "mch_00000005",
+    "merchant_name": "Nimbus Retail 5",
+    "risk_profile": "low"
+  },
+  {
+    "category": "electronics",
+    "city": "Hyderabad",
+    "country": "IN",
+    "mcc": 6201,
+    "merchant_id": "mch_00000006",
+    "merchant_name": "Prime Tech 6",
+    "risk_profile": "low"
+  },
+  {
+    "category": "travel",
+    "city": "Kolkata",
+    "country": "IN",
+    "mcc": 4016,
+    "merchant_id": "mch_00000007",
+    "merchant_name": "BluePeak Foods 7",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "electronics",
+    "city": "Kolkata",
+    "country": "IN",
+    "mcc": 1483,
+    "merchant_id": "mch_00000008",
+    "merchant_name": "Axis Foods 8",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "gaming",
+    "city": "Ahmedabad",
+    "country": "IN",
+    "mcc": 7737,
+    "merchant_id": "mch_00000009",
+    "merchant_name": "Nimbus Trade 9",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "fuel",
+    "city": "Bengaluru",
+    "country": "IN",
+    "mcc": 5485,
+    "merchant_id": "mch_00000010",
+    "merchant_name": "Axis Retail 10",
+    "risk_profile": "low"
+  },
+  {
+    "category": "fashion",
+    "city": "Hyderabad",
+    "country": "IN",
+    "mcc": 2749,
+    "merchant_id": "mch_00000011",
+    "merchant_name": "Nimbus Foods 11",
+    "risk_profile": "low"
+  },
+  {
+    "category": "electronics",
+    "city": "Kolkata",
+    "country": "IN",
+    "mcc": 1429,
+    "merchant_id": "mch_00000012",
+    "merchant_name": "Axis Tech 12",
+    "risk_profile": "high"
+  },
+  {
+    "category": "food_delivery",
+    "city": "Ahmedabad",
+    "country": "IN",
+    "mcc": 4783,
+    "merchant_id": "mch_00000013",
+    "merchant_name": "Atlas Foods 13",
+    "risk_profile": "high"
+  },
+  {
+    "category": "fashion",
+    "city": "Hyderabad",
+    "country": "IN",
+    "mcc": 4783,
+    "merchant_id": "mch_00000014",
+    "merchant_name": "Nimbus Logistics 14",
+    "risk_profile": "high"
+  },
+  {
+    "category": "grocery",
+    "city": "Ahmedabad",
+    "country": "IN",
+    "mcc": 6886,
+    "merchant_id": "mch_00000015",
+    "merchant_name": "Axis Logistics 15",
+    "risk_profile": "low"
+  },
+  {
+    "category": "fuel",
+    "city": "Pune",
+    "country": "IN",
+    "mcc": 3196,
+    "merchant_id": "mch_00000016",
+    "merchant_name": "Vertex Foods 16",
+    "risk_profile": "high"
+  },
+  {
+    "category": "fuel",
+    "city": "Chennai",
+    "country": "IN",
+    "mcc": 7126,
+    "merchant_id": "mch_00000017",
+    "merchant_name": "Nimbus Logistics 17",
+    "risk_profile": "low"
+  },
+  {
+    "category": "gaming",
+    "city": "Chennai",
+    "country": "IN",
+    "mcc": 9051,
+    "merchant_id": "mch_00000018",
+    "merchant_name": "Atlas Logistics 18",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "electronics",
+    "city": "Hyderabad",
+    "country": "IN",
+    "mcc": 3683,
+    "merchant_id": "mch_00000019",
+    "merchant_name": "Axis Tech 19",
+    "risk_profile": "low"
+  },
+  {
+    "category": "fashion",
+    "city": "Pune",
+    "country": "IN",
+    "mcc": 1528,
+    "merchant_id": "mch_00000020",
+    "merchant_name": "BluePeak Logistics 20",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "grocery",
+    "city": "Kolkata",
+    "country": "IN",
+    "mcc": 5421,
+    "merchant_id": "mch_00000021",
+    "merchant_name": "Atlas Retail 21",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "fashion",
+    "city": "Bengaluru",
+    "country": "IN",
+    "mcc": 4323,
+    "merchant_id": "mch_00000022",
+    "merchant_name": "BluePeak Logistics 22",
+    "risk_profile": "low"
+  },
+  {
+    "category": "travel",
+    "city": "Pune",
+    "country": "IN",
+    "mcc": 3901,
+    "merchant_id": "mch_00000023",
+    "merchant_name": "Atlas Retail 23",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "fuel",
+    "city": "Hyderabad",
+    "country": "IN",
+    "mcc": 6323,
+    "merchant_id": "mch_00000024",
+    "merchant_name": "Axis Retail 24",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "fashion",
+    "city": "Ahmedabad",
+    "country": "IN",
+    "mcc": 8005,
+    "merchant_id": "mch_00000025",
+    "merchant_name": "BluePeak Logistics 25",
+    "risk_profile": "medium"
+  },
+  {
+    "category": "grocery",
+    "city": "Pune",
+    "country": "IN",
+    "mcc": 7232,
+    "merchant_id": "mch_00000026",
+    "merchant_name": "Vertex Foods 26",
+    "risk_profile": "high"
+  },
+  {
+    "category": "utilities",
+    "city": "Bengaluru",
+    "country": "IN",
+    "mcc": 7457,
+    "merchant_id": "mch_00000027",
+    "merchant_name": "Nimbus Logistics 27",
+    "risk_profile": "high"
+  },
+  {
+    "category": "grocery",
+    "city": "Chennai",
+    "country": "IN",
+    "mcc": 9530,
+    "merchant_id": "mch_00000028",
+    "merchant_name": "Prime Trade 28",
+    "risk_profile": "low"
+  },
+  {
+    "category": "fuel",
+    "city": "Chennai",
+    "country": "IN",
+    "mcc": 8485,
+    "merchant_id": "mch_00000029",
+    "merchant_name": "Vertex Retail 29",
+    "risk_profile": "low"
+  },
+  {
+    "category": "fashion",
+    "city": "Mumbai",
+    "country": "IN",
+    "mcc": 9498,
+    "merchant_id": "mch_00000030",
+    "merchant_name": "Axis Foods 30",
+    "risk_profile": "high"
+  }
+]
